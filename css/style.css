@@ -121,7 +121,7 @@ ol li {
 }
 
 a {
-  color: #f51f8a;
+  color: #B43631;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -131,7 +131,7 @@ a {
 a:focus,
 a:hover {
   text-decoration: none;
-  color: #15549a;
+  color: #31AFB4;
 }
 
 strong {
@@ -142,7 +142,7 @@ blockquote {
   padding: 10px 20px;
   margin: 0 0 0px;
   font-size: 21px;
-  border-left: 5px solid #15549a;
+  border-left: 5px solid #31AFB4;
   color: #414346;
   font-style: italic;
   line-height: 35px;
@@ -178,7 +178,7 @@ p:last-child {
 }
 
 .highlight {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .listnone {
@@ -226,7 +226,7 @@ p:last-child {
 }
 
 .text-default {
-  color: #f51f8a !important;
+  color: #B43631 !important;
 }
 
 .text-danger {
@@ -242,19 +242,19 @@ p:last-child {
 }
 
 .border-primary {
-  border-color: #15549a !important;
+  border-color: #31AFB4 !important;
 }
 
 .text-primary {
-  color: #15549a !important;
+  color: #31AFB4 !important;
 }
 
 .border-default {
-  border-color: #f51f8a !important;
+  border-color: #B43631 !important;
 }
 
 .border-top-default {
-  border-top: 3px solid #f51f8a;
+  border-top: 3px solid #B43631;
 }
 
 /*-----------------------------------
@@ -579,12 +579,12 @@ Background & Block color
 }
 
 .bg-primary {
-  background-color: #15549a !important;
+  background-color: #31AFB4 !important;
   color: #778191;
 }
 
 .bg-default {
-  background-color: #f51f8a;
+  background-color: #B43631;
 }
 
 .bg-default-light {
@@ -662,7 +662,7 @@ Background & Block color
 }
 
 .bg-pink {
-  background-color: #f51f8a !important;
+  background-color: #B43631 !important;
 }
 
 .bg-dark {
@@ -674,11 +674,11 @@ Background & Block color
 }
 
 .bg-light-blue {
-  background-color: #15549a;
+  background-color: #31AFB4;
 }
 
 .text-pink {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .text-info {
@@ -721,22 +721,22 @@ Buttons
 }
 
 .btn-secondary {
-  background-color: #f51f8a;
+  background-color: #B43631;
   color: #fff;
-  border-color: #f51f8a;
+  border-color: #B43631;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #ff389c;
-  border-color: #ff389c;
+  background-color: #e84942;
+  border-color: #e84942;
 }
 
 .btn-secondary.focus,
 .btn-secondary:focus {
   color: #fff;
-  background-color: #ff389c;
-  border-color: #ff389c;
+  background-color: #e84942;
+  border-color: #e84942;
   box-shadow: 0 0 0 0.2rem hsla(330, 91%, 54%, 0.5);
 }
 
@@ -744,8 +744,8 @@ Buttons
 .btn-secondary:not(:disabled):not(.disabled):active,
 .show > .btn-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #ff389c;
-  border-color: #ff389c;
+  background-color: #e84942;
+  border-color: #e84942;
 }
 
 .btn-secondary:not(:disabled):not(.disabled).active:focus,
@@ -755,9 +755,9 @@ Buttons
 }
 
 .btn-primary {
-  background-color: #15549a;
+  background-color: #31AFB4;
   color: #fff;
-  border-color: #15549a;
+  border-color: #31AFB4;
 }
 
 .btn-primary:hover {
@@ -819,28 +819,28 @@ Buttons
 }
 
 .btn-link {
-  color: #15549a;
+  color: #31AFB4;
   font-weight: 500;
   padding-bottom: 4px;
-  border-bottom: 2px solid #15549a;
+  border-bottom: 2px solid #31AFB4;
   display: inline-block;
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #f51f8a;
+  color: #B43631;
   font-weight: 500;
   padding-bottom: 4px;
-  border-bottom: 2px solid #f51f8a;
+  border-bottom: 2px solid #B43631;
   text-decoration: none;
 }
 
 .btn-link.focus,
 .btn-link:focus {
   text-decoration: none;
-  border-color: #f51f8a;
+  border-color: #B43631;
   box-shadow: none;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .btn-link-white {
@@ -858,13 +858,13 @@ Buttons
 }
 
 .btn-secondary-link {
-  color: #f51f8a;
+  color: #B43631;
   font-weight: 500;
   text-decoration: none;
 }
 
 .btn-secondary-link:hover {
-  color: #15549a;
+  color: #31AFB4;
 }
 
 /*-----------------------------------------
@@ -988,7 +988,7 @@ Bullet
   position: absolute;
   left: 0;
   font-size: 15px;
-  color: #15549a;
+  color: #31AFB4;
   content: "\f058";
 }
 
@@ -1024,7 +1024,7 @@ Bullet
 }
 
 .list-pdf-file li a:hover {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 /*-----------------------------------------
@@ -1052,11 +1052,11 @@ icon
 }
 
 .icon-default {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .icon-primary {
-  color: #15549a;
+  color: #31AFB4;
 }
 
 .icon-secondary {
@@ -1070,7 +1070,7 @@ icon
 /*-------- updated v 1.0.2 -------*/
 
 .fa-default {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .fa-success {
@@ -1099,9 +1099,9 @@ top bar
 .header-topbar {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #15549a;
+  background-color: #31AFB4;
   font-size: 12px;
-  color: #83bcfa;
+  color: #14212D;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -1112,7 +1112,7 @@ top bar
 }
 
 .top-text a {
-  color: #83bcfa;
+  color: #14212D;
 }
 
 .top-text a:hover {
@@ -1170,22 +1170,7 @@ top bar
 }
 
 .slider-img {
-  background: -moz-linear-gradient(
-    top,
-    rgba(16, 75, 149, 0.8) 0%,
-    rgba(16, 75, 149, 0.8) 100%
-  );
-  background: -webkit-linear-gradient(
-    top,
-    rgba(16, 75, 149, 0.8) 0%,
-    rgba(16, 75, 149, 0.8) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    rgba(16, 75, 149, 0.8) 0%,
-    rgba(16, 75, 149, 0.8) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc1b2429', endColorstr='#cc1b2429', GradientType=0);
+
   position: relative;
 }
 
@@ -1233,7 +1218,7 @@ top bar
 #slider .owl-prev:hover {
   background-color: #fff !important;
   border: 2px solid #fff;
-  color: #15549a;
+  color: #31AFB4;
 }
 
 #slider .owl-pagination {
@@ -1298,11 +1283,11 @@ index-1
   border: none;
   padding: 87px 0px;
   background: linear-gradient(rgba(16, 75, 149, 0.8), rgba(16, 75, 149, 0.8)),
-    rgba(16, 75, 149, 0.8) url(../images/cta-img.jpg) no-repeat center;
+    rgba(16, 75, 149, 0.8) url(../images/why-us.jpg) no-repeat center;
 }
 
 .testimonial-name-1 {
-  color: #15549a;
+  color: #31AFB4;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
@@ -1323,7 +1308,7 @@ index-1
 }
 
 .top-nav-collapse {
-  background-color: #15549a;
+  background-color: #31AFB4;
 }
 
 .lender-logo-section {
@@ -1385,7 +1370,7 @@ index-1
 }
 
 .service-rate-block .product-rate {
-  color: #f51f8a;
+  color: #B43631;
   margin-bottom: 6px;
   font-size: 18px;
 }
@@ -1418,11 +1403,11 @@ index-1
 .customer-name {
   font-size: 14px;
   font-weight: 600;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .customer-quote-circle {
-  background-color: #f51f8a;
+  background-color: #B43631;
   border-radius: 100%;
   padding: 10px;
   position: absolute;
@@ -1444,7 +1429,7 @@ index-1
 .how-it-no {
   font-size: 76px;
   line-height: 86px;
-  color: #15549a;
+  color: #31AFB4;
 }
 
 /*------------------------------------
@@ -1562,7 +1547,7 @@ index-1
 }
 
 .lead-calculator {
-  background: #15549a;
+  background: #31AFB4;
   color: #fff;
   border-radius: 6px;
 }
@@ -1590,9 +1575,9 @@ index-1
   background-color: transparent;
   width: 60px;
   height: 60px;
-  border: 2px solid #f51f8a;
+  border: 2px solid #B43631;
   border-radius: 100px;
-  color: #f51f8a;
+  color: #B43631;
   text-align: center;
   padding: 10px;
   margin: 0px auto 30px auto;
@@ -1605,7 +1590,7 @@ index-1
 }
 
 .highlight-outline.outline:hover {
-  border-color: #15549a;
+  border-color: #31AFB4;
   -webkit-box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.2);
@@ -1664,7 +1649,7 @@ index-1
 }
 
 .lead-calculator .slider .ui-widget-content .ui-state-default {
-  background-color: #f51f8a !important;
+  background-color: #B43631 !important;
   border-radius: 100%;
 }
 
@@ -1717,7 +1702,7 @@ index-1
 
 .hero-tab-block .st-tabs .nav-tabs .nav-item.show .nav-link,
 .hero-tab-block .nav-tabs .nav-link.active {
-  color: #f51f8a;
+  color: #B43631;
   background-color: white;
   border-color: #ffffff #ffffff #ffffff #ffffff;
 }
@@ -1781,7 +1766,7 @@ index-1
 .nice-select:active,
 .nice-select.open,
 .nice-select:focus {
-  border-color: #15549a;
+  border-color: #31AFB4;
 }
 
 .nice-select:after {
@@ -1941,8 +1926,8 @@ index-1
 
 .process-section .circle {
   background-color: #fff;
-  border: 3px solid #f51f8a;
-  color: #f51f8a;
+  border: 3px solid #B43631;
+  color: #B43631;
   margin: -32px auto 18px auto;
   position: relative;
 }
@@ -2065,7 +2050,7 @@ index-1
 
 .loan-rate-table .table > thead > tr > th {
   text-align: center;
-  color: #15549a;
+  color: #31AFB4;
   font-size: 18px;
   border-top: transparent;
   border-bottom: transparent;
@@ -2310,8 +2295,8 @@ compare Student loan table
 .card-benefit-tabs .st-tabs .nav-tabs .nav-item.show .nav-link,
 .card-benefit-tabs .st-tabs .nav-tabs .nav-link.active {
   color: #ffffff;
-  background-color: #15549a;
-  border-color: #15549a;
+  background-color: #31AFB4;
+  border-color: #31AFB4;
 }
 
 .card-rate-info .list-group-item {
@@ -2375,7 +2360,7 @@ compare Student loan table
   font-style: initial;
   text-transform: capitalize;
   font-weight: 500;
-  color: #15549a;
+  color: #31AFB4;
 }
 
 .post-caption-block {
@@ -2418,7 +2403,7 @@ compare Student loan table
 
 .bank-account-tabs.st-tabs .nav-tabs .nav-item.show .nav-link,
 .bank-account-tabs.st-tabs .nav-tabs .nav-link.active {
-  color: #f51f8a;
+  color: #B43631;
   background-color: #ffffff;
   border-color: #eff1f3 #eff1f3 #fff #eff1f3;
 }
@@ -2447,8 +2432,8 @@ Service Page & Block Css
 
 #service .owl-next:hover,
 #service .owl-prev:hover {
-  background-color: #f51f8a !important;
-  border: 2px solid #f51f8a;
+  background-color: #B43631 !important;
+  border: 2px solid #B43631;
   color: #fff;
 }
 
@@ -2463,7 +2448,7 @@ Service Page & Block Css
 }
 
 .service-block:hover i {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 #service .owl-controls {
@@ -2500,9 +2485,9 @@ Service-img
   background-color: #e3f0fe;
   width: 60px;
   height: 60px;
-  border: 1px solid #15549a;
+  border: 1px solid #31AFB4;
   border-radius: 100px;
-  color: #15549a;
+  color: #31AFB4;
   margin: -70px auto 40px auto;
   padding: 10px;
   text-align: center;
@@ -2533,7 +2518,7 @@ Service-img
 }
 
 .circle-default {
-  background-color: #f51f8a;
+  background-color: #B43631;
   color: #fff;
 }
 
@@ -2564,7 +2549,7 @@ testimonial
 }
 
 .testimonial-title {
-  color: #f51f8a;
+  color: #B43631;
   margin-bottom: 0px;
 }
 
@@ -2578,7 +2563,7 @@ testimonial
 }
 
 .testimonial-name-inverse {
-  color: #15549a;
+  color: #31AFB4;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
@@ -2627,7 +2612,7 @@ footer
 }
 
 .widget-footer ul li a:hover {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .tiny-footer {
@@ -2670,7 +2655,7 @@ footer
 }
 
 .widget-social ul li a:hover {
-  color: #f51f8a;
+  color: #B43631;
   text-decoration: underline;
 }
 
@@ -2704,7 +2689,7 @@ Page header
 .rate-number {
   margin-bottom: 0px;
   line-height: 1;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .btn-action {
@@ -2733,18 +2718,18 @@ Page header
 
 .sub-nav > .nav li a:hover {
   background-color: #fff;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .sub-nav > .nav li a:focus {
   background-color: #fff;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .sub-nav > .nav li.active a {
   color: red;
   background-color: #fff;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .page-breadcrumb .breadcrumb {
@@ -2752,7 +2737,7 @@ Page header
   padding: 0px;
   font-size: 12px;
   text-transform: uppercase;
-  color: #15549a;
+  color: #31AFB4;
   font-weight: 700;
 }
 
@@ -2762,17 +2747,17 @@ Page header
 }
 
 .page-breadcrumb .breadcrumb > li a {
-  color: #15549a;
+  color: #31AFB4;
   font-weight: 700;
 }
 
 .page-breadcrumb .breadcrumb > li a:hover {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .page-breadcrumb .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #15549a;
+  color: #31AFB4;
   content: "/\00a0";
 }
 
@@ -2847,11 +2832,11 @@ Blog
 
 .prev-link:hover,
 .next-link:hover {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .meta-date {
-  color: #f51f8a;
+  color: #B43631;
   font-weight: 600;
 }
 
@@ -2886,7 +2871,7 @@ Blog-sidebar
 
 .widget-category li a:hover,
 .widget-archives li a:hover {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .widget-tags a {
@@ -2904,9 +2889,9 @@ Blog-sidebar
 }
 
 .widget-tags a:hover {
-  background-color: #f51f8a;
+  background-color: #B43631;
   color: #fff;
-  border-color: #f51f8a;
+  border-color: #B43631;
 }
 
 /*----- post-author-----*/
@@ -3045,7 +3030,7 @@ Blog-single
 .name {
   font-size: 14px;
   text-transform: uppercase;
-  color: #f51f8a;
+  color: #B43631;
   font-weight: 600;
   padding-left: 30px;
 }
@@ -3079,8 +3064,8 @@ Pagination
 .st-pagination .pagination > li > span:hover {
   z-index: 2;
   color: #fff;
-  background-color: #f51f8a;
-  border-color: #f51f8a;
+  background-color: #B43631;
+  border-color: #B43631;
   border-radius: 4px;
 }
 
@@ -3104,8 +3089,8 @@ Pagination
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #f51f8a;
-  border-color: #f51f8a;
+  background-color: #B43631;
+  border-color: #B43631;
   border-radius: 4px;
 }
 
@@ -3240,15 +3225,15 @@ Extra Plugin CSS - Back to top
 
 .portfolioFilter a:hover {
   color: #fff;
-  background-color: #f51f8a;
-  border: 1px solid #f51f8a;
+  background-color: #B43631;
+  border: 1px solid #B43631;
 }
 
 .portfolioFilter a.current {
   color: #fff;
   text-decoration: none;
-  background-color: #f51f8a;
-  border: 1px solid #f51f8a;
+  background-color: #B43631;
+  border: 1px solid #B43631;
 }
 
 /*---------- Thumbnail hover effect -------*/
@@ -3439,7 +3424,7 @@ Team
 
 .designation {
   font-size: 12px;
-  color: #f51f8a;
+  color: #B43631;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -3459,7 +3444,7 @@ About us
 
 .text-big {
   font-size: 20px;
-  color: #f51f8a;
+  color: #B43631;
   font-weight: 600;
   margin-bottom: 0px;
 }
@@ -3497,7 +3482,7 @@ Contact us
 }
 
 .slide-ranger .ui-widget-header {
-  background-color: #f51f8a;
+  background-color: #B43631;
 }
 
 .slide-ranger .ui-state-default,
@@ -3506,12 +3491,12 @@ Contact us
 }
 
 .slide-ranger .ui-widget.ui-widget-content {
-  border: 1px solid #f51f8a;
+  border: 1px solid #B43631;
 }
 
 .slide-ranger .ui-slider .ui-slider-handle {
   border-radius: 100%;
-  border: 3px solid #f51f8a;
+  border: 3px solid #B43631;
 }
 
 /*--------------------------------
@@ -3530,7 +3515,7 @@ Product Single Sidebar
 .product-tabs .nav > li.active a {
   border-right: 1px solid #f4f6f8;
   background: #eff3f8;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .product-tabs .nav > li > a {
@@ -3549,7 +3534,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .product-tabs .nav > li > a i {
@@ -3573,7 +3558,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #f51f8a;
+  color: #B43631;
 }
 
 .product-tabs .nav-tabs .nav-item.show .nav-link,
@@ -3772,7 +3757,7 @@ Loan Eligibility Page
 .eligibility-amount {
   font-size: 52px;
   font-weight: 600;
-  color: #15549a;
+  color: #31AFB4;
 }
 
 .eligibility-text {
@@ -3793,7 +3778,7 @@ Shortcodes
 
 .st-tabs .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-  color: #f51f8a;
+  color: #B43631;
   background-color: transparent;
   border-color: #dee7f2 #dee7f2 #ffffff #dee7f2;
 }
@@ -3816,7 +3801,7 @@ Shortcodes
 }
 
 .st-tabs a:hover {
-  color: #f51f8a;
+  color: #B43631;
 }
 
 /*-----------------------------------------
@@ -3854,7 +3839,7 @@ Error-page
 
 .msg {
   font-size: 24px;
-  color: #f51f8a;
+  color: #B43631;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -3938,7 +3923,7 @@ Landing Page Template
   border-radius: 100%;
   padding: 18px 19px;
   margin-bottom: 30px;
-  color: #15549a;
+  color: #31AFB4;
   display: block;
   line-height: 1.2;
   text-align: center;
@@ -3952,7 +3937,7 @@ Landing Page Template
 
 .feature-left .feature-icon {
   float: left;
-  color: #15549a;
+  color: #31AFB4;
   font-size: 28px;
   line-height: 1;
 }
@@ -3982,7 +3967,7 @@ Landing Page Template
   border-radius: 100px;
   padding: 24px;
   text-align: center;
-  color: #15549a;
+  color: #31AFB4;
 }
 
 .feature-icon-style .feature-title {
@@ -3999,7 +3984,7 @@ Landing Page Template
   height: 60px;
   border-radius: 100px;
   padding: 14px;
-  color: #15549a;
+  color: #31AFB4;
   font-size: 26px;
   text-align: center;
 }
@@ -4109,7 +4094,7 @@ Landing Page Template
 .credit-card-tab.nav-pills .nav-link.active,
 .credit-card-tab.nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #f51f8a;
+  background-color: #B43631;
 }
 
 .icon-shape {
@@ -4141,17 +4126,17 @@ Landing Page Template
 }
 
 .btn-outline-primary {
-  color: #15549a;
+  color: #31AFB4;
 
   background-color: transparent;
-  border: 1px solid #15549a;
+  border: 1px solid #31AFB4;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
 
-  background-color: #15549a;
-  border: 1px solid #15549a;
+  background-color: #31AFB4;
+  border: 1px solid #31AFB4;
 }
 
 .pdt100 {
@@ -4290,7 +4275,7 @@ Landing Page Template
 
 .forex-nav .nav.nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #f51f8a;
+  color: #B43631;
   background-color: transparent;
   border-bottom: 2px solid;
   border-radius: 0px;
@@ -4313,7 +4298,7 @@ Landing Page Template
   line-height: 1.42857143;
   vertical-align: top;
 
-  background-color: #15549a;
+  background-color: #31AFB4;
   border: none;
   color: #fff;
   font-weight: 600;
@@ -4343,15 +4328,15 @@ Landing Page Template
 }
 
 .btn-outline-default {
-  border: 1px solid #f51f8a;
-  color: #f51f8a;
+  border: 1px solid #B43631;
+  color: #B43631;
   background-color: #fff;
 }
 
 .btn-outline-default:hover {
-  border: 1px solid #f51f8a;
+  border: 1px solid #B43631;
   color: #fff;
-  background-color: #f51f8a;
+  background-color: #B43631;
 }
 
 .w-20 {
@@ -4573,7 +4558,7 @@ Landing Page Template
   /*--------------- index - 4 ()-------------*/
   .header-transparent {
     position: relative;
-    background-color: #15549a;
+    background-color: #31AFB4;
   }
 
   .video-play {
