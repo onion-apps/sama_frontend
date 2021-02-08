@@ -1,6 +1,6 @@
 <?php 
-$to = 'chauhanjeet3@gmail.com'; // Put in your email address here
-$subject  = "Borrow Loan - Newsletter Form Data"; // The default subject. Will appear by default in all messages. Change this if you want.
+$to = 'samagrowthinvest@gmail.com'; // Put in your email address here
+$subject  = "Sama Investments"; // The default subject. Will appear by default in all messages. Change this if you want.
 
 // User info (DO NOT EDIT!)
 $newsletteremail = stripslashes($_REQUEST['newsletteremail']); // sender's name
