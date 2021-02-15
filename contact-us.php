@@ -1,6 +1,6 @@
 <?php
-$to      = 'chauhanjeet3@gmail.com'; // Put in your email address here
-$subject = "Borrow Loan-company Template Contact Us Form"; // The default subject. Will appear by default in all messages. Change this if you want.
+$to      = ' samagrowthinvest@gmail.com'; // Put in your email address here
+$subject = "Sama Growth Investments"; // The default subject. Will appear by default in all messages. Change this if you want.
 
 // User info (DO NOT EDIT!)
 $name     = stripslashes($_REQUEST['name']); // sender's name
