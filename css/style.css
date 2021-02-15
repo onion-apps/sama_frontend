@@ -1166,25 +1166,7 @@ top bar
   width: 100%;
 }
 
-.slider-img {
-  background: -moz-linear-gradient(
-    top,
-    rgba(16, 75, 149, 0.8) 0%,
-    rgba(16, 75, 149, 0.8) 100%
-  );
-  background: -webkit-linear-gradient(
-    top,
-    rgba(16, 75, 149, 0.8) 0%,
-    rgba(16, 75, 149, 0.8) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    rgba(16, 75, 149, 0.8) 0%,
-    rgba(16, 75, 149, 0.8) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc1b2429', endColorstr='#cc1b2429', GradientType=0);
-  position: relative;
-}
+
 
 .slider-captions {
   position: absolute;
