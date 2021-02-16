@@ -118,7 +118,7 @@ ol li {
 }
 
 a {
-  color: #B43631;
+  color: #57acb2;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -175,7 +175,7 @@ p:last-child {
 }
 
 .highlight {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .listnone {
@@ -223,7 +223,7 @@ p:last-child {
 }
 
 .text-default {
-  color: #B43631 !important;
+  color: #57acb2 !important;
 }
 
 .text-danger {
@@ -247,11 +247,11 @@ p:last-child {
 }
 
 .border-default {
-  border-color: #B43631 !important;
+  border-color: #57acb2 !important;
 }
 
 .border-top-default {
-  border-top: 3px solid #B43631;
+  border-top: 3px solid #57acb2;
 }
 
 /*-----------------------------------
@@ -576,12 +576,12 @@ Background & Block color
 }
 
 .bg-primary {
-  background-color: #15549a !important;
+  background-color: #57acb2 !important;
   color: #778191;
 }
 
 .bg-default {
-  background-color: #B43631;
+  background-color: #57acb2;
 }
 
 .bg-default-light {
@@ -598,7 +598,7 @@ Background & Block color
 
 .small-title {
   font-size: 14px;
-  color: #B43631;
+  color: #57acb2;
   font-weight: 500;
 }
 
@@ -659,7 +659,7 @@ Background & Block color
 }
 
 .bg-pink {
-  background-color: #B43631 !important;
+  background-color: #57acb2 !important;
 }
 
 .bg-dark {
@@ -675,7 +675,7 @@ Background & Block color
 }
 
 .text-pink {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .text-info {
@@ -718,15 +718,15 @@ Buttons
 }
 
 .btn-secondary {
-  background-color: #B43631;
+  background-color: #57acb2;
   color: #fff;
-  border-color: #B43631;
+  border-color: #57acb2;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #e59895;
-  border-color: #e59895;
+  background-color: #57acb2;
+  border-color: #57acb2;
 }
 
 .btn-secondary.focus,
@@ -752,9 +752,9 @@ Buttons
 }
 
 .btn-primary {
-  background-color: #15549a;
+  background-color: #171738;
   color: #fff;
-  border-color: #15549a;
+  border-color: #171738;
 }
 
 .btn-primary:hover {
@@ -825,19 +825,19 @@ Buttons
 }
 
 .btn-link:hover {
-  color: #B43631;
+  color: #57acb2;
   font-weight: 500;
   padding-bottom: 4px;
-  border-bottom: 2px solid #B43631;
+  border-bottom: 2px solid #57acb2;
   text-decoration: none;
 }
 
 .btn-link.focus,
 .btn-link:focus {
   text-decoration: none;
-  border-color: #B43631;
+  border-color: #57acb2;
   box-shadow: none;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .btn-link-white {
@@ -855,7 +855,7 @@ Buttons
 }
 
 .btn-secondary-link {
-  color: #B43631;
+  color: #57acb2;
   font-weight: 500;
   text-decoration: none;
 }
@@ -1021,7 +1021,7 @@ Bullet
 }
 
 .list-pdf-file li a:hover {
-  color: #B43631;
+  color: #57acb2;
 }
 
 /*-----------------------------------------
@@ -1049,7 +1049,7 @@ icon
 }
 
 .icon-default {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .icon-primary {
@@ -1067,7 +1067,7 @@ icon
 /*-------- updated v 1.0.2 -------*/
 
 .fa-default {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .fa-success {
@@ -1096,9 +1096,9 @@ top bar
 .header-topbar {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #15549a;
+  background-color: #57acb2;
   font-size: 12px;
-  color: #83bcfa;
+  color: #171738;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -1364,7 +1364,7 @@ index-1
 }
 
 .service-rate-block .product-rate {
-  color: #B43631;
+  color: #57acb2;
   margin-bottom: 6px;
   font-size: 18px;
 }
@@ -1397,11 +1397,11 @@ index-1
 .customer-name {
   font-size: 14px;
   font-weight: 600;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .customer-quote-circle {
-  background-color: #B43631;
+  background-color: #57acb2;
   border-radius: 100%;
   padding: 10px;
   position: absolute;
@@ -1569,9 +1569,9 @@ index-1
   background-color: transparent;
   width: 60px;
   height: 60px;
-  border: 2px solid #B43631;
+  border: 2px solid #57acb2;
   border-radius: 100px;
-  color: #B43631;
+  color: #57acb2;
   text-align: center;
   padding: 10px;
   margin: 0px auto 30px auto;
@@ -1643,7 +1643,7 @@ index-1
 }
 
 .lead-calculator .slider .ui-widget-content .ui-state-default {
-  background-color: #B43631 !important;
+  background-color: #57acb2 !important;
   border-radius: 100%;
 }
 
@@ -1696,7 +1696,7 @@ index-1
 
 .hero-tab-block .st-tabs .nav-tabs .nav-item.show .nav-link,
 .hero-tab-block .nav-tabs .nav-link.active {
-  color: #B43631;
+  color: #57acb2;
   background-color: white;
   border-color: #ffffff #ffffff #ffffff #ffffff;
 }
@@ -1920,8 +1920,8 @@ index-1
 
 .process-section .circle {
   background-color: #fff;
-  border: 3px solid #B43631;
-  color: #B43631;
+  border: 3px solid #57acb2;
+  color: #57acb2;
   margin: -32px auto 18px auto;
   position: relative;
 }
@@ -2397,7 +2397,7 @@ compare Student loan table
 
 .bank-account-tabs.st-tabs .nav-tabs .nav-item.show .nav-link,
 .bank-account-tabs.st-tabs .nav-tabs .nav-link.active {
-  color: #B43631;
+  color: #57acb2;
   background-color: #ffffff;
   border-color: #eff1f3 #eff1f3 #fff #eff1f3;
 }
@@ -2426,8 +2426,8 @@ Service Page & Block Css
 
 #service .owl-next:hover,
 #service .owl-prev:hover {
-  background-color: #B43631 !important;
-  border: 2px solid #B43631;
+  background-color: #57acb2 !important;
+  border: 2px solid #57acb2;
   color: #fff;
 }
 
@@ -2442,7 +2442,7 @@ Service Page & Block Css
 }
 
 .service-block:hover i {
-  color: #B43631;
+  color: #57acb2;
 }
 
 #service .owl-controls {
@@ -2512,7 +2512,7 @@ Service-img
 }
 
 .circle-default {
-  background-color: #B43631;
+  background-color: #57acb2;
   color: #fff;
 }
 
@@ -2543,7 +2543,7 @@ testimonial
 }
 
 .testimonial-title {
-  color: #B43631;
+  color: #57acb2;
   margin-bottom: 0px;
 }
 
@@ -2606,7 +2606,7 @@ footer
 }
 
 .widget-footer ul li a:hover {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .tiny-footer {
@@ -2649,7 +2649,7 @@ footer
 }
 
 .widget-social ul li a:hover {
-  color: #B43631;
+  color: #57acb2;
   text-decoration: underline;
 }
 
@@ -2683,7 +2683,7 @@ Page header
 .rate-number {
   margin-bottom: 0px;
   line-height: 1;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .btn-action {
@@ -2712,18 +2712,18 @@ Page header
 
 .sub-nav > .nav li a:hover {
   background-color: #fff;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .sub-nav > .nav li a:focus {
   background-color: #fff;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .sub-nav > .nav li.active a {
   color: red;
   background-color: #fff;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .page-breadcrumb .breadcrumb {
@@ -2741,17 +2741,17 @@ Page header
 }
 
 .page-breadcrumb .breadcrumb > li a {
-  color: #15549a;
+  color: #57acb2;
   font-weight: 700;
 }
 
 .page-breadcrumb .breadcrumb > li a:hover {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .page-breadcrumb .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #15549a;
+  color: #57acb2;
   content: "/\00a0";
 }
 
@@ -2826,11 +2826,11 @@ Blog
 
 .prev-link:hover,
 .next-link:hover {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .meta-date {
-  color: #B43631;
+  color: #57acb2;
   font-weight: 600;
 }
 
@@ -2865,7 +2865,7 @@ Blog-sidebar
 
 .widget-category li a:hover,
 .widget-archives li a:hover {
-  color: #B43631;
+  color: #57acb2;
 }
 
 .widget-tags a {
@@ -2883,9 +2883,9 @@ Blog-sidebar
 }
 
 .widget-tags a:hover {
-  background-color: #B43631;
+  background-color: #57acb2;
   color: #fff;
-  border-color: #B43631;
+  border-color: #57acb2;
 }
 
 /*----- post-author-----*/
@@ -3024,7 +3024,7 @@ Blog-single
 .name {
   font-size: 14px;
   text-transform: uppercase;
-  color: #B43631;
+  color: #57acb2;
   font-weight: 600;
   padding-left: 30px;
 }
@@ -3058,8 +3058,8 @@ Pagination
 .st-pagination .pagination > li > span:hover {
   z-index: 2;
   color: #fff;
-  background-color: #B43631;
-  border-color: #B43631;
+  background-color: #57acb2;
+  border-color: #57acb2;
   border-radius: 4px;
 }
 
@@ -3083,8 +3083,8 @@ Pagination
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #B43631;
-  border-color: #B43631;
+  background-color: #57acb2;
+  border-color: #57acb2;
   border-radius: 4px;
 }
 
@@ -3138,7 +3138,7 @@ Extra Plugin CSS - Back to top
   white-space: nowrap;
   visibility: hidden;
   border-radius: 5px;
-  background: rgba(245, 31, 138, 100) url(../images/cd-top-arrow.svg) no-repeat
+  background: #57acb2 url(../images/cd-top-arrow.svg) no-repeat
     center 50%;
   opacity: 0;
   -webkit-transition: opacity 0.3s 0s, visibility 0s 0.3s;
@@ -3219,15 +3219,15 @@ Extra Plugin CSS - Back to top
 
 .portfolioFilter a:hover {
   color: #fff;
-  background-color: #B43631;
-  border: 1px solid #B43631;
+  background-color: #57acb2;
+  border: 1px solid #57acb2;
 }
 
 .portfolioFilter a.current {
   color: #fff;
   text-decoration: none;
-  background-color: #B43631;
-  border: 1px solid #B43631;
+  background-color: #57acb2;
+  border: 1px solid #57acb2;
 }
 
 /*---------- Thumbnail hover effect -------*/
@@ -3418,7 +3418,7 @@ Team
 
 .designation {
   font-size: 12px;
-  color: #B43631;
+  color: #57acb2;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -3438,7 +3438,7 @@ About us
 
 .text-big {
   font-size: 20px;
-  color: #B43631;
+  color: #57acb2;
   font-weight: 600;
   margin-bottom: 0px;
 }
@@ -3476,7 +3476,7 @@ Contact us
 }
 
 .slide-ranger .ui-widget-header {
-  background-color: #B43631;
+  background-color: #57acb2;
 }
 
 .slide-ranger .ui-state-default,
@@ -3485,12 +3485,12 @@ Contact us
 }
 
 .slide-ranger .ui-widget.ui-widget-content {
-  border: 1px solid #B43631;
+  border: 1px solid #57acb2;
 }
 
 .slide-ranger .ui-slider .ui-slider-handle {
   border-radius: 100%;
-  border: 3px solid #B43631;
+  border: 3px solid #57acb2;
 }
 
 /*--------------------------------
@@ -3509,7 +3509,7 @@ Product Single Sidebar
 .product-tabs .nav > li.active a {
   border-right: 1px solid #f4f6f8;
   background: #eff3f8;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .product-tabs .nav > li > a {
@@ -3528,7 +3528,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .product-tabs .nav > li > a i {
@@ -3552,7 +3552,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #B43631;
+  color: #57acb2;
 }
 
 .product-tabs .nav-tabs .nav-item.show .nav-link,
@@ -3772,7 +3772,7 @@ Shortcodes
 
 .st-tabs .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-  color: #B43631;
+  color: #57acb2;
   background-color: transparent;
   border-color: #dee7f2 #dee7f2 #ffffff #dee7f2;
 }
@@ -3795,7 +3795,7 @@ Shortcodes
 }
 
 .st-tabs a:hover {
-  color: #B43631;
+  color: #57acb2;
 }
 
 /*-----------------------------------------
@@ -3833,7 +3833,7 @@ Error-page
 
 .msg {
   font-size: 24px;
-  color: #B43631;
+  color: #57acb2;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -4088,7 +4088,7 @@ Landing Page Template
 .credit-card-tab.nav-pills .nav-link.active,
 .credit-card-tab.nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #B43631;
+  background-color: #57acb2;
 }
 
 .icon-shape {
@@ -4269,7 +4269,7 @@ Landing Page Template
 
 .forex-nav .nav.nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #B43631;
+  color: #57acb2;
   background-color: transparent;
   border-bottom: 2px solid;
   border-radius: 0px;
@@ -4322,15 +4322,15 @@ Landing Page Template
 }
 
 .btn-outline-default {
-  border: 1px solid #B43631;
-  color: #B43631;
+  border: 1px solid #57acb2;
+  color: #57acb2;
   background-color: #fff;
 }
 
 .btn-outline-default:hover {
-  border: 1px solid #B43631;
+  border: 1px solid #57acb2;
   color: #fff;
-  background-color: #B43631;
+  background-color: #57acb2;
 }
 
 .w-20 {
