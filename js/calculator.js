@@ -30,7 +30,7 @@
      function calculateEMI() {
          var loanAmount = $("#la_value").html();
          var numberOfMonths = $("#nm_value").html();
-         var rateOfInterest = $("#roi_value").html();
+         var rateOfInterest = $(4).html();
          var monthlyInterestRatio = (rateOfInterest / 100) ;
 
          var top = Math.pow((1 + monthlyInterestRatio), numberOfMonths);
