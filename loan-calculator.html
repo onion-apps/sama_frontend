@@ -96,7 +96,7 @@
                 <div class="page-breadcrumb">
                     <ol class="breadcrumb">
                         <li><a href="index.html">Home</a></li>
-                        <li class="active">Contact us</li>
+                        <li class="active">Loan calculator</li>
                     </ol>
                 </div>
             </div>
@@ -125,69 +125,52 @@
         </div>
     </div>
 </div>
+<br>
     <!-- content start -->
     <div class="container">
-        <div class="row">
-            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                <div class="wrapper-content bg-white p-3 p-lg-5">
-                    <div class="row">
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="bg-light bg-white p-3 p-lg-5 outline">
-                                     <span>Loan Amount is </span>
-                                        <strong>
-                                            <span class="" id="la_value">20000</span></strong>
-                                        <input type="text" data-slider="true" value="20000" data-slider-range="1000,20000" data-slider-step="100" data-slider-snap="true" id="la">
-                                        <hr>
-                                        <span>No. of Month is <strong>
-                                                <span class="" id="nm_value">3</span> </strong>
-                                        </span>
-                                        <input type="text" data-slider="true" value="3" data-slider-range="1,3" data-slider-step="1" data-slider-snap="true" id="nm">
-                                        <hr>
-                                        <span>Rate is constant at <strong><span class="" id="roi_value">4</span>
-                                            </strong>
-                                        </span>
-                                        <input type="text" style="display: none;" data-slider="true" value="4" data-slider-range="4,4" data-slider-step="1" data-slider-snap="true" id="roi">
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="row">
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline">
-                                                Monthly EMI
-                                                <h2 id='emi' class="mb-0"></h2>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline">
-                                                Total Interest
-                                                <h2 id='tbl_int' class="mb-0"></h2>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline"> Payable Amount
-                                                <h2 id='tbl_full' class="mb-0"></h2>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline">
-                                                Interest Percentage
-                                                <h2 id='tbl_int_pge' class="mb-0"></h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div id="loantable" class='table table-striped table-bordered loantable table-responsive'></div>
-                        </div>
-                    </div>
-                </div>
+      <div class="card text-black bg-light mb-9" style="max-width: 200rem;">
+       
+          <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 id="title">Calculate your loan payments</h1>
             </div>
+          </div>
+          <br>
+
+          <div class="row">
+            <div class="col-md-12">
+        <form>
+            <div class="form-group">
+                  <label class="form-group">Amount to borrow</label>
+                  <input class="form-control" type="text" id="principal" placeholder="Amount">
+             </div>
+              <div class="form-group">
+                  <label class="form-group">Interest rate</label>
+                  <input class="form-control" type="text" id="annual-interest-rate"
+                  placeholder="Rate in %">
+              </div>
+              <div class="form-group">
+                  <label class="form-group">Repayment Period</label>
+                  <input class="form-control" type="text" id="number-of-period"
+                  placeholder="months">
+              </div>
+              <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
+          </form>
+            </div>
+          </div>
+          <br>
+          <h5 class="total">Total to Paid</h5>
+          
+          <div class="row">
+            <div class="col-md-12">
+              <h1 id="res">0</h1>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
+
     <div class="footer section-space100">
         <!-- footer -->
         <div class="container">
