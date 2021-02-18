@@ -5,7 +5,7 @@ function calculate(){
     var CI = 0;
 
     p = parseInt(document.getElementById("principal").value);
-    i = parseInt(document.getElementById("annual-interest-rate").value);
+  
     n = parseInt(document.getElementById("number-of-period").value);
 
     CI = ((p*i*n)+p);
