@@ -8,6 +8,6 @@ function calculate(){
     i = parseInt(document.getElementById("annual-interest-rate").value);
     n = parseInt(document.getElementById("number-of-period").value);
 
-    CI = ((p*(1+i)^n)-p);
+    CI = ((p*(i)^n)-p);
     document.getElementById("res").innerHTML=CI;
   }
