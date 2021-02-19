@@ -752,15 +752,20 @@ Buttons
 }
 
 .btn-primary {
-  background-color: #171738;
-  color: #fff;
-  border-color: #171738;
+  background-color: transparent;
+  width: 30%;
+  border: 3px solid #00d7c3;
+  border-radius: 50px;
+  -webkit-transition: all .15s ease-in-out;
+  text-align: justify;
+  padding: 1em 0.5em;
+  transition: all .15s ease-in-out;
+  color: #00d7c3;
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #2573cb;
-  border-color: #2573cb;
+  box-shadow: 0 0 10px 0 #2573cb inset, 0 0 20px 2px #2573cb;
+  border: 3px solid #2573cb;
 }
 
 .btn-primary.focus,
