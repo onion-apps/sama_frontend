@@ -72,7 +72,7 @@ h4,
 h5,
 h6 {
   margin: 0px 0px 10px 0px;
-  color: #0a2759;
+  color: #081b3b;
   font-weight: 500;
 }
 
@@ -118,7 +118,7 @@ ol li {
 }
 
 a {
-  color: #57acb2;
+  color: #1c5c61;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -128,7 +128,7 @@ a {
 a:focus,
 a:hover {
   text-decoration: none;
-  color: #15549a;
+  color: #043469;
 }
 
 strong {
@@ -139,7 +139,7 @@ blockquote {
   padding: 10px 20px;
   margin: 0 0 0px;
   font-size: 21px;
-  border-left: 5px solid #15549a;
+  border-left: 5px solid #043469;
   color: #414346;
   font-style: italic;
   line-height: 35px;
@@ -175,7 +175,7 @@ p:last-child {
 }
 
 .highlight {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .listnone {
@@ -189,7 +189,7 @@ p:last-child {
 }
 
 .lead {
-  color: #0a2759;
+  color: #081b3b;
   line-height: 30px;
   font-size: 20px;
 }
@@ -203,7 +203,7 @@ p:last-child {
 }
 
 .title {
-  color: #0a2759;
+  color: #081b3b;
 }
 
 .text-bold {
@@ -223,7 +223,7 @@ p:last-child {
 }
 
 .text-default {
-  color: #57acb2 !important;
+  color: #1c5c61 !important;
 }
 
 .text-danger {
@@ -239,19 +239,19 @@ p:last-child {
 }
 
 .border-primary {
-  border-color: #15549a !important;
+  border-color: #043469 !important;
 }
 
 .text-primary {
-  color: #15549a !important;
+  color: #043469 !important;
 }
 
 .border-default {
-  border-color: #57acb2 !important;
+  border-color: #1c5c61 !important;
 }
 
 .border-top-default {
-  border-top: 3px solid #57acb2;
+  border-top: 3px solid #1c5c61;
 }
 
 /*-----------------------------------
@@ -576,12 +576,12 @@ Background & Block color
 }
 
 .bg-primary {
-  background-color: #57acb2 !important;
+  background-color: #1c5c61 !important;
   color: #778191;
 }
 
 .bg-default {
-  background-color: #57acb2;
+  background-color: #1c5c61;
 }
 
 .bg-default-light {
@@ -598,7 +598,7 @@ Background & Block color
 
 .small-title {
   font-size: 14px;
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 500;
 }
 
@@ -659,7 +659,7 @@ Background & Block color
 }
 
 .bg-pink {
-  background-color: #57acb2 !important;
+  background-color: #1c5c61 !important;
 }
 
 .bg-dark {
@@ -671,11 +671,11 @@ Background & Block color
 }
 
 .bg-light-blue {
-  background-color: #15549a;
+  background-color: #043469;
 }
 
 .text-pink {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .text-info {
@@ -718,15 +718,15 @@ Buttons
 }
 
 .btn-secondary {
-  background-color: #57acb2;
+  background-color: #1c5c61;
   color: #fff;
-  border-color: #57acb2;
+  border-color: #1c5c61;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #57acb2;
-  border-color: #57acb2;
+  background-color: #1c5c61;
+  border-color: #1c5c61;
 }
 
 .btn-secondary.focus,
@@ -754,13 +754,13 @@ Buttons
 .btn-primary {
   background-color: transparent;
   width: 30%;
-  border: 3px solid #00d7c3;
+  border: 3px solid #04346a;
   border-radius: 50px;
   -webkit-transition: all .15s ease-in-out;
   text-align: justify;
   padding: 1em 0.5em;
   transition: all .15s ease-in-out;
-  color: #00d7c3;
+  color: #04346a;
 }
 
 .btn-primary:hover {
@@ -821,28 +821,28 @@ Buttons
 }
 
 .btn-link {
-  color: #15549a;
+  color: #043469;
   font-weight: 500;
   padding-bottom: 4px;
-  border-bottom: 2px solid #15549a;
+  border-bottom: 2px solid #043469;
   display: inline-block;
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 500;
   padding-bottom: 4px;
-  border-bottom: 2px solid #57acb2;
+  border-bottom: 2px solid #1c5c61;
   text-decoration: none;
 }
 
 .btn-link.focus,
 .btn-link:focus {
   text-decoration: none;
-  border-color: #57acb2;
+  border-color: #1c5c61;
   box-shadow: none;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .btn-link-white {
@@ -860,13 +860,13 @@ Buttons
 }
 
 .btn-secondary-link {
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 500;
   text-decoration: none;
 }
 
 .btn-secondary-link:hover {
-  color: #15549a;
+  color: #043469;
 }
 
 /*-----------------------------------------
@@ -875,7 +875,7 @@ Input Form
 
 .control-label {
   text-transform: uppercase;
-  color: #0a2759;
+  color: #081b3b;
   font-size: 13px;
   font-weight: 600;
 }
@@ -990,7 +990,7 @@ Bullet
   position: absolute;
   left: 0;
   font-size: 15px;
-  color: #15549a;
+  color: #043469;
   content: "\f058";
 }
 
@@ -1026,7 +1026,7 @@ Bullet
 }
 
 .list-pdf-file li a:hover {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 /*-----------------------------------------
@@ -1054,11 +1054,11 @@ icon
 }
 
 .icon-default {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .icon-primary {
-  color: #15549a;
+  color: #043469;
 }
 
 .icon-secondary {
@@ -1072,7 +1072,7 @@ icon
 /*-------- updated v 1.0.2 -------*/
 
 .fa-default {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .fa-success {
@@ -1101,7 +1101,7 @@ top bar
 .header-topbar {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #57acb2;
+  background-color: #1c5c61;
   font-size: 12px;
   color: #171738;
   font-weight: 500;
@@ -1114,11 +1114,11 @@ top bar
 }
 
 .top-text a {
-  color: #83bcfa;
+  color: #f5f6f7;
 }
 
 .top-text a:hover {
-  color: #fff;
+  color: rgb(11, 23, 71);
 }
 
 .search-nav {
@@ -1217,7 +1217,7 @@ top bar
 #slider .owl-prev:hover {
   background-color: #fff !important;
   border: 2px solid #fff;
-  color: #15549a;
+  color: #043469;
 }
 
 #slider .owl-pagination {
@@ -1308,7 +1308,7 @@ index-1
 }
 
 .testimonial-name-1 {
-  color: #15549a;
+  color: #043469;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
@@ -1329,7 +1329,7 @@ index-1
 }
 
 .top-nav-collapse {
-  background-color: #15549a;
+  background-color: #043469;
 }
 
 .lender-logo-section {
@@ -1391,7 +1391,7 @@ index-1
 }
 
 .service-rate-block .product-rate {
-  color: #57acb2;
+  color: #1c5c61;
   margin-bottom: 6px;
   font-size: 18px;
 }
@@ -1411,7 +1411,7 @@ index-1
 }
 
 .customer-text {
-  color: #0a2759;
+  color: #081b3b;
   font-size: 21px;
   margin-bottom: 30px;
   font-family: "Merriweather", serif;
@@ -1424,11 +1424,11 @@ index-1
 .customer-name {
   font-size: 14px;
   font-weight: 600;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .customer-quote-circle {
-  background-color: #57acb2;
+  background-color: #1c5c61;
   border-radius: 100%;
   padding: 10px;
   position: absolute;
@@ -1450,7 +1450,7 @@ index-1
 .how-it-no {
   font-size: 76px;
   line-height: 86px;
-  color: #15549a;
+  color: #043469;
 }
 
 /*------------------------------------
@@ -1568,7 +1568,7 @@ index-1
 }
 
 .lead-calculator {
-  background: #15549a;
+  background: #043469;
   color: #fff;
   border-radius: 6px;
 }
@@ -1596,9 +1596,9 @@ index-1
   background-color: transparent;
   width: 60px;
   height: 60px;
-  border: 2px solid #57acb2;
+  border: 2px solid #1c5c61;
   border-radius: 100px;
-  color: #57acb2;
+  color: #1c5c61;
   text-align: center;
   padding: 10px;
   margin: 0px auto 30px auto;
@@ -1611,7 +1611,7 @@ index-1
 }
 
 .highlight-outline.outline:hover {
-  border-color: #15549a;
+  border-color: #043469;
   -webkit-box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 1px 1px 9px 2px rgba(0, 0, 0, 0.2);
@@ -1670,7 +1670,7 @@ index-1
 }
 
 .lead-calculator .slider .ui-widget-content .ui-state-default {
-  background-color: #57acb2 !important;
+  background-color: #1c5c61 !important;
   border-radius: 100%;
 }
 
@@ -1723,7 +1723,7 @@ index-1
 
 .hero-tab-block .st-tabs .nav-tabs .nav-item.show .nav-link,
 .hero-tab-block .nav-tabs .nav-link.active {
-  color: #57acb2;
+  color: #1c5c61;
   background-color: white;
   border-color: #ffffff #ffffff #ffffff #ffffff;
 }
@@ -1777,7 +1777,7 @@ index-1
   user-select: none;
   white-space: nowrap;
   width: auto;
-  color: #0a2759;
+  color: #081b3b;
 }
 
 .nice-select:hover {
@@ -1787,12 +1787,12 @@ index-1
 .nice-select:active,
 .nice-select.open,
 .nice-select:focus {
-  border-color: #15549a;
+  border-color: #043469;
 }
 
 .nice-select:after {
-  border-bottom: 2px solid #0a2759;
-  border-right: 2px solid #0a2759;
+  border-bottom: 2px solid #081b3b;
+  border-right: 2px solid #081b3b;
   content: "";
   display: block;
   height: 7px;
@@ -1914,7 +1914,7 @@ index-1
   text-align: left;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
-  color: #0a2759;
+  color: #081b3b;
 }
 
 .nice-select .option:hover,
@@ -1947,8 +1947,8 @@ index-1
 
 .process-section .circle {
   background-color: #fff;
-  border: 3px solid #57acb2;
-  color: #57acb2;
+  border: 3px solid #1c5c61;
+  color: #1c5c61;
   margin: -32px auto 18px auto;
   position: relative;
 }
@@ -2071,7 +2071,7 @@ index-1
 
 .loan-rate-table .table > thead > tr > th {
   text-align: center;
-  color: #15549a;
+  color: #043469;
   font-size: 18px;
   border-top: transparent;
   border-bottom: transparent;
@@ -2316,8 +2316,8 @@ compare Student loan table
 .card-benefit-tabs .st-tabs .nav-tabs .nav-item.show .nav-link,
 .card-benefit-tabs .st-tabs .nav-tabs .nav-link.active {
   color: #ffffff;
-  background-color: #15549a;
-  border-color: #15549a;
+  background-color: #043469;
+  border-color: #043469;
 }
 
 .card-rate-info .list-group-item {
@@ -2381,7 +2381,7 @@ compare Student loan table
   font-style: initial;
   text-transform: capitalize;
   font-weight: 500;
-  color: #15549a;
+  color: #043469;
 }
 
 .post-caption-block {
@@ -2424,7 +2424,7 @@ compare Student loan table
 
 .bank-account-tabs.st-tabs .nav-tabs .nav-item.show .nav-link,
 .bank-account-tabs.st-tabs .nav-tabs .nav-link.active {
-  color: #57acb2;
+  color: #1c5c61;
   background-color: #ffffff;
   border-color: #eff1f3 #eff1f3 #fff #eff1f3;
 }
@@ -2453,8 +2453,8 @@ Service Page & Block Css
 
 #service .owl-next:hover,
 #service .owl-prev:hover {
-  background-color: #57acb2 !important;
-  border: 2px solid #57acb2;
+  background-color: #1c5c61 !important;
+  border: 2px solid #1c5c61;
   color: #fff;
 }
 
@@ -2469,7 +2469,7 @@ Service Page & Block Css
 }
 
 .service-block:hover i {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 #service .owl-controls {
@@ -2503,12 +2503,12 @@ Service-img
 }
 
 .circle {
-  background-color: #e3f0fe;
+  background-color: #1c5c61;
   width: 60px;
   height: 60px;
-  border: 1px solid #15549a;
+  border: 1px solid #043469;
   border-radius: 100px;
-  color: #15549a;
+  color: #fff;
   margin: -70px auto 40px auto;
   padding: 10px;
   text-align: center;
@@ -2539,7 +2539,7 @@ Service-img
 }
 
 .circle-default {
-  background-color: #57acb2;
+  background-color: #1c5c61;
   color: #fff;
 }
 
@@ -2570,7 +2570,7 @@ testimonial
 }
 
 .testimonial-title {
-  color: #57acb2;
+  color: #1c5c61;
   margin-bottom: 0px;
 }
 
@@ -2584,7 +2584,7 @@ testimonial
 }
 
 .testimonial-name-inverse {
-  color: #15549a;
+  color: #043469;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
@@ -2633,7 +2633,7 @@ footer
 }
 
 .widget-footer ul li a:hover {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .tiny-footer {
@@ -2676,7 +2676,7 @@ footer
 }
 
 .widget-social ul li a:hover {
-  color: #57acb2;
+  color: #1c5c61;
   text-decoration: underline;
 }
 
@@ -2710,7 +2710,7 @@ Page header
 .rate-number {
   margin-bottom: 0px;
   line-height: 1;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .btn-action {
@@ -2739,18 +2739,18 @@ Page header
 
 .sub-nav > .nav li a:hover {
   background-color: #fff;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .sub-nav > .nav li a:focus {
   background-color: #fff;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .sub-nav > .nav li.active a {
   color: red;
   background-color: #fff;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .page-breadcrumb .breadcrumb {
@@ -2758,7 +2758,7 @@ Page header
   padding: 0px;
   font-size: 12px;
   text-transform: uppercase;
-  color: #15549a;
+  color: #043469;
   font-weight: 700;
 }
 
@@ -2768,17 +2768,17 @@ Page header
 }
 
 .page-breadcrumb .breadcrumb > li a {
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 700;
 }
 
 .page-breadcrumb .breadcrumb > li a:hover {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .page-breadcrumb .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #57acb2;
+  color: #1c5c61;
   content: "/\00a0";
 }
 
@@ -2853,11 +2853,11 @@ Blog
 
 .prev-link:hover,
 .next-link:hover {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .meta-date {
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 600;
 }
 
@@ -2892,7 +2892,7 @@ Blog-sidebar
 
 .widget-category li a:hover,
 .widget-archives li a:hover {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .widget-tags a {
@@ -2910,9 +2910,9 @@ Blog-sidebar
 }
 
 .widget-tags a:hover {
-  background-color: #57acb2;
+  background-color: #1c5c61;
   color: #fff;
-  border-color: #57acb2;
+  border-color: #1c5c61;
 }
 
 /*----- post-author-----*/
@@ -3051,7 +3051,7 @@ Blog-single
 .name {
   font-size: 14px;
   text-transform: uppercase;
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 600;
   padding-left: 30px;
 }
@@ -3085,8 +3085,8 @@ Pagination
 .st-pagination .pagination > li > span:hover {
   z-index: 2;
   color: #fff;
-  background-color: #57acb2;
-  border-color: #57acb2;
+  background-color: #1c5c61;
+  border-color: #1c5c61;
   border-radius: 4px;
 }
 
@@ -3110,8 +3110,8 @@ Pagination
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #57acb2;
-  border-color: #57acb2;
+  background-color: #1c5c61;
+  border-color: #1c5c61;
   border-radius: 4px;
 }
 
@@ -3165,7 +3165,7 @@ Extra Plugin CSS - Back to top
   white-space: nowrap;
   visibility: hidden;
   border-radius: 5px;
-  background: #57acb2 url(../images/cd-top-arrow.svg) no-repeat
+  background: #1c5c61 url(../images/cd-top-arrow.svg) no-repeat
     center 50%;
   opacity: 0;
   -webkit-transition: opacity 0.3s 0s, visibility 0s 0.3s;
@@ -3246,15 +3246,15 @@ Extra Plugin CSS - Back to top
 
 .portfolioFilter a:hover {
   color: #fff;
-  background-color: #57acb2;
-  border: 1px solid #57acb2;
+  background-color: #1c5c61;
+  border: 1px solid #1c5c61;
 }
 
 .portfolioFilter a.current {
   color: #fff;
   text-decoration: none;
-  background-color: #57acb2;
-  border: 1px solid #57acb2;
+  background-color: #1c5c61;
+  border: 1px solid #1c5c61;
 }
 
 /*---------- Thumbnail hover effect -------*/
@@ -3445,7 +3445,7 @@ Team
 
 .designation {
   font-size: 12px;
-  color: #57acb2;
+  color: #1c5c61;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -3465,7 +3465,7 @@ About us
 
 .text-big {
   font-size: 20px;
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 600;
   margin-bottom: 0px;
 }
@@ -3503,7 +3503,7 @@ Contact us
 }
 
 .slide-ranger .ui-widget-header {
-  background-color: #57acb2;
+  background-color: #1c5c61;
 }
 
 .slide-ranger .ui-state-default,
@@ -3512,12 +3512,12 @@ Contact us
 }
 
 .slide-ranger .ui-widget.ui-widget-content {
-  border: 1px solid #57acb2;
+  border: 1px solid #1c5c61;
 }
 
 .slide-ranger .ui-slider .ui-slider-handle {
   border-radius: 100%;
-  border: 3px solid #57acb2;
+  border: 3px solid #1c5c61;
 }
 
 /*--------------------------------
@@ -3536,7 +3536,7 @@ Product Single Sidebar
 .product-tabs .nav > li.active a {
   border-right: 1px solid #f4f6f8;
   background: #eff3f8;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .product-tabs .nav > li > a {
@@ -3555,7 +3555,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .product-tabs .nav > li > a i {
@@ -3579,7 +3579,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 .product-tabs .nav-tabs .nav-item.show .nav-link,
@@ -3614,7 +3614,7 @@ EMI Calculator
 .table-bordered > thead > tr > td,
 .table-bordered > thead > tr > th {
   border: 1px solid #dee4ee;
-  color: #0a2759;
+  color: #081b3b;
 }
 
 .table-striped > tbody > tr:nth-of-type(odd) {
@@ -3778,7 +3778,7 @@ Loan Eligibility Page
 .eligibility-amount {
   font-size: 52px;
   font-weight: 600;
-  color: #15549a;
+  color: #043469;
 }
 
 .eligibility-text {
@@ -3799,7 +3799,7 @@ Shortcodes
 
 .st-tabs .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-  color: #57acb2;
+  color: #1c5c61;
   background-color: transparent;
   border-color: #dee7f2 #dee7f2 #ffffff #dee7f2;
 }
@@ -3822,7 +3822,7 @@ Shortcodes
 }
 
 .st-tabs a:hover {
-  color: #57acb2;
+  color: #1c5c61;
 }
 
 /*-----------------------------------------
@@ -3860,7 +3860,7 @@ Error-page
 
 .msg {
   font-size: 24px;
-  color: #57acb2;
+  color: #1c5c61;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -3944,7 +3944,7 @@ Landing Page Template
   border-radius: 100%;
   padding: 18px 19px;
   margin-bottom: 30px;
-  color: #15549a;
+  color: #043469;
   display: block;
   line-height: 1.2;
   text-align: center;
@@ -3958,7 +3958,7 @@ Landing Page Template
 
 .feature-left .feature-icon {
   float: left;
-  color: #15549a;
+  color: #043469;
   font-size: 28px;
   line-height: 1;
 }
@@ -3988,7 +3988,7 @@ Landing Page Template
   border-radius: 100px;
   padding: 24px;
   text-align: center;
-  color: #15549a;
+  color: #043469;
 }
 
 .feature-icon-style .feature-title {
@@ -4005,7 +4005,7 @@ Landing Page Template
   height: 60px;
   border-radius: 100px;
   padding: 14px;
-  color: #15549a;
+  color: #043469;
   font-size: 26px;
   text-align: center;
 }
@@ -4033,7 +4033,7 @@ Landing Page Template
   background: #e3edf9;
   padding-top: 16px;
   padding-bottom: 16px;
-  color: #0a2759;
+  color: #081b3b;
 }
 
 /* -- new pages --*/
@@ -4115,7 +4115,7 @@ Landing Page Template
 .credit-card-tab.nav-pills .nav-link.active,
 .credit-card-tab.nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #57acb2;
+  background-color: #1c5c61;
 }
 
 .icon-shape {
@@ -4147,17 +4147,17 @@ Landing Page Template
 }
 
 .btn-outline-primary {
-  color: #15549a;
+  color: #043469;
 
   background-color: transparent;
-  border: 1px solid #15549a;
+  border: 1px solid #043469;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
 
-  background-color: #15549a;
-  border: 1px solid #15549a;
+  background-color: #043469;
+  border: 1px solid #043469;
 }
 
 .pdt100 {
@@ -4296,7 +4296,7 @@ Landing Page Template
 
 .forex-nav .nav.nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #57acb2;
+  color: #1c5c61;
   background-color: transparent;
   border-bottom: 2px solid;
   border-radius: 0px;
@@ -4319,7 +4319,7 @@ Landing Page Template
   line-height: 1.42857143;
   vertical-align: top;
 
-  background-color: #15549a;
+  background-color: #043469;
   border: none;
   color: #fff;
   font-weight: 600;
@@ -4349,15 +4349,15 @@ Landing Page Template
 }
 
 .btn-outline-default {
-  border: 1px solid #57acb2;
-  color: #57acb2;
+  border: 1px solid #1c5c61;
+  color: #1c5c61;
   background-color: #fff;
 }
 
 .btn-outline-default:hover {
-  border: 1px solid #57acb2;
+  border: 1px solid #1c5c61;
   color: #fff;
-  background-color: #57acb2;
+  background-color: #1c5c61;
 }
 
 .w-20 {
@@ -4579,7 +4579,7 @@ Landing Page Template
   /*--------------- index - 4 ()-------------*/
   .header-transparent {
     position: relative;
-    background-color: #15549a;
+    background-color: #043469;
   }
 
   .video-play {
