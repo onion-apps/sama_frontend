@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Sama Investment - Elavating Potentials</title>
+   
     <!-- Bootstrap -->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/navbar.css" rel="stylesheet" />
@@ -18,99 +19,9 @@
 </head>
 
 <body>
-  <div class="sticky-top">
-  <div class="header-topbar">
-    <!-- top-bar -->
-    <div class="container">
-      <div class="row">
-        <div
-          class="col-xl-4 col-lg-5 col-md-4 col-sm-6 col-6 d-none d-xl-block d-lg-block"
-        >
-          <p class="mail-text">
-            Welcome to Sama Investments
-          </p>
-        </div>
-        <div
-          class="col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12 text-right"
-        >
-          <div class="top-nav">
-            <span class="top-text"><a href="#!">GET STARTED TODAY</a> </span>
-            <span class="top-text"><a href="#!">MON TO FRI 09:00AM - 17:00PM</a></span>
-            <span class="top-text"><a href="#!">CALL US AT +(254) 797 837 351</a></span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- /.top-bar -->
-  <div class="bg-white">
-    <nav
-      class="navbar navbar-expand-lg navbar-light bg-white py-lg-3 border-top border-bottom"
-    >
-      <div class="container">
-        <a href="index.html"
-          ><img
-            src="images/logo.png"
-            alt="Sama Investments"
-        /></a>
-       
-        <button
-          class="navbar-toggler collapsed"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="icon-bar top-bar mt-0"></span>
-          <span class="icon-bar middle-bar"></span>
-          <span class="icon-bar bottom-bar"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ml-lg-auto">
-            <li class="nav-item dropdown">
-                <a class="nav-link " href="index.html">Home</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link " href="#">About</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link " href="team.html">Services</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle"
-                href="#!"
-                id="navbarFeatures"
-                role="button"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-              >
-                Blog
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarFeatures">
-                <li>
-                  <a class="dropdown-item" href="loanproject.html">Loaning project</a>
-                </li>
-                <li><a class="dropdown-item" href="tree-project.html">Tree Project</a></li>
-               
-              </ul>
-            <li class="nav-item dropdown">
-            </li>
-            
-                <a class="nav-link " href="faq.html">FAQs</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link " href="contact-us.html">Contact us</a>
-            </li>
-        </ul>
-    </div>
-</div>
-</nav>
-</div>
-</div>
+  <!-- Header -->
+  <?php include 'header.php' ?>
+
     <div class="page-header">
         <div class="container">
             <div class="row">
@@ -364,137 +275,10 @@
             </div>
         </div>
     </div>
-    <div class="footer section-space100">
-        <div class="container">
-          <div class="row">
-            <div class="col-xl-4 col-lg-4 d-md-none col-sm-12 col-12">
-              <div class="footer-logo">
-                <img src="images/ft-logo.png " alt="Sama Investments " />
-              </div>
-            </div>
-            <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-              <div class="row">
-                <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12">
-                  <h3 class="newsletter-title">Signup For Our Newsletter</h3>
-                </div>
-                <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
-                  <div class="newsletter-form">
-                    <form action="newsletter.php " method="post ">
-                      <div class="input-group">
-                        <input
-                          type="email "
-                          class="form-control border-0 shadow-none"
-                          id="newsletter "
-                          name="newsletter "
-                          placeholder="Write E-Mail Address "
-                          required
-                        />
-                        <span class="input-group-btn">
-                          <button class="btn btn-secondary" type="submit ">
-                            Submit
-                          </button>
-                        </span>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <hr class="dark-line" />
-          <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-              <div class="widget-text mt40">
-                <p>
-                  We believe that dignified families result to a better village
-                  and country. Our presence is found where the potential for our
-                  impact is greatest.
-                </p>
-                <div class="row">
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p class="address-text">
-                      <span><i class="icon-placeholder-3 icon-1x"></i> </span
-                      >Nairobi, Kenya
-                    </p>
-                  </div>
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p class="call-text">
-                      <span><i class="icon-phone-call icon-1x"></i></span>+254 797
-                      837 351
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
-              <div class="widget-footer mt40">
-                <ul class="listnone">
-                  <li><a href="index.html ">Home</a></li>
-                  <li><a href="blog-listing.html ">Services</a></li>
-                  <li><a href="about.html ">About Us</a></li>
-  
-                  <li><a href="faq.html ">FAQs</a></li>
-                  <li><a href="contact-us.html ">Contact Us</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
-              <div class="widget-footer mt40">
-                <ul class="listnone">
-                  <li>
-                    <a href="http://samacustomer.herokuapp.com/login"
-                      >Appy for a Loan</a
-                    >
-                  </li>
-                  <li>
-                    <a href="loan-calculator.html"
-                      >Check my Rate</a
-                    >
-                  </li>
-                  <li>
-                    <a href="contact-us.html"
-                      >Get Help</a
-                    >
-                  </li>
-                  <li>
-                    <a href="contact-us.html"
-                      >Refer a friend</a
-                    >
-                  </li>
-                  <li>
-                    <a href="#"
-                      >Leave a review</a
-                    >
-                  </li>
-                 
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
-              <div class="widget-social mt40">
-                <ul class="listnone">
-                  <li>
-                    <a href="https://facebook.com/SAMA-Investment-102612791869019"><i class="fab fa-facebook-f"></i>Facebook</a>
-                  </li>
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="tiny-footer">
-        <div class="container">
-          <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-              <p>© Copyright 2021 | Sama Investment</p>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-              <p>Terms of use | Privacy Policy</p>
-            </div>
-          </div>
-        </div>
-      </div>
+
+    <!--Footer -->
+    <?php include 'footer.php';?>
+
    
     <a href="#0" class="cd-top" title="Go to top">Top</a>
     <script src="js/jquery.min.js"></script>

@@ -118,7 +118,7 @@ ol li {
 }
 
 a {
-  color: #1c5c61;
+  color: #31AFB4;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -175,7 +175,7 @@ p:last-child {
 }
 
 .highlight {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .listnone {
@@ -223,7 +223,7 @@ p:last-child {
 }
 
 .text-default {
-  color: #1c5c61 !important;
+  color: #31AFB4 !important;
 }
 
 .text-danger {
@@ -247,11 +247,11 @@ p:last-child {
 }
 
 .border-default {
-  border-color: #1c5c61 !important;
+  border-color: #31AFB4 !important;
 }
 
 .border-top-default {
-  border-top: 3px solid #1c5c61;
+  border-top: 3px solid #31AFB4;
 }
 
 /*-----------------------------------
@@ -576,12 +576,12 @@ Background & Block color
 }
 
 .bg-primary {
-  background-color: #1c5c61 !important;
+  background-color: #31AFB4 !important;
   color: #778191;
 }
 
 .bg-default {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
 }
 
 .bg-default-light {
@@ -598,7 +598,7 @@ Background & Block color
 
 .small-title {
   font-size: 14px;
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 500;
 }
 
@@ -659,7 +659,7 @@ Background & Block color
 }
 
 .bg-pink {
-  background-color: #1c5c61 !important;
+  background-color: #31AFB4 !important;
 }
 
 .bg-dark {
@@ -675,7 +675,7 @@ Background & Block color
 }
 
 .text-pink {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .text-info {
@@ -718,15 +718,15 @@ Buttons
 }
 
 .btn-secondary {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
   color: #fff;
-  border-color: #1c5c61;
+  border-color: #31AFB4;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #1c5c61;
-  border-color: #1c5c61;
+  background-color: #31AFB4;
+  border-color: #31AFB4;
 }
 
 .btn-secondary.focus,
@@ -751,21 +751,25 @@ Buttons
   box-shadow: 0 0 0 0.2rem hsla(330, 91%, 54%, 0.5);
 }
 
-.btn-primary {
+
+.sama-cta-btn {
   background-color: transparent;
   width: 30%;
-  border: 3px solid #04346a;
-  border-radius: 50px;
+  border: 3px solid #CF5C36;
+  border-radius: 30px;
   -webkit-transition: all .15s ease-in-out;
   text-align: justify;
   padding: 1em 0.5em;
-  transition: all .15s ease-in-out;
-  color: #04346a;
+  align-items: flex-end;
+  /* transition: all .15s ease-in-out; */
+  color: #CF5C36;
 }
 
-.btn-primary:hover {
-  box-shadow: 0 0 10px 0 #2573cb inset, 0 0 20px 2px #2573cb;
-  border: 3px solid #2573cb;
+.sama-cta-btn:hover {
+  box-shadow: 0 0 10px 0 #CF5C36 inset, 0 0 10px 2px #CF5C36;
+  border: 3px solid #CF5C36;
+  background-color: #CF5C36;
+  color: #ffffff;
 }
 
 .btn-primary.focus,
@@ -830,19 +834,19 @@ Buttons
 }
 
 .btn-link:hover {
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 500;
   padding-bottom: 4px;
-  border-bottom: 2px solid #1c5c61;
+  border-bottom: 2px solid #31AFB4;
   text-decoration: none;
 }
 
 .btn-link.focus,
 .btn-link:focus {
   text-decoration: none;
-  border-color: #1c5c61;
+  border-color: #31AFB4;
   box-shadow: none;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .btn-link-white {
@@ -860,7 +864,7 @@ Buttons
 }
 
 .btn-secondary-link {
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 500;
   text-decoration: none;
 }
@@ -1026,7 +1030,7 @@ Bullet
 }
 
 .list-pdf-file li a:hover {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 /*-----------------------------------------
@@ -1054,7 +1058,7 @@ icon
 }
 
 .icon-default {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .icon-primary {
@@ -1072,7 +1076,7 @@ icon
 /*-------- updated v 1.0.2 -------*/
 
 .fa-default {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .fa-success {
@@ -1101,9 +1105,9 @@ top bar
 .header-topbar {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #1c5c61;
+  background-color: #31AFB4;
   font-size: 12px;
-  color: #171738;
+  color:#fff;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -1391,7 +1395,7 @@ index-1
 }
 
 .service-rate-block .product-rate {
-  color: #1c5c61;
+  color: #31AFB4;
   margin-bottom: 6px;
   font-size: 18px;
 }
@@ -1424,11 +1428,11 @@ index-1
 .customer-name {
   font-size: 14px;
   font-weight: 600;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .customer-quote-circle {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
   border-radius: 100%;
   padding: 10px;
   position: absolute;
@@ -1596,9 +1600,9 @@ index-1
   background-color: transparent;
   width: 60px;
   height: 60px;
-  border: 2px solid #1c5c61;
+  border: 2px solid #31AFB4;
   border-radius: 100px;
-  color: #1c5c61;
+  color: #31AFB4;
   text-align: center;
   padding: 10px;
   margin: 0px auto 30px auto;
@@ -1670,7 +1674,7 @@ index-1
 }
 
 .lead-calculator .slider .ui-widget-content .ui-state-default {
-  background-color: #1c5c61 !important;
+  background-color: #31AFB4 !important;
   border-radius: 100%;
 }
 
@@ -1723,7 +1727,7 @@ index-1
 
 .hero-tab-block .st-tabs .nav-tabs .nav-item.show .nav-link,
 .hero-tab-block .nav-tabs .nav-link.active {
-  color: #1c5c61;
+  color: #31AFB4;
   background-color: white;
   border-color: #ffffff #ffffff #ffffff #ffffff;
 }
@@ -1947,8 +1951,8 @@ index-1
 
 .process-section .circle {
   background-color: #fff;
-  border: 3px solid #1c5c61;
-  color: #1c5c61;
+  border: 3px solid #31AFB4;
+  color: #31AFB4;
   margin: -32px auto 18px auto;
   position: relative;
 }
@@ -2424,7 +2428,7 @@ compare Student loan table
 
 .bank-account-tabs.st-tabs .nav-tabs .nav-item.show .nav-link,
 .bank-account-tabs.st-tabs .nav-tabs .nav-link.active {
-  color: #1c5c61;
+  color: #31AFB4;
   background-color: #ffffff;
   border-color: #eff1f3 #eff1f3 #fff #eff1f3;
 }
@@ -2453,8 +2457,8 @@ Service Page & Block Css
 
 #service .owl-next:hover,
 #service .owl-prev:hover {
-  background-color: #1c5c61 !important;
-  border: 2px solid #1c5c61;
+  background-color: #31AFB4 !important;
+  border: 2px solid #31AFB4;
   color: #fff;
 }
 
@@ -2469,7 +2473,7 @@ Service Page & Block Css
 }
 
 .service-block:hover i {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 #service .owl-controls {
@@ -2503,7 +2507,7 @@ Service-img
 }
 
 .circle {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
   width: 60px;
   height: 60px;
   border: 1px solid #043469;
@@ -2539,7 +2543,7 @@ Service-img
 }
 
 .circle-default {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
   color: #fff;
 }
 
@@ -2570,7 +2574,7 @@ testimonial
 }
 
 .testimonial-title {
-  color: #1c5c61;
+  color: #31AFB4;
   margin-bottom: 0px;
 }
 
@@ -2633,7 +2637,7 @@ footer
 }
 
 .widget-footer ul li a:hover {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .tiny-footer {
@@ -2676,7 +2680,7 @@ footer
 }
 
 .widget-social ul li a:hover {
-  color: #1c5c61;
+  color: #31AFB4;
   text-decoration: underline;
 }
 
@@ -2710,7 +2714,7 @@ Page header
 .rate-number {
   margin-bottom: 0px;
   line-height: 1;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .btn-action {
@@ -2739,18 +2743,18 @@ Page header
 
 .sub-nav > .nav li a:hover {
   background-color: #fff;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .sub-nav > .nav li a:focus {
   background-color: #fff;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .sub-nav > .nav li.active a {
   color: red;
   background-color: #fff;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .page-breadcrumb .breadcrumb {
@@ -2768,17 +2772,17 @@ Page header
 }
 
 .page-breadcrumb .breadcrumb > li a {
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 700;
 }
 
 .page-breadcrumb .breadcrumb > li a:hover {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .page-breadcrumb .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #1c5c61;
+  color: #31AFB4;
   content: "/\00a0";
 }
 
@@ -2853,11 +2857,11 @@ Blog
 
 .prev-link:hover,
 .next-link:hover {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .meta-date {
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 600;
 }
 
@@ -2892,7 +2896,7 @@ Blog-sidebar
 
 .widget-category li a:hover,
 .widget-archives li a:hover {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .widget-tags a {
@@ -2910,9 +2914,9 @@ Blog-sidebar
 }
 
 .widget-tags a:hover {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
   color: #fff;
-  border-color: #1c5c61;
+  border-color: #31AFB4;
 }
 
 /*----- post-author-----*/
@@ -3051,7 +3055,7 @@ Blog-single
 .name {
   font-size: 14px;
   text-transform: uppercase;
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 600;
   padding-left: 30px;
 }
@@ -3085,8 +3089,8 @@ Pagination
 .st-pagination .pagination > li > span:hover {
   z-index: 2;
   color: #fff;
-  background-color: #1c5c61;
-  border-color: #1c5c61;
+  background-color: #31AFB4;
+  border-color: #31AFB4;
   border-radius: 4px;
 }
 
@@ -3110,8 +3114,8 @@ Pagination
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #1c5c61;
-  border-color: #1c5c61;
+  background-color: #31AFB4;
+  border-color: #31AFB4;
   border-radius: 4px;
 }
 
@@ -3165,7 +3169,7 @@ Extra Plugin CSS - Back to top
   white-space: nowrap;
   visibility: hidden;
   border-radius: 5px;
-  background: #1c5c61 url(../images/cd-top-arrow.svg) no-repeat
+  background: #31AFB4 url(../images/cd-top-arrow.svg) no-repeat
     center 50%;
   opacity: 0;
   -webkit-transition: opacity 0.3s 0s, visibility 0s 0.3s;
@@ -3246,15 +3250,15 @@ Extra Plugin CSS - Back to top
 
 .portfolioFilter a:hover {
   color: #fff;
-  background-color: #1c5c61;
-  border: 1px solid #1c5c61;
+  background-color: #31AFB4;
+  border: 1px solid #31AFB4;
 }
 
 .portfolioFilter a.current {
   color: #fff;
   text-decoration: none;
-  background-color: #1c5c61;
-  border: 1px solid #1c5c61;
+  background-color: #31AFB4;
+  border: 1px solid #31AFB4;
 }
 
 /*---------- Thumbnail hover effect -------*/
@@ -3445,7 +3449,7 @@ Team
 
 .designation {
   font-size: 12px;
-  color: #1c5c61;
+  color: #31AFB4;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -3465,7 +3469,7 @@ About us
 
 .text-big {
   font-size: 20px;
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 600;
   margin-bottom: 0px;
 }
@@ -3503,7 +3507,7 @@ Contact us
 }
 
 .slide-ranger .ui-widget-header {
-  background-color: #1c5c61;
+  background-color: #31AFB4;
 }
 
 .slide-ranger .ui-state-default,
@@ -3512,12 +3516,12 @@ Contact us
 }
 
 .slide-ranger .ui-widget.ui-widget-content {
-  border: 1px solid #1c5c61;
+  border: 1px solid #31AFB4;
 }
 
 .slide-ranger .ui-slider .ui-slider-handle {
   border-radius: 100%;
-  border: 3px solid #1c5c61;
+  border: 3px solid #31AFB4;
 }
 
 /*--------------------------------
@@ -3536,7 +3540,7 @@ Product Single Sidebar
 .product-tabs .nav > li.active a {
   border-right: 1px solid #f4f6f8;
   background: #eff3f8;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .product-tabs .nav > li > a {
@@ -3555,7 +3559,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .product-tabs .nav > li > a i {
@@ -3579,7 +3583,7 @@ Product Single Sidebar
   border-right: 1px solid transparent;
   border-left: 1px solid #dee7f2;
   border-top: 1px solid #dee7f2;
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 .product-tabs .nav-tabs .nav-item.show .nav-link,
@@ -3799,7 +3803,7 @@ Shortcodes
 
 .st-tabs .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-  color: #1c5c61;
+  color: #31AFB4;
   background-color: transparent;
   border-color: #dee7f2 #dee7f2 #ffffff #dee7f2;
 }
@@ -3822,7 +3826,7 @@ Shortcodes
 }
 
 .st-tabs a:hover {
-  color: #1c5c61;
+  color: #31AFB4;
 }
 
 /*-----------------------------------------
@@ -3860,7 +3864,7 @@ Error-page
 
 .msg {
   font-size: 24px;
-  color: #1c5c61;
+  color: #31AFB4;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -4115,7 +4119,7 @@ Landing Page Template
 .credit-card-tab.nav-pills .nav-link.active,
 .credit-card-tab.nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1c5c61;
+  background-color: #31AFB4;
 }
 
 .icon-shape {
@@ -4296,7 +4300,7 @@ Landing Page Template
 
 .forex-nav .nav.nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #1c5c61;
+  color: #31AFB4;
   background-color: transparent;
   border-bottom: 2px solid;
   border-radius: 0px;
@@ -4349,15 +4353,15 @@ Landing Page Template
 }
 
 .btn-outline-default {
-  border: 1px solid #1c5c61;
-  color: #1c5c61;
+  border: 1px solid #31AFB4;
+  color: #31AFB4;
   background-color: #fff;
 }
 
 .btn-outline-default:hover {
-  border: 1px solid #1c5c61;
+  border: 1px solid #31AFB4;
   color: #fff;
-  background-color: #1c5c61;
+  background-color: #31AFB4;
 }
 
 .w-20 {

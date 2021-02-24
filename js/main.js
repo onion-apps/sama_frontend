@@ -141,6 +141,7 @@ if ($('#post-gallery , .slider , .service ').length) {
         paginationSpeed: 400,
         singleItem: true,
         pagination: true,
+        autoHeight:true,
         autoPlay: true,
         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
         addClassActive: true,
