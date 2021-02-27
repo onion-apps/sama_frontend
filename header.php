@@ -44,13 +44,13 @@
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                      <ul class="navbar-nav ml-lg-auto">
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="#">Home</a>
+                           <a class="nav-link " href="index.php">Home</a>
                         </li>
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="about.html">About</a>
+                           <a class="nav-link " href="about.php">About</a>
                         </li>
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="team.html">Services</a>
+                           <a class="nav-link " href="services.php">Services</a>
                         </li>
                         <li class="nav-item dropdown">
                            <a
