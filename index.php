@@ -13,6 +13,8 @@
          content="Financial Website Template, Bootstrap Template, Loan Product, Personal Loan, "
          />
       <title>Sama Investment - Elavating Potentials</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
       <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
       <link href="css/style.css" rel="stylesheet" />
       <link
@@ -24,12 +26,54 @@
          href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CMerriweather:300,300i,400,400i,700,700i"
          rel="stylesheet"
          />
+         <link href="css/slider.css" rel="stylesheet" />
       <link href="css/owl.carousel.css" rel="stylesheet" />
       <link href="css/owl.theme.css" rel="stylesheet" />
       <link href="css/navbar.css" rel="stylesheet" />
    </head>
    <body>
    <?php include 'header.php' ?>
+   <div class="slider" id="slider">
+         <div class="slider-img">
+            <img src="./images/slider-1.jpg" alt="Sama Investments" class="" />
+            <div class="container">
+               <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                  <div class="slider-captions">
+                     <h1 class="slider-title">
+                        Affordable Digital Loans.
+                     </h1>
+                     <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
+                        Create an account and apply. Its free !
+                     </p>
+                     <a
+                        href="http://samacustomer.herokuapp.com/login"
+                        class="btn btn-secondary"
+                        >Apply Now</a
+                        >
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div>
+            <div class="slider-img">
+               <img src="./images/slider-2.jpg" alt="Sama Investments" class="" />
+               <div class="container">
+                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                     <div class="slider-captions">
+                        <h1 class="slider-title">Repay your loan</h1>
+                        <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
+                          Repay your pre-existing loan in order to borrow more
+                        </p>
+                        <a
+                           href="http://samacustomer.herokuapp.com/login"
+                           class="btn btn btn-secondary"
+                           >Repay your loan now</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div>
             <div class="slider-img">
                <img src="./images/slider-3.jpg" alt="Sama Investments" class="" />
                <div class="container">
@@ -51,154 +95,13 @@
                </div>
             </div>
          </div>
-      </div>
-      <div class="rate-table">
-         <div class="container">
-            <div class="row">
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                  <div class="rate-counter-block">
-                     <div class="icon rate-icon">
-                        <img
-                           src="images/mortgage.svg"
-                           alt="Sama Investments"
-                           class="icon-svg-1x"
-                           />
-                     </div>
-                     <div class="rate-box">
-                        <h1 class="loan-rate">4%</h1>
-                        <small class="rate-title">Home Loans</small>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                  <div class="rate-counter-block">
-                     <div class="icon rate-icon">
-                        <img
-                           src="images/loan.svg"
-                           alt="Sama Investments"
-                           class="icon-svg-1x"
-                           />
-                     </div>
-                     <div class="rate-box">
-                        <h1 class="loan-rate">4%</h1>
-                        <small class="rate-title">Personal Loans</small>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                  <div class="rate-counter-block">
-                     <div class="icon rate-icon">
-                        <img
-                           src="images/car.svg"
-                           alt="Sama Investments"
-                           class="icon-svg-1x"
-                           />
-                     </div>
-                     <div class="rate-box">
-                        <h1 class="loan-rate">4%</h1>
-                        <small class="rate-title">Car Loans</small>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                  <div class="rate-counter-block">
-                     <div class="icon rate-icon">
-                        <img
-                           src="images/credit-card.svg"
-                           alt="Sama Investments"
-                           class="icon-svg-1x"
-                           />
-                     </div>
-                     <div class="rate-box">
-                        <h1 class="loan-rate">4%</h1>
-                        <small class="rate-title">Education Loans</small>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="bg-white section-space80">
-         <div class="container">
-            <div class="row">
-               <div
-                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
-                  >
-                  <div class="mb100 text-center section-title">
-                     <h1>How does it work?</h1>
-                     <p>
-                        Sama lets you choose the Amount you want as loan and apply
-                        minutes
-                     </p>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
-                  <div class="bg-white pinside40 number-block mb30 outline">
-                     <div class="circle"><span class="number">1</span></div>
-                     <h3>Await Approval</h3>
-                     <p>
-                        Get the Fastest approval time for every loan you apply for
-                        straight to your Phone
-                     </p>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
-                  <div class="bg-white pinside40 number-block mb30 outline">
-                     <div class="circle"><span class="number">2</span></div>
-                     <h3>Approved Your Loan</h3>
-                     <p>
-                        Get your money directly deposited in your account within minutes
-                        immediately after approval
-                     </p>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
-                  <div class="bg-white pinside40 number-block mb30 outline">
-                     <div class="circle"><span class="number">3</span></div>
-                     <h3>Get Your Cash</h3>
-                     <p>
-                        Get your money directly deposited in your account within minutes
-                        immediately after approval
-                     </p>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div
-                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center mt30"
-                  >
-                  <a
-                     href="http://samacustomer.herokuapp.com/login "
-                     class="btn btn-secondary"
-                     >Find your rate</a
-                     >
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="section-space80">
-         <div class="container">
-            <div class="row">
-               <div
-                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
-                  >
-                  <div class="mb100 text-center section-title">
-                     <h1>Save, Fastest Loan & Grow</h1>
-                     <p class="lead">
-                        SAMA growth Investment is a women led organisation working
-                        towards poverty eradication, social and economic security. We
-                        thrive in enhancing the dignity of all through environmental
-                        conservation and microfinance.
-                     </p>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
+</div>
+<div class="bg-white section-space80">
+        <div class="container">
+        <div class="row">
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="text-center">
-                     <h1 class="big-title">150,000+</h1>
+                     <h1 class="big-title">100+</h1>
                      <div class="small-title">Customers Empowered</div>
                   </div>
                </div>
@@ -219,6 +122,78 @@
                   </div>
                </div>
             </div>
+    </div>
+      <div class="bg-white section-space80">
+        <div class="container">
+        <div class="row">
+                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12">
+                    <div class="mb100 text-center section-title">
+                        <!-- section title start-->
+                        <h1>Save, Fastest Loan & Grow</h1>
+                        <br>
+                        <p class="lead">At Sama we help you reach your  financial goal by offering great affordable rates for less interest fees.All our services are fully smartphone-based. We avoid challenges imposed by traditional institutions, while providing our customers access to fast reliable Loans.</p>
+                   <p class="lead">Affordable rates just for You.</p>
+                     </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+        </div>
+    </div>
+      <div class="bg-white section-space80">
+         <div class="container">
+            <div class="row">
+               <div
+                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
+                  >
+                  <div class="mb100 text-center section-title">
+                     <h1>How does it work?</h1>
+                     <p class="lead">
+                        Sama lets you choose the Amount you want as loan and apply
+                        minutes
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
+                  <div class="bg-white pinside40 number-block mb30 outline">
+                     <div class="circle"><span class="number">1</span></div>
+                     <h3>Sign Up</h3>
+                     <p class="lead">
+                     Sign up directly in our website, and fill out your personal information to apply for your first loan.
+                     </p>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
+                  <div class="bg-white pinside40 number-block mb30 outline">
+                     <div class="circle"><span class="number">2</span></div>
+                     <h3>Apply for your Loan</h3>
+                     <p class="lead">
+                     Borrow thousands of kenyan shillings with no security required within minutes and directly on your phone.
+                     </p>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
+                  <div class="bg-white pinside40 number-block mb30 outline">
+                     <div class="circle"><span class="number">3</span></div>
+                     <h3>Get Your Cash</h3>
+                     <p class="lead">
+                     Once approved, congratulations! You’ve been approved for your first Sama loan. Money will be directly deposited in your account
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div
+                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center mt30"
+                  >
+                  <a
+                     href="loancalc.php"
+                     class="btn btn-secondary"
+                     >Calculate your rate</a
+                     >
+               </div>
+            </div>
          </div>
       </div>
       <div class="cta">
@@ -228,14 +203,15 @@
                   class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
                   >
                   <div class="mb60 text-center section-title text-white">
-                     <h1 class="text-white">Why People Choose Us</h1>
-                     <p>
+                     <h1>Why People Choose Us</h1>
+                     <p class="whytxt">
                         We provide flexible low interest loans providing the support and
                         boost to individuals requiring to Fast Loan cash for their daily
                         needs.
                      </p>
                   </div>
-               </div>
+                  </div>
+            
             </div>
             <div class="row">
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
@@ -244,7 +220,7 @@
                         <i class="icon-command icon-4x icon-white"></i>
                      </div>
                      <h3 class="text-white mb30">FAST APPROVAL</h3>
-                     <p>
+                     <p class="whytxt">
                         Our team is dedicated to give you 24 HR Approval time for all
                         the loans you apply for.
                      </p>
@@ -256,7 +232,7 @@
                         <i class="icon-calculator icon-4x icon-white"></i>
                      </div>
                      <h3 class="text-white mb30">No Front Appraisal Fees!</h3>
-                     <p>
+                     <p class="whytxt">
                         No appraisal fee is charged for Registration and application of
                         a Loan.
                      </p>
@@ -268,91 +244,121 @@
                         <i class="icon-medal icon-4x icon-white"></i>
                      </div>
                      <h3 class="text-white mb30">LOWEST RATES</h3>
-                     <p>We offer the Lowest Loan Interest rates in Kenya.</p>
+                     <p class="whytxt">We offer the Lowest Loan Interest rates in Kenya.</p>
                   </div>
                </div>
             </div>
          </div>
       </div>
-    
-      <div class="bg-white section-space80">
+      <!--    <div class="section-space80">
          <div class="container">
-            <div class="row">
-               <div
-                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12"
-                  >
-                  <div class="mb60 text-center section-title">
-                     <h1>Our Client Testimonials</h1>
-                     <p>
-                        See what our customers have to say about SAMA products, people
-                        and services.
-                     </p>
-                  </div>
+           <div class="row">
+             <div
+               class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
+             >
+               <div class="mb60 text-center section-title">
+                 <h1>OUR GOAL</h1>
+                 <p>
+                   Our mission is to raise our community by Improving other peoples
+                   lives and providing technical and upto standard support.
+                 </p>
                </div>
-            </div>
-            <div class="row">
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 clearfix">
-                  <div class="testimonial-block mb30 text-center">
-                     <div class="mb20">
-                        <p class="testimonial-text">
-                           "I have been receiving loans from SAMA for the last 3 years and
-                           I have no regrets. Through their support, I have been able to
-                           open my salon and barber shop. What I like most about them is
-                           their lower interest rates and flexible repayment period."
-                        </p>
-                     </div>
-                     <div class="testimonial-autor-box">
-                        <div class="testimonial-autor">
-                           <h4 class="testimonial-name-1">Vicky</h4>
-                           <span class="testimonial-meta">Mombasa</span>
-                        </div>
-                     </div>
-                  </div>
+             </div>
+           </div>
+         <div class="row">
+             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+               <div class="post-block mb30">
+                 <div class="post-img">
+                   <a class="imghover"
+                     ><img
+                       src="images/loaning-project.jpg"
+                       alt="Sama Investments"
+                       class="img-fluid"
+                   /></a>
+                 </div>
+                 <div class="bg-white pinside40 outline">
+                   <h3>
+                     <a href="loaning-project.html" class="title">
+                       Loaning Project</a
+                     >
+                   </h3>
+                   <p>
+                     SAMA growth investment runs a financial institution project formed in 2014 which provides opportunities to thousands of families gradually uplifting them out of poverty and elevating them to improved living standards through microfinance. We aim to unlock the potential of each and every individual that we come across through giving them the financial support and boost they require.
+                   </p>
+                   <p class="meta">
+                    <span class="meta-author"
+                       ><a href="loan-project.html"> Learn More</a></span
+                     >
+                   </p>
+                 </div>
                </div>
-               <br>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 clearfix">
-                  <div class="testimonial-block mb30 text-center">
-                     <div class="mb20">
-                        <p class="testimonial-text">
-                           "SAMA invested in me. Through their loans I have been able to
-                           open and sustain my business through time. I am able to manage and plan my finances
-                           knowing that SAMA's got me everytime."
-                        </p>
-                     </div>
-                     <br>
-                     <div class="testimonial-autor-box">
-                        <div class="testimonial-autor">
-                           <h4 class="testimonial-name-1">Margaret</h4>
-                           <span class="testimonial-meta">Malindi</span>
-                        </div>
-                     </div>
-                  </div>
+             </div>
+             <br />
+             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+               <div class="post-block mb30">
+                 <div class="post-img">
+                   <a href="tree-project.html" class="imghover"
+                     ><img
+                       src="images/treeblog.jpg "
+                       alt="Sama Investments "
+                       class="img-fluid"
+                   /></a>
+                 </div>
+                 <div class="bg-white pinside40 outline">
+                   <h3>
+                     <a href="tree-project.html" class="title">
+                     </a
+                     >Tree Project
+                   </h3>
+                   <p>
+                     Through our Forest project, we plant trees and encourage as many communities as we can to embrace tree planting. We recognize that trees contribute to the environment by providing oxygen, improving air quality, climate amelioration, conserving water, preserving soil, and supporting wildlife. 
+                   </p>
+                   <p class="meta">
+                   <span class="meta-author"
+                       ><a href="tree-project.html">Learn More</a></span
+                     >
+                   </p>
+                 </div>
                </div>
-               <br>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 clearfix">
-                  <div class="testimonial-block mb30 text-center">
-                     <div class="mb20">
-                        <p class="testimonial-text">
-                           "We understand that excess carbon dioxide (CO2) is building up
-                           in our atmosphere, contributing to climate change . We have
-                           been planting trees to change the narrative; one tree at a
-                           time."
-                        </p>
-                     </div>
-                     <br>
-                     <div class="testimonial-autor-box">
-                        <div class="testimonial-autor">
-                           <h4 class="testimonial-name-1">Mercy</h4>
-                           <span class="testimonial-meta">Kisumu</span>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <br>
-            </div>
+             </div>
+             <br />
+           
+           </div>
          </div>
-      </div>
-      <div class="section-space80">
+         </div>--> 
+         <br>
+         <div class="testimony slider">
+         <div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div id="testimonial-slider" class="owl-carousel">
+                <div class="testimonial">
+                    <p class="description">
+                        " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra lectus quis placerat ultricies. Praesent ipsum turpis, mollis eget accumsan id, iaculis vel ipsum. Sed.  "
+                    </p>
+                    <div class="pic">
+                        <img src="images/img-1.jpg">
+                    </div>
+                    <h3 class="title">williamson</h3>
+                    <span class="post">Web Developer</span>
+                </div>
+ 
+                <div class="testimonial">
+                    <p class="description">
+                        " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra lectus quis placerat ultricies. Praesent ipsum turpis, mollis eget accumsan id, iaculis vel ipsum. Sed.  "
+                    </p>
+                    <div class="pic">
+                        <img src="images/img-2.jpg">
+                    </div>
+                    <h3 class="title">Kristina</h3>
+                    <span class="post">Web Designer</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+       <div class="section-space80">
          <div class="container">
             <div class="row">
                <div
@@ -360,7 +366,7 @@
                   >
                   <div class="mb60 text-center section-title">
                      <h1>We are here to help you</h1>
-                     <p>
+                     <p class="lead">
                         Our mission is to deliver reliable, latest news and opinions.
                      </p>
                   </div>
@@ -375,7 +381,7 @@
                         <i class="icon-calendar-3 icon-2x icon-default"></i>
                      </div>
                      <h2 class="capital-title">Apply For Loan</h2>
-                     <p>Looking to get a loan? Sign up now.</p>
+                     <p class="lead">Looking to get a loan? Sign up now.</p>
                      <a href="http://samacustomer.herokuapp.com/" class="btn-link">Sign Up</a>
                   </div>
                </div>
@@ -388,8 +394,8 @@
                      </div>
                      <h2 class="capital-title">Contact us</h2>
                      <h1 class="text-big">+254 797 837 351</h1>
-                     <p>lnfo@samainvestment.co.ke</p>
-                     <a href="contact-us.html " class="btn-link">Contact us</a>
+                     <p class="lead">lnfo@samainvestment.co.ke</p>
+                     <a href="contactus.php " class="btn-link">Contact us</a>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
@@ -400,15 +406,19 @@
                         <i class="icon-users icon-2x icon-default"></i>
                      </div>
                      <h2 class="capital-title">Talk to Advisor</h2>
-                     <p>Need to loan advise? Talk to our Loan advisors.</p>
+                     <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
                      <a href="lnfo@samainvestment.co.ke " class="btn-link">Meet The Advisor</a>
-                  </div>
-               </div>
+                     </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
+        </div>
+    </div>
       <?php include 'footer.php';?>
-
       <a href="#0 " class="cd-top" title="Go to top ">Top</a>
       <script src="js/jquery.min.js "></script>
       <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
@@ -426,5 +436,6 @@
          })();
       </script>
       <script src="js/back-to-top.js "></script>
+      <script src="calculator.js "></script>
    </body>
 </html>

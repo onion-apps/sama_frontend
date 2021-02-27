@@ -23,7 +23,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="page-breadcrumb">
                     <ol class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li class="active">FAQs</li>
                     </ol>
                 </div>
@@ -43,7 +43,7 @@
                 <div class="sub-nav" id="sub-nav">
                     <ul class="nav nav-justified">
                         <li class="nav-item">
-                            <a href="contact-us.html" class="nav-link">Contact us</a>
+                            <a href="contactus.php" class="nav-link">Contact us</a>
                         </li>
                         <li class="nav-item">
                             <a href="https://samagrowthinvest.wixsite.com/minside" class="nav-link">Know More</a>
@@ -80,7 +80,7 @@
                                             </div>
                                             <div id="collapseOne" class="collapse show" aria-labelledby="faqOne" data-parent="#Faqaccordionsone">
                                                 <div class="card-body">
-                                                    You can borrow between ksh 2,000 to max Ksh 50,000. This depends on your repayment history that contributes to your rating . The faster you pay the higher your ratings . If you are also consistent in your repayment you will gain points and higher ratings .
+                                                You can borrow between Ksh 1,000 to max Ksh 100,000. This depends on your repayment history that contributes to your rating . The faster you pay the higher your ratings . If you are also consistent in your repayment you will gain points and higher ratings .
 
 
                                                 </div>
@@ -96,8 +96,7 @@
                                             </div>
                                             <div id="collapseTwo" class="collapse" aria-labelledby="faqTwo" data-parent="#Faqaccordionsone">
                                                 <div class="card-body">
-                                                    When you pay your Loan ealier you increase your loan limit allowing you to have accessto higher loan amounts
-                                                </div>
+                                                When you pay your Loan ealier you increase your loan limit allowing you to have access to higher loan amounts                                                </div>
                                             </div>
                                         </div>
                                         <div class="card mb-1">
@@ -112,8 +111,7 @@
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="faqThree" data-parent="#Faqaccordionsone">
                                                 <div class="card-body">
-                                                    Anyone above 18 years old , living and working in Kenya with an ID can apply for a loan.
-                                                </div>
+                                                Anyone above the age of 18 with an ID and an M-Pesa account. You will also need a SAMA Silver and above customer to be your guarantor.                                                 </div>
                                             </div>
                                         </div>
                                         <div class="card mb-1">
@@ -126,7 +124,7 @@
                                             </div>
                                             <div id="collapseFour" class="collapse" aria-labelledby="faqFour" data-parent="#Faqaccordionsone">
                                                 <div class="card-body">
-                                                    Application begins immediately after registration for new members and after the previous loan is paid for Members .
+                                                New members need to register to apply, while returning clients need to repay current loan before applying for a new loan.
                                                 </div>
                                             </div>
                                         </div>
@@ -138,7 +136,7 @@
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     <div class="section-title mb30">
-                                        <h1>Loan Repayments</h1>
+                                        <h1>Loan procedures</h1>
                                     </div>
                                 </div>
                             </div>
@@ -149,13 +147,14 @@
                                             <div class="card-header" id="faqFive">
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        <i class="fa fa-plus-circle mr-1 "></i>How‌ ‌long‌ ‌is‌ ‌the‌ ‌loan‌ ‌repayment‌ ‌period?‌ ‌
+                                                        <i class="fa fa-plus-circle mr-1 "></i>If i have other Loans can i apply?
+‌
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseFive" class="collapse" aria-labelledby="faqFive" data-parent="#Faqaccordiontwo">
                                                 <div class="card-body">
-                                                    Three months 
+                                                No. You need to clear your loan to apply for a new loan.
                                                 </div>
                                             </div>
                                         </div>
@@ -163,14 +162,14 @@
                                             <div class="card-header" id="faqSix">
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                                        <i class="fa fa-plus-circle mr-1 "></i>What is the repayment procedure?
+                                                        <i class="fa fa-plus-circle mr-1 "></i> How fast will my loan be funded?
+
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseSix" class="collapse" aria-labelledby="faqSix" data-parent="#Faqaccordiontwo">
                                                 <div class="card-body">
-                                                    You will be expected to make monthly instalments. Your total loan plus interest will be divided in three equal instalments to be paid on a month to month basis for three months maximum 
-
+                                                Immediately after approval your loan is disbursed to your M-pesa account.
                                                 </div>
                                             </div>
                                         </div>
@@ -185,22 +184,20 @@
                                             </div>
                                             <div id="collapseSeven" class="collapse" aria-labelledby="faqSeven" data-parent="#Faqaccordiontwo">
                                                 <div class="card-body">
-                                                    After three months have elapsed without repayment, a fine of 5 % of your loan balance will be charged weekly
-                                                </div>
+                                                No. Loans are repaid at the required time period chosen during application.                                                </div>
                                             </div>
                                         </div>
                                         <div class="card mb-1">
                                             <div class="card-header" id="faqEight">
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-                                                        <i class="fa fa-plus-circle mr-1 "></i> If i have other Loans can i apply?
+                                                        <i class="fa fa-plus-circle mr-1 "></i>Is my Loan history publicly available?
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseEight" class="collapse" aria-labelledby="faqEight" data-parent="#Faqaccordiontwo">
                                                 <div class="card-body">
-                                                    Anybody can apply as long as your financial statements validate your ability to pay back the loan.
-                                                </div>
+                                                No. Your data is private and secure with us. Your account information is only accesible to you.                                                </div>
                                             </div>
                                         </div>
                                         <div class="card mb-1">
@@ -225,7 +222,7 @@
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     <div class="section-title mb30">
-                                        <h1>After You Apply</h1>
+                                        <h1>What are the loan eligibility </h1>
                                     </div>
                                 </div>
                             </div>
@@ -237,15 +234,14 @@
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="" data-toggle="collapse" data-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
                                                         <i class="fa fa-plus-circle mr-1 "></i>
-                                                        Can I roll over my loan? 
+                                                        What are the loan eligibility requirements and conditions? 
                                                         
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseTen" class="collapse show" aria-labelledby="headingTen" data-parent="#FaqaccordionThree">
                                                 <div class="card-body">
-                                                    Yes, to qualify for a roll over you need to indicate your intentions of a roll over one week before your loan repayment deadline, then make sure you have paid 100% of your loan interest.The roll over will last for three months from the date of the roll over and you will be charged 10% interest of the total amount that has been rolled over.
-
+                                                You must be of legal age, have a financial record and any other documents required for loan application
 
                                                 </div>
                                             </div>
@@ -254,28 +250,29 @@
                                             <div class="card-header" id="headingEleven">
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="collapsed" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                                        <i class="fa fa-plus-circle mr-1 "></i> How fast will my loan be funded?
+                                                        <i class="fa fa-plus-circle mr-1 "></i> How do I pay back a loan?
+
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#FaqaccordionThree">
                                                 <div class="card-body">
-                                                    Immediatly after approval your loan is disbursed to your phone or account.
-                                                </div>
+                                                You can pay via mobile banking, Mpesa or paypal. You can also log in to your account and follow the steps under ‘Loan repayment’.                                                </div>
                                             </div>
                                         </div>
                                         <div class="card mb-1">
                                             <div class="card-header" id="headingTwelve">
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="collapsed" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-                                                        <i class="fa fa-plus-circle mr-1 "></i> What is the interest rate? 
+                                                        <i class="fa fa-plus-circle mr-1 "></i> How is approval determined
+ 
 
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#FaqaccordionThree">
                                                 <div class="card-body">
-                                                    4% per month.
+                                                Loan decisions are based on many pieces of information, including income, repayment of other loans, M-Pesa usage, and other information. Users provide us this information by using the app and filling out our survey, and then our software builds a personal credit profile.You will also require to be guaranteed by a SAMA Silver, Gold or  Diamond customer.
                                                 </div>
                                             </div>
                                         </div>
@@ -283,12 +280,13 @@
                                             <div class="card-header" id="headingThirteen">
                                                 <h4 class="mb-0">
                                                     <a href="#!" class="collapsed" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                                                        <i class="fa fa-plus-circle mr-1 "></i> How many times can I roll over my loan?
+                                                        <i class="fa fa-plus-circle mr-1 "></i> How does the early repayment work?
+
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseThirteen" class="collapse" aria-labelledby="headingTwelve" data-parent="#FaqaccordionThree">
-                                                <div class="card-body">once
+                                                <div class="card-body">SAMA loans run for three months max and customers are expected to do equal monthly instalments every month to pay back the loans. It is considered early repayment when you pay the whole amount plus interest within two months.
 
                                                 </div>
                                             </div>

@@ -39,17 +39,17 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
           <div class="widget-text mt40">
-            <p>
+            <h6>
               We believe that dignified families result to a better village
               and country. Our presence is found where the potential for our
               impact is greatest.
-            </p>
+</h6>
             <div class="row">
               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                <p class="address-text">
+                <h6>
                   <span><i class="icon-placeholder-3 icon-1x"></i> </span
                   >Nairobi, Kenya
-                </p>
+</h6>
               </div>
               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                 <p class="call-text">
@@ -62,12 +62,12 @@
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
           <div class="widget-footer mt40">
             <ul class="listnone">
-              <li><a href="index.html ">Home</a></li>
-              <li><a href="blog-listing.html ">Services</a></li>
-              <li><a href="about.html ">About Us</a></li>
+              <li><a href="index.php ">Home</a></li>
+              <li><a href="services.php ">Services</a></li>
+              <li><a href="about.php ">About Us</a></li>
 
-              <li><a href="faq.html ">FAQs</a></li>
-              <li><a href="contact-us.html ">Contact Us</a></li>
+              <li><a href="faq.php ">FAQs</a></li>
+              <li><a href="contactus.php ">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -80,17 +80,17 @@
                 >
               </li>
               <li>
-                <a href="loan-calculator.html"
-                  >Check my Rate</a
+                <a href="http://samacustomer.herokuapp.com/login"
+                  >Repay my loan</a
                 >
               </li>
               <li>
-                <a href="contact-us.html"
+                <a href="contactus.php"
                   >Get Help</a
                 >
               </li>
               <li>
-                <a href="contact-us.html"
+                <a href="contactus.php"
                   >Refer a friend</a
                 >
               </li>
@@ -120,10 +120,10 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-          <p>© Copyright <?php echo date('Y')?> | Sama Investment</p>
+          <h6>© Copyright <?php echo date('Y')?> | Sama Investment</h6>
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-          <p>Terms of use | Privacy Policy</p>
+        <h6>Terms of use | Privacy Policy</h6>
         </div>
       </div>
     </div>

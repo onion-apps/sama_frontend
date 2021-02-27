@@ -26,7 +26,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Services</li>
                         </ol>
                     </div>
@@ -45,7 +45,7 @@
                     <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="contact-us.html" class="nav-link">Contact Us</a>
+                                <a href="contactus.php" class="nav-link">Contact Us</a>
                             </li>
                             <li class="nav-item">
                                 <a href="https://samagrowthinvest.wixsite.com/minside" class="nav-link">Know More</a>
@@ -66,14 +66,14 @@
                           <p class="lead">Sama Investment gives you access to short-term borrowing  of loans to people who need access to credit instantly. We give you payday loans online in real-time. As a our customer you can expect to have your funds in your bank account within just a few minutes of your loan online application.</p>
                           <div class="row">
                               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                  <p>To be able to borrow for Sama Investment, one needs to own an android smartphone, be at least 18 years with a valid national ID and also be a registered Safaricom subscriber in order for funds to be deposited in your account </p>
+                                  <p class="lead">To be able to borrow for Sama Investment, one needs to own an android smartphone, be at least 18 years with a valid national ID and also be a registered Safaricom subscriber in order for funds to be deposited in your account </p>
                               </div>
                               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                  <p>Sama loans are designed to offer people short term credit to get them through an emergency or unexpected expense.An instant loan online offers a valuable service to people who do not have an alternative, such as having savings or availability on a credit card.</p>
+                                  <p class="lead">Sama loans are designed to offer people short term credit to get them through an emergency or unexpected expense.An instant loan online offers a valuable service to people who do not have an alternative, such as having savings or availability on a credit card.</p>
                               </div>
                           </div>
                           <hr>
-                          <p>Unlimited Loans at 3.4% intrest </p>
+                          <p class="lead">Unlimited Loans at 3.4% intrest </p>
                           <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply for loan</a>
                       </div>
                      
@@ -84,7 +84,7 @@
                 <div class="mb-5 mb-lg-0">
                  
                   <h1>Our Loans</h1>
-                  <p>
+                  <p class="lead">
                    We ensure that Application for a loan is a go to process allowing our users to access emergency funds from a click of a button
                   </p>
                    <a href="http://samacustomer.herokuapp.com/login" class="btn-link">Apply Now</a>
@@ -111,10 +111,10 @@
                 
                       <br>
                     <h1>Our Services</h1>
-                    <p>
+                    <p class="lead">
                       We make Loan application a smooth go to process giving you access to instant cash straight to your phone no registration cost charged
                     </p>
-                    <a href="contact-us.html" class="btn-link">Contact Us</a>
+                    <a href="contactus.php" class="btn-link">Contact Us</a>
                   </div>
                 </div>
               </div>
@@ -126,7 +126,7 @@
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title mb60">
                                             <h2>Why take a loan?</h2>
-                                            <p>We take loans for various financial reasons each no more important than the last. Whether it's a personal loan, Vacation loan or Education Loan Here at Sama we are with you every step of the way. </p>
+                                            <p class="lead">We take loans for various financial reasons each no more important than the last. Whether it's a personal loan, Vacation loan or Education Loan Here at Sama we are with you every step of the way. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -134,25 +134,25 @@
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3> Car Loan</h3>
-                                            <p>Whether you choose a new or used car, a loan from Sama Investments can help spread the cost of your purchase. Our loans are available to finance the cost of any car up to the amount you need. Become a member Today</p>
+                                            <p class="lead">Whether you choose a new or used car, a loan from Sama Investments can help spread the cost of your purchase. Our loans are available to finance the cost of any car up to the amount you need. Become a member Today</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Education Loan</h3>
-                                            <p>Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Personal loan</h3>
-                                            <p>To finance your personal projects we offerfast personal loan adjusted to your profile with ease and speed. </p>
+                                            <p class="lead">To finance your personal projects we offerfast personal loan adjusted to your profile with ease and speed. </p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Investment loans</h3>
-                                            <p>This loan is intended for every professional aiming to accelerate the growth of his project through a financial strategy and tolerance of reimbursement.</p>
+                                            <p class="lead">This loan is intended for every professional aiming to accelerate the growth of his project through a financial strategy and tolerance of reimbursement.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -173,7 +173,7 @@
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     <h1 class="text-white mb-4">Get financing for your needs</h1>
-                                    <a href="contact-us.html" class="btn btn-secondary">Enquire Now</a>
+                                    <a href="contactus.php" class="btn btn-secondary">Enquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -190,19 +190,19 @@
                                   <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                                       <div class="feature-blurb mb30">
                                           <h3>Age</h3>
-                                          <p>Minimum age of applicant at loan maturity is 18 years and with an identification card</p>
+                                          <p class="lead">Minimum age of applicant at loan maturity is 18 years and with an identification card</p>
                                       </div>
                                   </div>
                                   <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                                       <div class="feature-blurb mb30">
                                           <h3>Credit Score</h3>
-                                          <p>An applicant should be able to repay their Loan on the agreed time </p>
+                                          <p class="lead">An applicant should be able to repay their Loan on the agreed time </p>
                                       </div>
                                   </div>
                                   <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                                       <div class="feature-blurb mb30">
                                           <h3>Service Provider</h3>
-                                          <p>Applicant should have to be a registered Safaricom subscriber. </p>
+                                          <p class="lead">Applicant should have to be a registered Safaricom subscriber. </p>
                                       </div>
                                   </div>
                               </div>
@@ -220,28 +220,28 @@
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-dollar-bill icon-default icon-2x"></i></div>
                                             <h3>Instant Cash</h3>
-                                            <p>Apply in as few as 5 Minutes and get your money deposited to your Smartphone </p>
+                                            <p class="lead">Apply in as few as 5 Minutes and get your money deposited to your Smartphone </p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-documentation icon-default icon-2x"></i></div>
                                             <h3>Fast Approval</h3>
-                                            <p>Get your Loan Approved within minutes of application.</p>
+                                            <p class="lead">Get your Loan Approved within minutes of application.</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-money icon-default icon-2x"></i></div>
                                             <h3>Direct Lender</h3>
-                                            <p>At Sama we are the ones who approve and disburse funds to your account.No third party is used. </p>
+                                            <p class="lead">At Sama we are the ones who approve and disburse funds to your account.No third party is used. </p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-dollar-coins icon-default icon-2x"></i></div>
                                             <h3>Increased Limit</h3>
-                                            <p>Your Loan limit increase everytime you repay your loan on time allowing you to apply for a larger loan .</p>
+                                            <p class="lead">Your Loan limit increase everytime you repay your loan on time allowing you to apply for a larger loan .</p>
                                         </div>
                                     </div>
                                 </div>
@@ -254,7 +254,7 @@
                         <div class="col-lg-12 col-md-12 col-12">
                           <div class="mb-5 text-center">
                             <h1>Online Tech support</h1>
-                            <p>
+                            <p class="lead">
                               Our team is always here to help you out in-case of issues <br />
                               We are here for you.
                             </p>
@@ -267,7 +267,7 @@
                             <div class="card-body">
                               <img src="./images/user-tie.svg" alt="Sama investments" class="mb-4" />
                               <h3>Expert info</h3>
-                              <p>
+                              <p class="lead">
                                 Our team of highly skilled experts on loans will advice you accordingly and guide you through the application process
                               </p>
                             </div>
@@ -278,7 +278,7 @@
                             <div class="card-body">
                               <img src="./images/tools.svg" alt="Sama Investments" class="mb-4" />
                               <h3>Helpful tools</h3>
-                              <p>
+                              <p class="lead">
                                You can be able to apply online through our well satted online application process guide and have your loan in minutes
                               </p>
                             </div>
@@ -289,7 +289,7 @@
                             <div class="card-body">
                               <img src="./images/chart-pie.svg" alt="Sama Investments" class="mb-4" />
                               <h3>Loan record</h3>
-                              <p>
+                              <p class="lead">
                                Your account will help you keep track of your loans and repayment patterns kepping you always informed.
                               </p>
                             </div>
@@ -310,7 +310,7 @@
                                     <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                                         <div class="mb60 text-center section-title">
                                             <h1>We are here to help you</h1>
-                                            <p>
+                                            <p class="lead">
                                                 Our mission is to deliver Fast Reliable Services.
                                             </p>
                                         </div>
@@ -323,7 +323,7 @@
                                                 <i class="icon-calendar-3 icon-2x icon-default"></i>
                                             </div>
                                             <h2 class="capital-title">Apply For Loan</h2>
-                                            <p>
+                                            <p class="lead">
                                                 Looking to buy a car or home loan? then apply for loan now.
                                             </p>
                                             <a href="http://samacustomer.herokuapp.com/" class="btn-link">Get Appointment</a>
@@ -336,8 +336,8 @@
                                             </div>
                                             <h2 class="capital-title">Call us at</h2>
                                             <h1 class="text-big">+254 797 837 351</h1>
-                                            <p>lnfo@samainvestment.co.ke</p>
-                                            <a href="contact-us.html" class="btn-link">Contact us</a>
+                                            <p class="lead">lnfo@samainvestment.co.ke</p>
+                                            <a href="contactus.php" class="btn-link">Contact us</a>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
@@ -346,8 +346,8 @@
                                                 <i class="icon-users icon-2x icon-default"></i>
                                             </div>
                                             <h2 class="capital-title">Talk to Advisor</h2>
-                                            <p>Need to loan advise? Talk to our Loan advisors.</p>
-                                            <a href="contact-us.html" class="btn-link">Meet The Advisor</a>
+                                            <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
+                                            <a href="contactus.php" class="btn-link">Meet The Advisor</a>
                                         </div>
                                     </div>
                                 </div>

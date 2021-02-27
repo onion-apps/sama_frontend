@@ -66,20 +66,23 @@
                            </a>
                            <ul class="dropdown-menu" aria-labelledby="navbarFeatures">
                               <li>
-                                 <a class="dropdown-item" href="loanproject.html">Loaning project</a>
+                                 <a class="dropdown-item" href="loanproject.php">Loaning project</a>
                               </li>
-                              <li><a class="dropdown-item" href="tree-project.html">Tree Project</a></li>
+                              <li><a class="dropdown-item" href="tree-project.php">Tree Project</a></li>
                            </ul>
                         </li>
+                       
                         <li>
-                         <a class="nav-link " href="faq.html">FAQs</a>
+                         <a class="nav-link " href="faq.php">FAQs</a>
                         </li>
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="contact-us.html">Contact us</a>
+                           <a class="nav-link " href="contactus.php">Contact us</a>
                         </li>
+                       
+                      
                      </ul>
                
-                     <a href="loan-calculator.html" class="btn sama-cta-btn btn-sm ml-5">Apply for a Loan Now</a>
+                     <a href="loancalc.php" class="btn sama-cta-btn btn-sm ml-5">Apply for a Loan Now</a>
    
                     
                   </div>

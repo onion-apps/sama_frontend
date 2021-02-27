@@ -23,7 +23,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Contact us</li>
                         </ol>
                     </div>
@@ -42,7 +42,7 @@
                     <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="contact-us.html" class="nav-link">Contact Us</a>
+                                <a href="contactus.php" class="nav-link">Contact Us</a>
                             </li>
                             <li class="nav-item">
                                 <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank" class="nav-link">Know More</a>
@@ -63,7 +63,7 @@
                                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                                     <div class="mb60  section-title text-center  ">
                                         <h1>Get In Touch</h1>
-                                        <p>Reach out to us &amp; we will respond as soon as we can.</p>
+                                        <p class="lead">Reach out to us &amp; we will respond as soon as we can.</p>
                                     </div>
                                 </div>
                                 <form class="contact-us" method="post" action="contact-us.php">
@@ -101,48 +101,55 @@
                                 </form>
                             </div>
                         </div>
-                        <div class="contact-us mb60">
-                            <div class="row">
-                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                    <div class="mb60  section-title">
-                                        <h1>We are here to help you </h1>
-                                        <p class="lead">Reach to us incase of any enquiry</p>
+                        <div class="cta-section pinside60 bg-white section-space120">
+                            <div class=" ">
+                                <div class="row">
+                                    <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
+                                        <div class="mb60 text-center section-title">
+                                            <h1>We are here to help you</h1>
+                                            <p class="lead">
+                                                Our mission is to deliver Fast Reliable Services.
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                                    <div class="bg-boxshadow pinside60 outline text-center mb30">
-                                        <div class="mb40"><i class="icon-calendar-3 icon-2x icon-default"></i></div>
-                                        <h2 class="capital-title">Apply Now</h2>
-                                        <p>Looking for some instant cash loans?
+                                <div class="row">
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
+                                            <div class="mb40">
+                                                <i class="icon-calendar-3 icon-2x icon-default"></i>
+                                            </div>
+                                            <h2 class="capital-title">Apply For Loan</h2>
+                                            <p class="lead">
+                                                Looking to buy a car or home loan? then apply for loan now.
+                                            </p>
                                             <a href="http://samacustomer.herokuapp.com/" class="btn-link">Get Appointment</a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                                    <div class="bg-boxshadow pinside60 outline text-center mb30">
-                                        <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
-                                        <h2 class="capital-title">Call us at </h2>
-                                        <h1 class="text-big">+(254) 797 837 351 </h1>
-                                        <a href="contact-us.html" class="btn-link">Contact us</a>
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
+                                            <div class="mb40">
+                                                <i class="icon-phone-call icon-2x icon-default"></i>
+                                            </div>
+                                            <h2 class="capital-title">Call us at</h2>
+                                            <h1 class="text-big">+254 797 837 351</h1>
+                                            <p class="lead">lnfo@samainvestment.co.ke</p>
+                                            <a href="contactus.php" class="btn-link">Contact us</a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                                    <div class="bg-boxshadow pinside60 outline text-center mb30">
-                                        <div class="mb40"> <i class="icon-letter icon-2x icon-default"></i></div>
-                                        <h2 class="capital-title">Email Address</h2>
-                                        <p>lnfo@samainvestment.co.ke</p>
-                                        <a href="gmail.com" class="btn-link">Email us</a>
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
+                                            <div class="mb40">
+                                                <i class="icon-users icon-2x icon-default"></i>
+                                            </div>
+                                            <h2 class="capital-title">Talk to Advisor</h2>
+                                            <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
+                                            <a href="contactus.php" class="btn-link">Meet The Advisor</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
     <?php include 'footer.php';?>
     <a href="#0 " class="cd-top " title="Go to top ">Top</a>
     <script src="js/jquery.min.js "></script>

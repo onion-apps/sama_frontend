@@ -30,7 +30,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Blog</li>
                         </ol>
                     </div>
@@ -50,7 +50,7 @@
                     <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="contact-us.html" class="nav-link">Contact us</a>
+                                <a href="contactus.php" class="nav-link">Contact us</a>
                             </li>
                             <li class="nav-item">
                                 <a href="https://samagrowthinvest.wixsite.com/minside" class="nav-link">Know More</a>
@@ -78,7 +78,7 @@
                                                 <div class="bg-white">
                                                     <h1><a href="#" class="title">Our Tree Project</a></h1>
                                                    
-                                                    <p>
+                                                    <p class="lead">
                                                         Through our Forest project, we plant trees and encourage as many communities as we can to embrace tree planting. We recognize that trees contribute to the environment by providing oxygen, improving air quality, climate amelioration, conserving water, preserving soil, and supporting wildlife. It is also a big source of economic empowerment, food security and sustainable livelihood. The approach that SAMA Growth adopts is enabling communities to develop and restore sustainable and productive landscapes through tree cultivation. We have so far planted one thousand trees and counting under our forest project providing increased access to food, access to sustainable energy sources and more income. </p>
                                                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Apply Now</a>
                                                 </div>
@@ -89,12 +89,12 @@
                                         <div class="post-holder">
                                             <div class="post-block mb30 ">
                                                 <div class="post-img mb30">
-                                                    <a href="tree-project.html" class="imghover"><img src="images/loaning-project (1) (1).jpg" alt="Sama Investments" class="img-fluid"></a>
+                                                    <a href="tree-project.php" class="imghover"><img src="images/loaning-project (1) (1).jpg" alt="Sama Investments" class="img-fluid"></a>
                                                 </div>
                                                 <div class="bg-white">
-                                                    <h1><a href="tree-project.html" class="title">Our-Loaning project</a></h1>
-                                                    <p>Our loaning-project is an initiative to ensure that the community has access to financial aid to reduce poverty levels and increase financial stability  .</p>
-                                                    <a href="Loan-project.html" class="btn-link">Read More</a>
+                                                    <h1><a href="tree-project.php" class="title">Our-Loaning project</a></h1>
+                                                    <p class="lead">Our loaning-project is an initiative to ensure that the community has access to financial aid to reduce poverty levels and increase financial stability  .</p>
+                                                    <a href="Loan-project.php" class="btn-link">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -104,19 +104,19 @@
                                             <div class="post-block mb30">
                                                 <div id="post-gallery">
                                                     <div class="post-img mb30">
-                                                        <a href="blog-single.html" class="imghover"><img src="images/Women loans (2).jpg" alt="Sama investments" class="img-fluid"></a>
+                                                        <a href="#" class="imghover"><img src="images/Women loans (2).jpg" alt="Sama investments" class="img-fluid"></a>
                                                     </div>
                                                     <div class="post-img mb30">
-                                                        <a href="blog-single.html" class="imghover"><img src="images/loanslider.jpg" alt="Sama Investments" class="img-fluid"></a>
+                                                        <a href="#" class="imghover"><img src="images/loanslider.jpg" alt="Sama Investments" class="img-fluid"></a>
                                                     </div>
                                                     <div class="post-img mb30">
-                                                        <a href="blog-single.html" class="imghover"><img src="images/loan fro wom (1).jpg" alt="Sama Investments" class="img-fluid"></a>
+                                                        <a href="#" class="imghover"><img src="images/loan fro wom (1).jpg" alt="Sama Investments" class="img-fluid"></a>
                                                     </div>
                                                 </div>
                                                 <div class="bg-white">
-                                                    <h1><a href="blog-single.html" class="title">Loans For Women
+                                                    <h1><a href="#" class="title">Loans For Women
                                                     </a></h1>
-                                                   <p >At Sama We want to  empower Women to help them improve their livelihoods and financial status. To help them grow their business and improve their product quality </p>
+                                                   <p class="lead">At Sama We want to  empower Women to help them improve their livelihoods and financial status. To help them grow their business and improve their product quality </p>
                                                     <a href="https://samagrowthinvest.wixsite.com/minside/about" class="btn-link">Know more</a>
                                                 </div>
                                             </div>
@@ -124,7 +124,7 @@
                                     </div>                                        
                                      <h1>Quote of the day</h1>
                                      <blockquote>
-                                                    <p>“Building Wealth is a Marathon not a sprint.Discipline is the pace”</p>
+                                                    <p class="lead">“Building Wealth is a Marathon not a sprint.Discipline is the pace”</p>
                                                 </blockquote>
                                             </div>
                                         </div>
