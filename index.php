@@ -185,7 +185,7 @@
                   class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
                   >
                   <div class="mb100 text-center section-title">
-                     <h1>Save, Fastest Loan & Grow</h1>
+                     <h1>Save Fastest Loan & Grow</h1>
                      <p class="lead">
                         SAMA growth Investment is a women led organisation working
                         towards poverty eradication, social and economic security. We
