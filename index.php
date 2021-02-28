@@ -34,9 +34,8 @@
    <body>
    <?php include 'header.php' ?>
    <div class="slider" id="slider">
-       <div>
-   <div class="slider-img">
-            <img src="./images/sliderimg.jpg" alt="Sama Investments" class="" />
+         <div class="slider-img">
+            <img src="./images/slider-1.jpg" alt="Sama Investments" class="" />
             <div class="container">
                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                   <div class="slider-captions">
@@ -57,7 +56,7 @@
          </div>
          <div>
             <div class="slider-img">
-               <img src="./images/slider2.jpg" alt="Sama Investments" class="" />
+               <img src="./images/slider-2.jpg" alt="Sama Investments" class="" />
                <div class="container">
                   <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                      <div class="slider-captions">
@@ -96,7 +95,6 @@
                </div>
             </div>
          </div>
-</div>
 </div>
 <div class="bg-white section-space80">
         <div class="container">
