@@ -73,8 +73,7 @@
                   </div>
                </div>
             </div>
-         </div>
-         
+</div>
             <div class="slider-img">
                <img src="./images/slider-3.jpg" alt="Sama Investments" class="" />
                <div class="container">
