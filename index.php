@@ -78,7 +78,7 @@
          </div>
          <div>
             <div class="slider-img">
-               <img src="./images/sliderimg.jpg" alt="Sama Investments" class="" />
+               <img src="./images/slider2.jpg" alt="Sama Investments" class="" />
                <div class="container">
                   <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                      <div class="slider-captions">
@@ -97,7 +97,7 @@
          </div>
          <div>
             <div class="slider-img">
-               <img src="./images/slider3.jpg" alt="Sama Investments" class="" />
+               <img src="./images/slider-3.jpg" alt="Sama Investments" class="" />
                <div class="container">
                   <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                      <div class="slider-captions">
