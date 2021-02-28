@@ -73,7 +73,7 @@
                         </li>
                        
                         <li>
-                         <a class="nav-link " href="faq.php">FAQ</a>
+                         <a class="nav-link " href="faq.php">FAQs</a>
                         </li>
                         <li class="nav-item dropdown">
                            <a class="nav-link " href="contactus.php">Contact us</a>
