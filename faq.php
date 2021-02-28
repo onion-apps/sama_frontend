@@ -32,7 +32,7 @@
                 <div class="bg-white pinside30">
                     <div class="row align-items-center">
                         <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
-                            <h1 class="page-title">FAQs
+                            <h1 class="page-title">FAQ
                             </h1>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
