@@ -38,7 +38,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">Blog</li>
                         </ol>
                     </div>
@@ -58,7 +58,7 @@
                     <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="contact-us.html" class="nav-link">Contact us</a>
+                                <a href="contactus.php" class="nav-link">Contact us</a>
                             </li>
                             <li class="nav-item">
                                 <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank"class="nav-link">Know More</a>
@@ -86,7 +86,7 @@
                                                 <div class="bg-white">
                                                     <h1><a href="#" class="title">Our Loaning Project</a></h1>
                                                    
-                                                    <p>
+                                                    <p class="lead">
                                                         SAMA growth investment runs a financial institution project formed in 2014 which provides opportunities to thousands of families gradually uplifting them out of poverty and elevating them to improved living standards through microfinance. We aim to unlock the potential of each and every individual that we come across through giving them the financial support and boost they require.
                                                         
                                                         SAMA Growth operates an online loaning app, catering to the rising credit requirements of underserved markets through its diversified offerings. We provide flexible accessible low interest loans enabling services to a vast customer based. We have so far been able to provide financial support to over 100,000 individuals and families supporting entrepreneurs and small business owners to invest in their future. SAMA is invested in sustainability and touching the lives of all our clients in a very impactful way. We pride ourselves on how fast we can easily finance your business with zero hassle, less procedures and few paper-works.
@@ -101,12 +101,12 @@
                                         <div class="post-holder">
                                             <div class="post-block mb30 ">
                                                 <div class="post-img mb30">
-                                                    <a href="tree-project.html" class="imghover"><img src="images/treeblog (1).jpg" alt="Sama Investments" class="img-fluid"></a>
+                                                    <a href="tree-project.php" class="imghover"><img src="images/treeblog (1).jpg" alt="Sama Investments" class="img-fluid"></a>
                                                 </div>
                                                 <div class="bg-white">
-                                                    <h1><a href="tree-project.html" class="title">Our-Tree project</a></h1>
-                                                    <p>Our Tree Project is but a mere start to involve the Community in active participation in environmental change and preservation.We want to preserve the environment for th good of the community and generations to come.It starts with one tree.</p>
-                                                    <a href="tree-project.html" class="btn-link">Read More</a>
+                                                    <h1><a href="tree-project.php" class="title">Our-Tree project</a></h1>
+                                                    <p class="lead">Our Tree Project is but a mere start to involve the Community in active participation in environmental change and preservation.We want to preserve the environment for th good of the community and generations to come.It starts with one tree.</p>
+                                                    <a href="tree-project.php" class="btn-link">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -116,19 +116,19 @@
                                             <div class="post-block mb30">
                                                 <div id="post-gallery">
                                                     <div class="post-img mb30">
-                                                        <a href="blog-single.html" class="imghover"><img src="images/Women loans (2).jpg" alt="Sama Investments" class="img-fluid"></a>
+                                                        <a href="#" class="imghover"><img src="images/Women loans (2).jpg" alt="Sama Investments" class="img-fluid"></a>
                                                     </div>
                                                     <div class="post-img mb30">
-                                                        <a href="blog-single.html" class="imghover"><img src="images/loanslider.jpg" alt="Sama Investment" class="img-fluid"></a>
+                                                        <a href="#" class="imghover"><img src="images/loanslider.jpg" alt="Sama Investment" class="img-fluid"></a>
                                                     </div>
                                                     <div class="post-img mb30">
-                                                        <a href="blog-single.html" class="imghover"><img src="images/loan fro wom (1).jpg" alt="Sama Investments" class="img-fluid"></a>
+                                                        <a href="#" class="imghover"><img src="images/loan fro wom (1).jpg" alt="Sama Investments" class="img-fluid"></a>
                                                     </div>
                                                 </div>
                                                 <div class="bg-white">
-                                                    <h1><a href="blog-single.html" class="title">Loans For Women
+                                                    <h1><a href="#" class="title">Loans For Women
                                                     </a></h1>
-                                                   <p >At Sama We want to  empower Women to help them improve their livelihoods and financial status. To help them grow their business and improve their product quality </p>
+                                                   <p class="lead">At Sama We want to  empower Women to help them improve their livelihoods and financial status. To help them grow their business and improve their product quality </p>
                                                     <a href="https://samagrowthinvest.wixsite.com/minside/about"target="_blank" class="btn-link">Know more</a>
                                                 </div>
                                             </div>

@@ -28,7 +28,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="active">About us</li>
                         </ol>
                     </div>
@@ -66,19 +66,18 @@
                         <div class="about-section p-5">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <h2 class="mb30">Who Are we?</h2>
-                                    <p class="lead mb30">
-                                        Sama Investments is a company that was created to enhance the dignity of our through environmental conservation and microfinance. We believe that dignified families result to a better village and country. Our presence is found where the potential for
-                                        our impact is greatest. We are the future of Today.</p>
+                                    <h2 class="mb30">Who are we</h2>
+                                    <p class="lead">
+                                    Sama was created to enhance the dignity of all, through provision of financial support. We are on a mission to ensure that families are able to access easy, flexible,affordable  and timely loans from any part of the country. Our presence is found where the potential for our impact is greatest.
+</p>
                                     <p>
                                         "If a thing is worth doing, it's worth doing well” </p>
                                 </div>
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                     <div class="mb60">
                                         <h2 class="mb30">What We Offer?</h2>
-                                        <p class="lead mb30">
-                                            We offer loans with the lowest rates to Kenyans giving them a step toward financial freedom and ensuring poverty is eradicated in our communities thus improving live vastly.
-                                        </p>
+                                        <p class="lead ">
+                                        We offer loans with low rates to Kenyans giving them a step towards financial freedom thus improving lives vastly.                                        </p>
                                         <p>
                                             “The truest and noblest gift you can give yourself is personal development.”
                                         </p>
@@ -87,9 +86,8 @@
                                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                                     <div class="text-center section-space80">
                                         <h2>Our Vision &amp; Mission</h2>
-                                        <p>
-                                            Our goal at Sama Investments is to provide access to Loans for people requiring a boost improve their financial status.
-                                        </p>
+                                        <p class="lead ">
+                                        Our goal at Sama is to provide access to  flexible low interest loans; increasing the speed, security and transparency of transactions ; tailored to our customers needs.                                         </p>
                                     </div>
                                 </div>
                             </div>
@@ -100,7 +98,7 @@
                                     <div class="text-center">
                                         <div class="icon">
                                             <i class="icon-4x icon-users text-primary mb-5"></i>
-                                            <h1 class="big-title mb-0">150,000+</h1>
+                                            <h1 class="big-title mb-0">100+</h1>
                                             <div class="small-title">Customers Empowered</div>
                                         </div>
                                     </div>
@@ -134,8 +132,8 @@
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title text-center mb60">
                                             <h1>Why apply with us</h1>
-                                            <p>
-                                                Our Team is Dedicate to 24HR service and technical support and We offer the best loan services in Kenya.
+                                            <p class="lead ">
+                                                Our Team is Dedicate to 24HR service and technical support and We offer the best loan services in Kenya. We aim to ensure you get a smooth and fast Loan apllication experience.
                                             </p>
                                         </div>
                                     </div>
@@ -144,7 +142,7 @@
                                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                                         <div class="text-center mb30">
                                             <h3 class="mb-2">Multiple Loan Options</h3>
-                                            <p>
+                                            <p class="lead">
                                                 We offer Various Loan services fo you to chooce from
                                             </p>
                                         </div>
@@ -152,7 +150,7 @@
                                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                                         <div class="text-center mb30">
                                             <h3 class="mb-2">Competitive Rate</h3>
-                                            <p>
+                                            <p class="lead">
                                                 We ensure your payment return rates are the lowest.
                                             </p>
                                         </div>
@@ -160,7 +158,7 @@
                                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                                         <div class="text-center mb30">
                                             <h3 class="mb-2">Safe &amp; Secure</h3>
-                                            <p>
+                                            <p class="lead ">
                                                 Your Loan status is Safe with Us.
                                             </p>
                                         </div>
@@ -174,7 +172,7 @@
                                     <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                                         <div class="mb60 text-center section-title title-white">
                                             <h1 class="title-white">Our Success Stories</h1>
-                                            <p>
+                                            <p class="lead">
                                                 Join Us and Have a Story to tell.
                                             </p>
                                         </div>
@@ -221,51 +219,57 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="cta-section pinside60 bg-white section-space120">
-                            <div class=" ">
-                                <div class="row">
-                                    <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
-                                        <div class="mb60 text-center section-title">
-                                            <h1>We are here to help you</h1>
-                                            <p>
-                                                Our mission is to deliver Fast Reliable Services.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                                            <div class="mb40">
-                                                <i class="icon-calendar-3 icon-2x icon-default"></i>
-                                            </div>
-                                            <h2 class="capital-title">Apply For Loan</h2>
-                                            <p>
-                                                Looking to buy a car or home loan? then apply for loan now.
-                                            </p>
-                                            <a href="http://samacustomer.herokuapp.com/" class="btn-link">Get Appointment</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                                            <div class="mb40">
-                                                <i class="icon-phone-call icon-2x icon-default"></i>
-                                            </div>
-                                            <h2 class="capital-title">Call us at</h2>
-                                            <h1 class="text-big">+254 797 837 351</h1>
-                                            <p>lnfo@samainvestment.co.ke</p>
-                                            <a href="contact-us.html" class="btn-link">Contact us</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                                            <div class="mb40">
-                                                <i class="icon-users icon-2x icon-default"></i>
-                                            </div>
-                                            <h2 class="capital-title">Talk to Advisor</h2>
-                                            <p>Need to loan advise? Talk to our Loan advisors.</p>
-                                            <a href="contact-us.html" class="btn-link">Meet The Advisor</a>
-                                        </div>
+                        <div class="section-space80">
+         <div class="container">
+            <div class="row">
+               <div
+                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12"
+                  >
+                  <div class="mb60 text-center section-title">
+                     <h1>We are here to help you</h1>
+                     <p class="lead">
+                        Our mission is to deliver reliable, latest news and opinions.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                  <div
+                     class="bg-white bg-boxshadow pinside40 outline text-center mb30"
+                     >
+                     <div class="mb40">
+                        <i class="icon-calendar-3 icon-2x icon-default"></i>
+                     </div>
+                     <h2 class="capital-title">Apply For Loan</h2>
+                     <p class="lead">Looking to get a loan? Sign up now.</p>
+                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Sign Up</a>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                  <div
+                     class="bg-white bg-boxshadow pinside40 outline text-center mb30"
+                     >
+                     <div class="mb40">
+                        <i class="icon-phone-call icon-2x icon-default"></i>
+                     </div>
+                     <h2 class="capital-title">Contact us</h2>
+                     <h1 class="text-big">+254 797 837 351</h1>
+                     <p class="lead">lnfo@samainvestment.co.ke</p>
+                     <a href="contactus.php " class="btn-link">Contact us</a>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                  <div
+                     class="bg-white bg-boxshadow pinside40 outline text-center mb30"
+                     >
+                     <div class="mb40">
+                        <i class="icon-users icon-2x icon-default"></i>
+                     </div>
+                     <h2 class="capital-title">Talk to Advisor</h2>
+                     <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
+                     <a href="lnfo@samainvestment.co.ke " class="btn-link">Meet The Advisor</a>
+                     </div>
                                     </div>
                                 </div>
                             </div>
