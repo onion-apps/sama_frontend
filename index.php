@@ -55,27 +55,6 @@
             </div>
          </div>
          <div>
-         <div class="slider" id="slider">
-         <div class="slider-img">
-            <img src="./images/sliderimg.jpg" alt="Sama Investments" class="" />
-            <div class="container">
-               <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                  <div class="slider-captions">
-                     <h1 class="slider-title">
-                        Affordable Digital Loans.
-                     </h1>
-                     <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
-                        Create an account and apply. Its free !
-                     </p>
-                     <a
-                        href="http://samacustomer.herokuapp.com/login"
-                        class="btn btn-secondary"
-                        >Apply Now</a
-                        >
-                  </div>
-               </div>
-            </div>
-         </div>
          <div>
             <div class="slider-img">
                <img src="./images/slider2.jpg" alt="Sama Investments" class="" />
