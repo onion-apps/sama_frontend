@@ -101,7 +101,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
                     <h1 id="number1" class="number">100+</h1>
-                    <i class="fa fa-user-o" aria-hidden="true"></i>
+                    <i class="fa fa-user-o"></i>
                         <div class="small-title">Customers Empowered</div>
                     </div>
                 </div>
