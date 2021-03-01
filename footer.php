@@ -128,6 +128,7 @@
       </div>
     </div>
   </div>
+  <a href="#0 " class="cd-top" title="Go to top ">Top</a>
 <script type="text/javascript">
     (function () {
         var options = {
