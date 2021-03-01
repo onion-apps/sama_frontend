@@ -421,7 +421,6 @@
     </div>
     <?php include 'footer.php' ?>
 
-<a href="#0 " class="cd-top" title="Go to top ">Top</a>
 <script src="js/jquery.min.js "></script>
 <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
 <script src="js/owl.carousel.min.js "></script>
