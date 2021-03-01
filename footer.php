@@ -132,7 +132,7 @@
     (function () {
         var options = {
             facebook: "102612791869019", // Facebook page ID
-            whatsapp: "+254 797 837 351", // WhatsApp number
+            whatsapp: "+254797837351", // WhatsApp number
             call_to_action: "Talk to Us", // Call to action
             button_color: "#043469", // Color of button
             position: "right", // Position may be 'right' or 'left'
