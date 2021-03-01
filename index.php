@@ -98,26 +98,19 @@
 </div>
 <div class="bg-white section-space80">
 <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
                         <h1 class="big-title">150,000+</h1>
                         <div class="small-title">Customers Empowered</div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
                         <h1 class="big-title">$5 billion+</h1>
                         <div class="small-title">Borrowed</div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
-                    <div class="text-center">
-                        <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
-                        <div class="small-title">Customer Rating</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
                         <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
                         <div class="small-title">Customer Rating</div>
