@@ -134,9 +134,9 @@
             facebook: "102612791869019", // Facebook page ID
             whatsapp: "+254 797 837 351", // WhatsApp number
             call_to_action: "Talk to Us", // Call to action
-            button_color: "#FF6550", // Color of button
+            button_color: "#043469", // Color of button
             position: "right", // Position may be 'right' or 'left'
-            order: "facebook,whatsapp", // Order of buttons
+            order: "whatsapp,facebook", // Order of buttons
             pre_filled_message: "Welcome to Sama Investment your loans our priority", // WhatsApp pre-filled message
         };
         var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
