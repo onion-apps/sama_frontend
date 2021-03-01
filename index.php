@@ -99,26 +99,25 @@
 <div class="bg-white section-space80">
 <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
-                <i class="fa fa-smile-o"></i>
-                <p id="number2" class="number">55</p>
-                <span></span>
-                <p>Happy clients</p>
-            </div>
+                    <div class="text-center">
+                    <p id="number1" class="number">100</p>
+
+                        <div class="small-title">Customers Empowered</div>
+                    </div>
+                </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
-                <i class="fa fa-smile-o"></i>
-                <p id="number2" class="number">55</p>
-                <span></span>
-                <p>Happy clients</p>
-            </div>
+                    <div class="text-center">
+                    <p id="number2" class="number">10000000</p>
+
+                        <div class="small-title">Borrowed</div>
+                    </div>
+                </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
-                <i class="fa fa-smile-o"></i>
-                <p id="number2" class="number">55</p>
-                <span></span>
-                <p>Happy clients</p>
-            </div>
+                    <div class="text-center">
+                        <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
+                        <div class="small-title">Customer Rating</div>
+                    </div>
+                </div>
             </div>
 </div>
 </div>

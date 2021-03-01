@@ -26,10 +26,3 @@ $('#number1').jQuerySimpleCounter({end: 100,duration: 3000});
 $('#number2').jQuerySimpleCounter({end: 10000000,duration: 3000});
 
 
-
-  /* AUTHOR LINK */
- $('.about-me-img').hover(function(){
-        $('.authorWindowWrapper').stop().fadeIn('fast').find('p').addClass('trans');
-    }, function(){
-        $('.authorWindowWrapper').stop().fadeOut('fast').find('p').removeClass('trans');
-    });
