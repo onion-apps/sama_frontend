@@ -120,7 +120,55 @@
               </div>
             </div>
           </div>
-                
+          <div class="section-scroll" id="section-typeloan">
+                            <div class="bg-light p-5"> 
+                                <div class="row">
+                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                        <div class="section-title mb60">
+                                            <h2>Why take a loan?</h2>
+                                            <p class="lead">We take loans for various financial reasons each no more important than the last. Whether it's a personal loan, Vacation loan or Education Loan Here at Sama we are with you every step of the way. </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="feature-blurb mb60">
+                                            <h3> Car Loan</h3>
+                                            <p class="lead">Whether you choose a new or used car, a loan from Sama Investments can help spread the cost of your purchase. Our loans are available to finance the cost of any car up to the amount you need. Become a member Today</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="feature-blurb mb60">
+                                            <h3>Education Loan</h3>
+                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="feature-blurb mb60">
+                                            <h3>Personal loan</h3>
+                                            <p class="lead">To finance your personal projects we offerfast personal loan adjusted to your profile with ease and speed. </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="feature-blurb mb60">
+                                            <h3>Investment loans</h3>
+                                            <p class="lead">This loan is intended for every professional aiming to accelerate the growth of his project through a financial strategy and tolerance of reimbursement.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                              <div class="row">
+                                  <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 offset-md-3 col-md-6 col-sm-12 col-12"> </div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 offset-md-3 col-md-6 col-sm-12 col-12"> </div>
+                      </div>
+                  </div>
+              </div>
                         <div class="bg-primary p-5 text-center">
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
