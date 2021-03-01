@@ -100,13 +100,13 @@
 <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                        <h1 class="big-title">150,000+</h1>
+                        <h1  id="number1" class="big-title">150,000+</h1>
                         <div class="small-title">Customers Empowered</div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                        <h1 class="big-title">$5 billion+</h1>
+                        <h1  id="number2" class="big-title">$5 billion+</h1>
                         <div class="small-title">Borrowed</div>
                     </div>
                 </div>
@@ -420,6 +420,7 @@
 <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
 <script src="js/owl.carousel.min.js "></script>
 <script src="js/main.js "></script>
+<script src="js/counter.js "></script>
 
 <script src="js/back-to-top.js "></script>
 </body>
