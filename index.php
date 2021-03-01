@@ -99,23 +99,26 @@
 <div class="bg-white section-space80">
 <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="text-center">
-                        <h1  id="number1" class="big-title">150,000+</h1>
-                        <div class="small-title">Customers Empowered</div>
-                    </div>
-                </div>
+                <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
+                <i class="fa fa-smile-o"></i>
+                <p id="number2" class="number">55</p>
+                <span></span>
+                <p>Happy clients</p>
+            </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="text-center">
-                        <h1  id="number2" class="big-title">$5 billion+</h1>
-                        <div class="small-title">Borrowed</div>
-                    </div>
-                </div>
+                <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
+                <i class="fa fa-smile-o"></i>
+                <p id="number2" class="number">55</p>
+                <span></span>
+                <p>Happy clients</p>
+            </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="text-center">
-                        <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
-                        <div class="small-title">Customer Rating</div>
-                    </div>
-                </div>
+                <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
+                <i class="fa fa-smile-o"></i>
+                <p id="number2" class="number">55</p>
+                <span></span>
+                <p>Happy clients</p>
+            </div>
             </div>
 </div>
 </div>
