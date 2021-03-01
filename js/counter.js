@@ -4,7 +4,7 @@ $.fn.jQuerySimpleCounter = function( options ) {
         start:  0,
         end:    100,
         easing: 'swing',
-        duration: 400,
+        duration: 600,
         complete: ''
     }, options );
 
@@ -26,4 +26,3 @@ $('#number1').jQuerySimpleCounter({end: 100,duration: 4000});
 $('#number2').jQuerySimpleCounter({end: 10000000,duration:9000});
 
 
-p
