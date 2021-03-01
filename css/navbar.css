@@ -278,6 +278,7 @@
   .navbar-nav .dropdown-item.active,
   .dropdown-item:active {
     background-color: transparent;
+    border-bottom: 2px solid black;
   }
   
   .navbar-nav .dropdown-item:focus,
