@@ -96,43 +96,35 @@
             </div>
          </div>
 </div>
-
 <div class="bg-white section-space80">
-<div class="sectiontitle">
-    <h2>Our Success</h2>
-    <span class="headerLine"></span>
+<div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="text-center">
+                        <h1 class="big-title">150,000+</h1>
+                        <div class="small-title">Customers Empowered</div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="text-center">
+                        <h1 class="big-title">$5 billion+</h1>
+                        <div class="small-title">Borrowed</div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="text-center">
+                        <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
+                        <div class="small-title">Customer Rating</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="text-center">
+                        <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
+                        <div class="small-title">Customer Rating</div>
+                    </div>
+                </div>
+            </div>
 </div>
-<div id="projectFacts" class="sectionClass">
-    <div class="fullWidth eight columns">
-        <div class="projectFactsWrap ">
-            <div class="item wow fadeInUpBig animated animated" data-number="12" style="visibility: visible;">
-                <i class="fa fa-money"></i>
-                <p id="number1" class="number">12</p>
-                <span></span>
-                <p>Borrowed</p>
-            </div>
-            <div class="item wow fadeInUpBig animated animated" data-number="55" style="visibility: visible;">
-                <i class="fa fa-smile-o"></i>
-                <p id="number2" class="number">55</p>
-                <span></span>
-                <p>Happy clients</p>
-            </div>
-            <div class="item wow fadeInUpBig animated animated" data-number="359" style="visibility: visible;">
-                <i class="fa fa-users"></i>
-                <p id="number3" class="number">359</p>
-                <span></span>
-                <p>Years</p>
-            </div>
-            <div class="item wow fadeInUpBig animated animated" data-number="246" style="visibility: visible;">
-                <i class="fa fa-users"></i>
-                <p id="number4" class="number">246</p>
-                <span></span>
-                <p>Rating</p>
-            </div>
-        </div>
-    </div>
-</div>
-    </div>
       <div class="bg-white section-space80">
         <div class="container">
         <div class="row">
