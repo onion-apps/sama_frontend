@@ -50,7 +50,7 @@
                            <a class="nav-link " href="about.php">About</a>
                         </li>
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="services.php">Services</a>
+                           <a class="nav-link " href="service.php">Services</a>
                         </li>
                         <li class="nav-item dropdown">
                            <a
@@ -82,7 +82,7 @@
                       
                      </ul>
                
-                     <a href="loancalc.php" class="btn sama-cta-btn btn-sm ml-5">Apply for a Loan Now</a>
+                     <a href="http://samacustomer.herokuapp.com/" class="btn sama-cta-btn btn-sm ml-5">Apply for a Loan Now</a>
    
                     
                   </div>
