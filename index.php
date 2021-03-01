@@ -100,13 +100,13 @@
 <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                    <h1 id="number1" class="number">100+</h1>
+                    <h1 id="number1" class="number">100</h1>
                         <div class="small-title">Customers Empowered</div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                    <h1 id="number2" class="number">10000000+</h1>
+                    <h1 id="number2" class="number">10000000</h1>
 
                         <div class="small-title">Borrowed</div>
                     </div>
@@ -216,9 +216,9 @@
                      <div class="mb30">
                         <i class="icon-command icon-4x icon-white"></i>
                      </div>
-                     <h3 class="text-white mb30">FAST APPROVAL</h3>
+                     <h3 class="text-white mb30">Fast loan transactions</h3>
                      <p class="whytxt">
-                        Our team is dedicated to give you 24 HR Approval time for all
+                        Our team is dedicated to give you 24 HR Approval time and fast cash disbursement for all
                         the loans you apply for.
                      </p>
                   </div>
@@ -228,10 +228,10 @@
                      <div class="mb30">
                         <i class="icon-calculator icon-4x icon-white"></i>
                      </div>
-                     <h3 class="text-white mb30">No Front Appraisal Fees!</h3>
+                     <h3 class="text-white mb30">Flexible repayment period </h3>
                      <p class="whytxt">
-                        No appraisal fee is charged for Registration and application of
-                        a Loan.
+                    you get to repay your loans within 3 months and get rewarded as you progress through the tiers. 
+
                      </p>
                   </div>
                </div>
@@ -241,7 +241,8 @@
                         <i class="icon-medal icon-4x icon-white"></i>
                      </div>
                      <h3 class="text-white mb30">LOWEST RATES</h3>
-                     <p class="whytxt">We offer the Lowest Loan Interest rates in Kenya.</p>
+                     <p class="whytxt">Low interest on loans of 4% pm
+</p>
                   </div>
                </div>
             </div>
