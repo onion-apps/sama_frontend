@@ -358,20 +358,7 @@
             </div>
         </div>
     </div>
-                        <div class="widget-share">
-                            <ul class="listnone">
-                                <li><a href="#!" class="btn-share btn-facebook" title="Share on Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                            
-                                    <a href="#!" class="btn-share btn-google" title="Share on Google"> <i class="fab fa-google"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                   
-                </div>
-            </div>
-        </div>
-    </div>
+                       
     <?php include 'footer.php' ?>
 
 
