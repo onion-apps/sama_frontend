@@ -417,13 +417,13 @@
         </div>
     </div>
     <?php include 'footer.php' ?>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=603d130c51f70600114ff150&product=sticky-share-buttons" async="async"></script>
 
 <script src="js/jquery.min.js "></script>
 <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
 <script src="js/owl.carousel.min.js "></script>
 <script src="js/main.js "></script>
 <script src="js/counter.js "></script>
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=603d130c51f70600114ff150&product=sticky-share-buttons" async="async"></script>
 <script src="js/back-to-top.js "></script>
 </body>
 </html>
