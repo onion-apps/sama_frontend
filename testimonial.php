@@ -17,6 +17,8 @@
          <link href="css/slider.css" rel="stylesheet" />
 </head>
 <body>
+<div class="slider1" >
+
 <section id="testim" class="testim">
 <!--         <div class="testim-cover"> -->
             <div class="wrap">
@@ -66,7 +68,7 @@
 
             </div>
     </section>
-
+</div>
 <script src="https://use.fontawesome.com/1744f3f671.js"></script>
 
 <script src="js/slider.js "></script>
