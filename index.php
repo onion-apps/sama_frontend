@@ -249,7 +249,7 @@
             </div>
          </div>
       </div>
-
+      <div class="slider">
         <div class="container">
     <div id="demo" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -275,7 +275,7 @@
     </div>
 </div>
 </div>
-        
+</div>       
        <div class="section-space80">
          <div class="container">
             <div class="row">
