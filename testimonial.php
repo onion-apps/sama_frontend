@@ -17,88 +17,58 @@
          <link href="css/slider.css" rel="stylesheet" />
 </head>
 <body>
-<section>
-  <div class="customer-feedback">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-sm-offset-2 col-sm-8">
-          <div>
-            <h2 class="section-title">What Clients Say</h2>
-          </div>
-        </div><!-- /End col -->
-      </div><!-- /End row -->
+<section id="testim" class="testim">
+<!--         <div class="testim-cover"> -->
+            <div class="wrap">
 
-      <div class="row">
-        <div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
-          <div class="owl-carousel feedback-slider">
+                <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
+                <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
+                <ul id="testim-dots" class="dots">
+                    <li class="dot active"></li><!--
+                    --><li class="dot"></li><!--
+                    --><li class="dot"></li><!--
+                    --><li class="dot"></li><!--
+                    --><li class="dot"></li>
+                </ul>
+                <div id="testim-content" class="cont">
+                    
+                    <div class="active">
+                        <div class="img"><img src="https://image.ibb.co/hgy1M7/5a6f718346a28820008b4611_750_562.jpg" alt=""></div>
+                        <h2>Lorem P. Ipsum</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
+                    </div>
 
-            <!-- slider item -->
-            <div class="feedback-slider-item">
-              <img src="//c2.staticflickr.com/8/7310/buddyicons/24846422@N06_r.jpg" class="center-block img-circle" alt="Customer Feedback">
-              <h3 class="customer-name">Lisa Redfern</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
-              <span class="light-bg customer-rating" data-rating="5">
-                5
-                <i class="fa fa-star"></i>
-              </span>
+                    <div>
+                        <div class="img"><img src="https://image.ibb.co/cNP817/pexels_photo_220453.jpg" alt=""></div>
+                        <h2>Mr. Lorem Ipsum</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
+                    </div>
+
+                    <div>
+                        <div class="img"><img src="https://image.ibb.co/iN3qES/pexels_photo_324658.jpg" alt=""></div>
+                        <h2>Lorem Ipsum</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
+                    </div>
+
+                    <div>
+                        <div class="img"><img src="https://image.ibb.co/kL6AES/Top_SA_Nicky_Oppenheimer.jpg" alt=""></div>
+                        <h2>Lorem De Ipsum</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
+                    </div>
+
+                    <div>
+                        <div class="img"><img src="https://image.ibb.co/gUPag7/image.jpg" alt=""></div>
+                        <h2>Ms. Lorem R. Ipsum</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
+                    </div>
+
+                </div>
+
             </div>
-            <!-- /slider item -->
+    </section>
 
-            <!-- slider item -->
-            <div class="feedback-slider-item">
-              <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" class="center-block img-circle" alt="Customer Feedback">
-              <h3 class="customer-name">Cassi</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
-              <span class="light-bg customer-rating" data-rating="4">
-                4
-                <i class="fa fa-star"></i>
-              </span>
-            </div>
-            <!-- /slider item -->
+<script src="https://use.fontawesome.com/1744f3f671.js"></script>
 
-            <!-- slider item -->
-            <div class="feedback-slider-item">
-              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" class="center-block img-circle" alt="Customer Feedback">
-              <h3 class="customer-name">Md Nahidul</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
-              <span class="light-bg customer-rating" data-rating="5">
-                5
-                <i class="fa fa-star"></i>
-              </span>
-            </div>
-            <!-- /slider item -->
-            
-          </div><!-- /End feedback-slider -->
-
-          <!-- side thumbnail -->
-          <div class="feedback-slider-thumb hidden-xs">
-            <div class="thumb-prev">
-              <span>
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" alt="Customer Feedback">
-              </span>
-              <span class="light-bg customer-rating">
-                5
-                <i class="fa fa-star"></i>
-              </span>
-            </div>
-
-            <div class="thumb-next">
-              <span>
-                <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" alt="Customer Feedback">
-              </span>
-              <span class="light-bg customer-rating">
-                4
-                <i class="fa fa-star"></i>
-              </span>
-            </div>
-          </div>
-          <!-- /side thumbnail -->
-
-        </div><!-- /End col -->
-      </div><!-- /End row -->
-    </div><!-- /End container -->
-  </div><!-- /End customer-feedback -->
-</section>
 <script src="js/slider.js "></script>
 
 </body>
