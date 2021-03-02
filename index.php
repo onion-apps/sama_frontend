@@ -16,7 +16,10 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
       <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet" />
       <link href="css/style.css" rel="stylesheet" />
+      <link href="css/slider.css" rel="stylesheet" />
       <link
          rel="stylesheet"
          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
@@ -250,88 +253,39 @@
       </div>
 
         <div class="slider">
-      <section>
-  <div class="customer-feedback">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-sm-offset-2 col-sm-8">
-          <div>
-            <h2 class="section-title">What Clients Say</h2>
-          </div>
-        </div><!-- /End col -->
-      </div><!-- /End row -->
-
-      <div class="row">
-        <div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
-          <div class="owl-carousel feedback-slider">
-
-            <!-- slider item -->
-            <div class="feedback-slider-item">
-              <img src="//c2.staticflickr.com/8/7310/buddyicons/24846422@N06_r.jpg" class="center-block img-circle" alt="Customer Feedback">
-              <h3 class="customer-name">Lisa Redfern</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
-              <span class="light-bg customer-rating" data-rating="5">
-                5
-                <i class="fa fa-star"></i>
-              </span>
+        <div class="container-fluid px-3 px-sm-5 my-5 text-center">
+    <h4 class="mb-5 font-weight-bold">What Our Client Say</h4>
+    <div class="owl-carousel owl-theme">
+        <div class="item first prev">
+            <div class="card border-0 py-3 px-4">
+                <div class="row justify-content-center"> <img src="https://i.imgur.com/gazoShk.jpg" class="img-fluid profile-pic mb-4 mt-3"> </div>
+                <h6 class="mb-3 mt-2">Marielle Haag</h6>
+                <p class="content mb-5 mx-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim.</p>
             </div>
-            <!-- /slider item -->
-
-            <!-- slider item -->
-            <div class="feedback-slider-item">
-              <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" class="center-block img-circle" alt="Customer Feedback">
-              <h3 class="customer-name">Cassi</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
-              <span class="light-bg customer-rating" data-rating="4">
-                4
-                <i class="fa fa-star"></i>
-              </span>
+        </div>
+        <div class="item show">
+            <div class="card border-0 py-3 px-4">
+                <div class="row justify-content-center"> <img src="https://i.imgur.com/oW8Wpwi.jpg" class="img-fluid profile-pic mb-4 mt-3"> </div>
+                <h6 class="mb-3 mt-2">Ximena Vegara</h6>
+                <p class="content mb-5 mx-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim.</p>
             </div>
-            <!-- /slider item -->
-
-            <!-- slider item -->
-            <div class="feedback-slider-item">
-              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" class="center-block img-circle" alt="Customer Feedback">
-              <h3 class="customer-name">Md Nahidul</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
-              <span class="light-bg customer-rating" data-rating="5">
-                5
-                <i class="fa fa-star"></i>
-              </span>
+        </div>
+        <div class="item next">
+            <div class="card border-0 py-3 px-4">
+                <div class="row justify-content-center"> <img src="https://i.imgur.com/ndQx2Rg.jpg" class="img-fluid profile-pic mb-4 mt-3"> </div>
+                <h6 class="mb-3 mt-2">John Paul</h6>
+                <p class="content mb-5 mx-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim.</p>
             </div>
-            <!-- /slider item -->
-            
-          </div><!-- /End feedback-slider -->
-
-          <!-- side thumbnail -->
-          <div class="feedback-slider-thumb hidden-xs">
-            <div class="thumb-prev">
-              <span>
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" alt="Customer Feedback">
-              </span>
-              <span class="light-bg customer-rating">
-                5
-                <i class="fa fa-star"></i>
-              </span>
+        </div>
+        <div class="item last">
+            <div class="card border-0 py-3 px-4">
+                <div class="row justify-content-center"> <img src="https://i.imgur.com/T5aOhwh.jpg" class="img-fluid profile-pic mb-4 mt-3"> </div>
+                <h6 class="mb-3 mt-2">William Doe</h6>
+                <p class="content mb-5 mx-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim.</p>
             </div>
-
-            <div class="thumb-next">
-              <span>
-                <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" alt="Customer Feedback">
-              </span>
-              <span class="light-bg customer-rating">
-                4
-                <i class="fa fa-star"></i>
-              </span>
-            </div>
-          </div>
-          <!-- /side thumbnail -->
-
-        </div><!-- /End col -->
-      </div><!-- /End row -->
-    </div><!-- /End container -->
-  </div><!-- /End customer-feedback -->
-</section>
+        </div>
+    </div>
+</div>
 </div>
         
        <div class="section-space80">
@@ -400,6 +354,8 @@
 <script src="js/jquery.min.js "></script>
 <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
 <script src="js/owl.carousel.min.js "></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
 <script src="js/main.js "></script>
 <script src="js/counter.js "></script>
 <script src="js/back-to-top.js "></script>
