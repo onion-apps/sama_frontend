@@ -193,6 +193,7 @@
             </div>
          </div>
       </div>
+
       <div class="cta">
          <div class="container">
             <div class="row">
@@ -241,121 +242,98 @@
                         <i class="icon-medal icon-4x icon-white"></i>
                      </div>
                      <h3 class="text-white mb30">LOWEST RATES</h3>
-                     <p class="whytxt">Low interest on loans of 4% pm
-</p>
+                     <p class="whytxt">Low interest on loans of 4% pm</p>
                   </div>
                </div>
             </div>
          </div>
       </div>
-      <!--    <div class="section-space80">
-         <div class="container">
-           <div class="row">
-             <div
-               class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12"
-             >
-               <div class="mb60 text-center section-title">
-                 <h1>OUR GOAL</h1>
-                 <p>
-                   Our mission is to raise our community by Improving other peoples
-                   lives and providing technical and upto standard support.
-                 </p>
-               </div>
-             </div>
-           </div>
-         <div class="row">
-             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-               <div class="post-block mb30">
-                 <div class="post-img">
-                   <a class="imghover"
-                     ><img
-                       src="images/loaning-project.jpg"
-                       alt="Sama Investments"
-                       class="img-fluid"
-                   /></a>
-                 </div>
-                 <div class="bg-white pinside40 outline">
-                   <h3>
-                     <a href="loaning-project.html" class="title">
-                       Loaning Project</a
-                     >
-                   </h3>
-                   <p>
-                     SAMA growth investment runs a financial institution project formed in 2014 which provides opportunities to thousands of families gradually uplifting them out of poverty and elevating them to improved living standards through microfinance. We aim to unlock the potential of each and every individual that we come across through giving them the financial support and boost they require.
-                   </p>
-                   <p class="meta">
-                    <span class="meta-author"
-                       ><a href="loan-project.html"> Learn More</a></span
-                     >
-                   </p>
-                 </div>
-               </div>
-             </div>
-             <br />
-             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-               <div class="post-block mb30">
-                 <div class="post-img">
-                   <a href="tree-project.html" class="imghover"
-                     ><img
-                       src="images/treeblog.jpg "
-                       alt="Sama Investments "
-                       class="img-fluid"
-                   /></a>
-                 </div>
-                 <div class="bg-white pinside40 outline">
-                   <h3>
-                     <a href="tree-project.html" class="title">
-                     </a
-                     >Tree Project
-                   </h3>
-                   <p>
-                     Through our Forest project, we plant trees and encourage as many communities as we can to embrace tree planting. We recognize that trees contribute to the environment by providing oxygen, improving air quality, climate amelioration, conserving water, preserving soil, and supporting wildlife. 
-                   </p>
-                   <p class="meta">
-                   <span class="meta-author"
-                       ><a href="tree-project.html">Learn More</a></span
-                     >
-                   </p>
-                 </div>
-               </div>
-             </div>
-             <br />
-           
-           </div>
-         </div>
-         </div>--> 
-         <br>
-         <div class="testimony slider">
-         <div class="container">
-    <div class="row">
-        <div class="col-md-6">
-            <div id="testimonial-slider" class="owl-carousel">
-                <div class="testimonial">
-                    <p class="description">
-                        " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra lectus quis placerat ultricies. Praesent ipsum turpis, mollis eget accumsan id, iaculis vel ipsum. Sed.  "
-                    </p>
-                    <div class="pic">
-                        <img src="images/img-1.jpg">
-                    </div>
-                    <h3 class="title">williamson</h3>
-                    <span class="post">Web Developer</span>
-                </div>
- 
-                <div class="testimonial">
-                    <p class="description">
-                        " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pharetra lectus quis placerat ultricies. Praesent ipsum turpis, mollis eget accumsan id, iaculis vel ipsum. Sed.  "
-                    </p>
-                    <div class="pic">
-                        <img src="images/img-2.jpg">
-                    </div>
-                    <h3 class="title">Kristina</h3>
-                    <span class="post">Web Designer</span>
-                </div>
+
+        <div class="slider">
+      <section>
+  <div class="customer-feedback">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-sm-offset-2 col-sm-8">
+          <div>
+            <h2 class="section-title">What Clients Say</h2>
+          </div>
+        </div><!-- /End col -->
+      </div><!-- /End row -->
+
+      <div class="row">
+        <div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+          <div class="owl-carousel feedback-slider">
+
+            <!-- slider item -->
+            <div class="feedback-slider-item">
+              <img src="//c2.staticflickr.com/8/7310/buddyicons/24846422@N06_r.jpg" class="center-block img-circle" alt="Customer Feedback">
+              <h3 class="customer-name">Lisa Redfern</h3>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
+              <span class="light-bg customer-rating" data-rating="5">
+                5
+                <i class="fa fa-star"></i>
+              </span>
             </div>
-        </div>
-    </div>
+            <!-- /slider item -->
+
+            <!-- slider item -->
+            <div class="feedback-slider-item">
+              <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" class="center-block img-circle" alt="Customer Feedback">
+              <h3 class="customer-name">Cassi</h3>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
+              <span class="light-bg customer-rating" data-rating="4">
+                4
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+            <!-- /slider item -->
+
+            <!-- slider item -->
+            <div class="feedback-slider-item">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" class="center-block img-circle" alt="Customer Feedback">
+              <h3 class="customer-name">Md Nahidul</h3>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
+              <span class="light-bg customer-rating" data-rating="5">
+                5
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+            <!-- /slider item -->
+            
+          </div><!-- /End feedback-slider -->
+
+          <!-- side thumbnail -->
+          <div class="feedback-slider-thumb hidden-xs">
+            <div class="thumb-prev">
+              <span>
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" alt="Customer Feedback">
+              </span>
+              <span class="light-bg customer-rating">
+                5
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+
+            <div class="thumb-next">
+              <span>
+                <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" alt="Customer Feedback">
+              </span>
+              <span class="light-bg customer-rating">
+                4
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+          </div>
+          <!-- /side thumbnail -->
+
+        </div><!-- /End col -->
+      </div><!-- /End row -->
+    </div><!-- /End container -->
+  </div><!-- /End customer-feedback -->
+</section>
 </div>
-</div>
+        
        <div class="section-space80">
          <div class="container">
             <div class="row">
