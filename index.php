@@ -17,7 +17,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
       <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
       <link href="css/style.css" rel="stylesheet" />
-      <link href="css/slider.css" rel="stylesheet" />
       <link
          rel="stylesheet"
          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
@@ -31,6 +30,7 @@
       <link href="css/owl.carousel.css" rel="stylesheet" />
       <link href="css/owl.theme.css" rel="stylesheet" />
       <link href="css/navbar.css" rel="stylesheet" />
+      <link href="css/slider.css" rel="stylesheet" />
    </head>
    <body>
    <?php include 'header.php' ?>
@@ -249,69 +249,8 @@
             </div>
          </div>
       </div>
-      <div class="slider" id="slider">
-         <div class="slider-img">
-            <img src="./images/sliderimg.jpg" alt="Sama Investments" class="" />
-            <div class="container">
-               <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                  <div class="slider-captions">
-                     <h1 class="slider-title">
-                        Affordable Digital Loans.
-                     </h1>
-                     <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
-                        Create an account and apply. Its free !
-                     </p>
-                     <a
-                        href="http://samacustomer.herokuapp.com/login"
-                        class="btn btn-secondary"
-                        >Apply Now</a
-                        >
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div>
-            <div class="slider-img">
-               <img src="./images/slider2.jpg" alt="Sama Investments" class="" />
-               <div class="container">
-                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                     <div class="slider-captions">
-                        <h1 class="slider-title">Repay your loan</h1>
-                        <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
-                          Repay your pre-existing loan in order to borrow more
-                        </p>
-                        <a
-                           href="http://samacustomer.herokuapp.com/login"
-                           class="btn btn btn-secondary"
-                           >Repay your loan now</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div>
-            <div class="slider-img">
-               <img src="./images/slider-3.jpg" alt="Sama Investments" class="" />
-               <div class="container">
-                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                     <div class="slider-captions">
-                        <h1 class="slider-title">
-                           Have Questions
-                        </h1>
-                        <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
-                           Call us or write us an email today. We are here for you.
-                        </p>
-                        <a
-                           href="contact-us.html"
-                           class="btn btn-secondary"
-                           >Contact Us</a
-                           >
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-</div>
+      <?php include 'testimonial.php' ?>
+
        <div class="section-space80">
          <div class="container">
             <div class="row">
