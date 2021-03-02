@@ -13,73 +13,93 @@
          content="Financial Website Template, Bootstrap Template, Loan Product, Personal Loan, "
          />
       <title>Sama Investment - Elavating Potentials</title>
-      <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+   
          <link href="css/slider.css" rel="stylesheet" />
 </head>
 <body>
-<div class="container">
-<div class="row">
-                    <div class="col-md-12" data-wow-delay="0.2s">
-                        <div class="carousel slide" data-ride="carousel" id="quote-carousel">
-                            <!-- Bottom Carousel Indicators -->
-                            <ol class="carousel-indicators">
-                                <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="">
-                                </li>
-                                <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/rssems/128.jpg" alt="">
-                                </li>
-                                <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg" alt="">
-                                </li>
-                            </ol>
+<section>
+  <div class="customer-feedback">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-sm-offset-2 col-sm-8">
+          <div>
+            <h2 class="section-title">What Clients Say</h2>
+          </div>
+        </div><!-- /End col -->
+      </div><!-- /End row -->
 
-                            <!-- Carousel Slides / Quotes -->
-                            <div class="carousel-inner text-center">
+      <div class="row">
+        <div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+          <div class="owl-carousel feedback-slider">
 
-                                <!-- Quote 1 -->
-                                <div class="item active">
-                                    <blockquote>
-                                        <div class="row">
-                                            <div class="col-sm-8 col-sm-offset-2">
+            <!-- slider item -->
+            <div class="feedback-slider-item">
+              <img src="//c2.staticflickr.com/8/7310/buddyicons/24846422@N06_r.jpg" class="center-block img-circle" alt="Customer Feedback">
+              <h3 class="customer-name">Lisa Redfern</h3>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
+              <span class="light-bg customer-rating" data-rating="5">
+                5
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+            <!-- /slider item -->
 
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
-                                                <small>Someone famous</small>
-                                            </div>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                                <!-- Quote 2 -->
-                                <div class="item">
-                                    <blockquote>
-                                        <div class="row">
-                                            <div class="col-sm-8 col-sm-offset-2">
+            <!-- slider item -->
+            <div class="feedback-slider-item">
+              <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" class="center-block img-circle" alt="Customer Feedback">
+              <h3 class="customer-name">Cassi</h3>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
+              <span class="light-bg customer-rating" data-rating="4">
+                4
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+            <!-- /slider item -->
 
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                                <small>Someone famous</small>
-                                            </div>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                                <!-- Quote 3 -->
-                                <div class="item">
-                                    <blockquote>
-                                        <div class="row">
-                                            <div class="col-sm-8 col-sm-offset-2">
+            <!-- slider item -->
+            <div class="feedback-slider-item">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" class="center-block img-circle" alt="Customer Feedback">
+              <h3 class="customer-name">Md Nahidul</h3>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable its layout.</p>
+              <span class="light-bg customer-rating" data-rating="5">
+                5
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+            <!-- /slider item -->
+            
+          </div><!-- /End feedback-slider -->
 
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                <small>Someone famous</small>
-                                            </div>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
+          <!-- side thumbnail -->
+          <div class="feedback-slider-thumb hidden-xs">
+            <div class="thumb-prev">
+              <span>
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/451270/profile/profile-80.jpg" alt="Customer Feedback">
+              </span>
+              <span class="light-bg customer-rating">
+                5
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
 
-                            <!-- Carousel Buttons Next/Prev -->
-                            <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
-                            <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-</div>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+            <div class="thumb-next">
+              <span>
+                <img src="https://res.cloudinary.com/hnmqik4yn/image/upload/c_fill,fl_force_strip,h_128,q_100,w_128/v1493982718/ah57hnfnwxkmsciwivve.jpg" alt="Customer Feedback">
+              </span>
+              <span class="light-bg customer-rating">
+                4
+                <i class="fa fa-star"></i>
+              </span>
+            </div>
+          </div>
+          <!-- /side thumbnail -->
+
+        </div><!-- /End col -->
+      </div><!-- /End row -->
+    </div><!-- /End container -->
+  </div><!-- /End customer-feedback -->
+</section>
+>
 
 </body>
 </html>
