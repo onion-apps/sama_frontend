@@ -99,7 +99,7 @@
     </div><!-- /End container -->
   </div><!-- /End customer-feedback -->
 </section>
->
+<script src="js/slider.js "></script>
 
 </body>
 </html>

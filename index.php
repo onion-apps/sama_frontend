@@ -317,6 +317,7 @@
 <script src="js/jquery.min.js "></script>
 <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
 <script src="js/owl.carousel.min.js "></script>
+<script src="js/slider.js "></script>
 
 <script src="js/main.js "></script>
 <script src="js/counter.js "></script>
