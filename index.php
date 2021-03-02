@@ -16,8 +16,6 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
       <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
-      <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
-<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet" />
       <link href="css/style.css" rel="stylesheet" />
       <link href="css/slider.css" rel="stylesheet" />
       <link
@@ -252,7 +250,6 @@
          </div>
       </div>
 
-        <div class="slider2">
         <div class="container">
     <div id="demo" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -345,7 +342,6 @@
 <script src="js/jquery.min.js "></script>
 <script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
 <script src="js/owl.carousel.min.js "></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 <script src="js/main.js "></script>
 <script src="js/counter.js "></script>
