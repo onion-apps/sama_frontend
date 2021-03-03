@@ -27,6 +27,9 @@ body {
   width: 100%;
   height: auto;
   font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  background: #fff;
 }
 .testim {
   width: 100%;
@@ -48,7 +51,7 @@ body {
 
 .testim .arrow {
     display: block;
-    
+
     position: absolute;
     color: #eee;
     cursor: pointer;
