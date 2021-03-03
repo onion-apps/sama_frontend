@@ -48,7 +48,7 @@
                                 <a href="contactus.php" class="nav-link">Contact Us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="https://samagrowthinvest.wixsite.com/minside" class="nav-link">Know More</a>
+                                <a href="loancalc.php" class="nav-link">Loan Calculator</a>
                             </li>
                         </ul>
                     </div>
@@ -63,17 +63,17 @@
                   <div class="wrapper-content bg-white">
                       <div class="section-scroll pinside60" id="section-about">
                           <h1>Loan Application</h1>
-                          <p class="lead">Sama Investment gives you access to short-term borrowing  of loans to people who need access to credit instantly. We give you payday loans online in real-time. As a our customer you can expect to have your funds in your bank account within just a few minutes of your loan online application.</p>
+                          <p class="lead">Sama Investment gives you access to short-term borrowing  of loans to people who need credit instantly. We give you payday loans online in real-time. As a our customer you can expect to have your funds in your bank account within just a few minutes of your loan online application.</p>
                           <div class="row">
                               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                  <p class="lead">To be able to borrow for Sama Investment, one needs to own an android smartphone, be at least 18 years with a valid national ID and also be a registered Safaricom subscriber in order for funds to be deposited in your account </p>
+                                  <p class="lead">To be able to borrow for Sama Investment, one needs to own an Android Smartphone, be at least 18 years with a valid national ID and also be a registered Safaricom subscriber in order for funds to be deposited in your account </p>
                               </div>
                               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                  <p class="lead">Sama loans are designed to offer people short term credit to get them through an emergency or unexpected expense.An instant loan online offers a valuable service to people who do not have an alternative, such as having savings or availability on a credit card.</p>
+                                  <p class="lead">Sama loans are designed to offer people short term credit to get them through an emergency or unexpected expense.Instant online loans offers a valuable service to people who do not have an alternative, such as having savings or availability on a credit card.</p>
                               </div>
                           </div>
                           <hr>
-                          <p class="lead">Unlimited Loans at 3.4% intrest </p>
+                          <p class="lead">Unlimited Loans at 4% intrest </p>
                           <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply for loan</a>
                       </div>
                      
@@ -125,31 +125,44 @@
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title mb60">
-                                            <h2>Why take a loan?</h2>
-                                            <p class="lead">We take loans for various financial reasons each no more important than the last. Whether it's a personal loan, Vacation loan or Education Loan Here at Sama we are with you every step of the way. </p>
+                                            <h2>Our Loan Categories</h2>
+                                            <p class="lead">We have classified the SAMA lending system  into 5 different categories - Regular, Bronze, Silver, Gold, and Diamond. The category you belong to will show on your dashboard. </p>
+                                            <p class="lead">We use a tiered pattern to upgrade you to the next Level.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3> Car Loan</h3>
                                             <p class="lead">Whether you choose a new or used car, a loan from Sama Investments can help spread the cost of your purchase. Our loans are available to finance the cost of any car up to the amount you need. Become a member Today</p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Education Loan</h3>
                                             <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Personal loan</h3>
                                             <p class="lead">To finance your personal projects we offerfast personal loan adjusted to your profile with ease and speed. </p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="feature-blurb mb60">
+                                            <h3>Education Loan</h3>
+                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="feature-blurb mb60">
+                                            <h3>Education Loan</h3>
+                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Investment loans</h3>
                                             <p class="lead">This loan is intended for every professional aiming to accelerate the growth of his project through a financial strategy and tolerance of reimbursement.</p>
@@ -173,7 +186,7 @@
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                     <h1 class="text-white mb-4">Get financing for your needs</h1>
-                                    <a href="contactus.php" class="btn btn-secondary">Enquire Now</a>
+                                    <a href="http://samacustomer.herokuapp.com/login" class="nav-link">Repay your Loan </a>
                                 </div>
                             </div>
                         </div>
