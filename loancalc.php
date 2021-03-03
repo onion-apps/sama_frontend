@@ -86,8 +86,8 @@
                             </div>
                             <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
                         </form>
-                    </div>
-                </div>-->
+                    </div>-->
+                </div>
                 <br>
                 <h5 class="total">Total to Paid</h5>
 
