@@ -134,40 +134,36 @@
                                 <div class="row">
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                            <h3> Car Loan</h3>
-                                            <p class="lead">Whether you choose a new or used car, a loan from Sama Investments can help spread the cost of your purchase. Our loans are available to finance the cost of any car up to the amount you need. Become a member Today</p>
+                                            <h3> Regular Member</h3>
+                                            <p class="lead">When you start borrowing at SAMA, we refer to you as a regular customer. A regular customer can borrow between KES 1000 up to KES 4,000 depending on the customer's level in this category. </p>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                            <h3>Education Loan</h3>
-                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                            <h3>Bronze Member</h3>
+                                            <p class="lead">Bronze is the next category you advance to after Regular. A Bronze customer can borrow up to a maximum of KES 4,000 depending on the customer's level in this category.</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                            <h3>Personal loan</h3>
-                                            <p class="lead">To finance your personal projects we offerfast personal loan adjusted to your profile with ease and speed. </p>
+                                            <h3>Silver Member</h3>
+                                            <p class="lead">Silver is the next category you advance to after Bronze. A Silver customer can borrow up to a maximum of KES 40,000 depending on the customer's level in this category. </p>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                            <h3>Education Loan</h3>
-                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                            <h3>Gold Member</h3>
+                                            <p class="lead">Gold is the next category you advance to after Silver. A Gold customer can borrow up to a maximum of KES 60,000 depending on the customer's level in this category. To reach this stage, you must have borrowed through the previous stages without defaulting. A gold customer will be rewarded with 2% interest waiver on early repayment. 
+</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                            <h3>Education Loan</h3>
-                                            <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
+                                            <h3>Diamond Member</h3>
+                                            <p class="lead">Diamond is the highest category that you can advance to in the system. A Diamond customer can borrow up to a maximum of KES 100,000 depending on the customer's level in this category. To reach this stage, you must have borrowed through the previous stages without defaulting. As a gold customer, you will be rewarded with 2% interest waiver on early repayment. </p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-                                        <div class="feature-blurb mb60">
-                                            <h3>Investment loans</h3>
-                                            <p class="lead">This loan is intended for every professional aiming to accelerate the growth of his project through a financial strategy and tolerance of reimbursement.</p>
-                                        </div>
-                                    </div>
+                                   
                                 </div>
                             </div>
                         </div>
