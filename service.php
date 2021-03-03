@@ -134,6 +134,8 @@
                                 <div class="row">
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
+                                        <div class="icon mb20"><i class="icon-dollar-bill icon-default icon-2x"></i></div>
+
                                             <h3> Regular Member</h3>
                                             <p class="lead">When you sign up you become a regular customer and can borrow between KES 1000 up to KES 4,000 depending on your level in this category. </p>
                                         </div>
@@ -156,6 +158,8 @@
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
+                                        <div class="icon mb20"><i class="icon-dollar-bill icon-default icon-2x"></i></div>
+
                                             <h3>Gold Member</h3>
                                             <p class="lead">Gold is the next rank above Silver.Gold members can borrow up to a maximum of KES 60,000 depending on the your level in this category. To reach this stage, you must have borrowed through the previous stages without defaulting thus will be rewarded with 2% interest waiver on early repayment. 
 </p>
