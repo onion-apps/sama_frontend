@@ -84,9 +84,10 @@
                                 <label class="form-group">Repayment Period</label>
                                 <input class="form-control" type="text" id="number-of-period" placeholder="months" required>
                             </div>
-                            <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
+                            <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>-->
                         </form>
-                    </div>-->
+                    </div>
+                    
                 </div>
                 <br>
                 <h5 class="total">Total to Paid</h5>
