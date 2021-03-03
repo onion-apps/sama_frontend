@@ -71,13 +71,15 @@
                             <div class="form-group">
                                 <label class="form-group">Amount to borrow</label>
                                 <input class="form-control" type="text" id="principal" placeholder="Amount" required>
+                                <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
+
                             </div>
                             <!--
               <div class="form-group">
                   <label class="form-group">Interest rate</label>
                   <input class="form-control" type="text" id="annual-interest-rate"
                   placeholder="Rate in %">
-              </div>-->
+              </div>
                             <div class="form-group">
                                 <label class="form-group">Repayment Period</label>
                                 <input class="form-control" type="text" id="number-of-period" placeholder="months" required>
@@ -85,7 +87,7 @@
                             <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
                         </form>
                     </div>
-                </div>
+                </div>-->
                 <br>
                 <h5 class="total">Total to Paid</h5>
 
