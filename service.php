@@ -162,7 +162,7 @@
                                             <p class="lead">Studying is already quite demanding, We offer  an opportunity for our members to pay for their studies as well as their Children’s school fees without straining.</p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-6 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                             <h3>Investment loans</h3>
                                             <p class="lead">This loan is intended for every professional aiming to accelerate the growth of his project through a financial strategy and tolerance of reimbursement.</p>
