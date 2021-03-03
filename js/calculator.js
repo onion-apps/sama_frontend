@@ -1,11 +1,13 @@
-function calculate(){
-    var p = 0;
-    var i = 0.04;
-    var n = 3;
-    var CI = 0;
+function calculate() {
+  var interest = 0.04;
+  var principal = 0;
+  var months = 3;
+  var CI = 0;
 
-    p = parseInt(document.getElementById("principal").value);
+  // Fetch values from input elements
+  principal = parseInt(document.getElementById("principal").value);
+  months = parseInt(document.getElementById("number-of-period").value);
 
-    CI = ((p*i*n)+p);
-    document.getElementById("res").innerHTML=CI;
-  }
+  CI = principal * interest * months + principal;
+  document.getElementById("res").innerHTML = CI.toString();
+}
