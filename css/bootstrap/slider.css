@@ -48,6 +48,7 @@ body {
 
 .testim .arrow {
     display: block;
+    
     position: absolute;
     color: #eee;
     cursor: pointer;
