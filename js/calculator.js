@@ -6,7 +6,7 @@ function calculate() {
 
   // Fetch values from input elements
   principal = parseInt(document.getElementById("principal").value);
-  months = parseInt(document.getElementById("number-of-period").value);
+  
 
   CI = principal * interest * months + principal;
   document.getElementById("res").innerHTML = CI.toString();
