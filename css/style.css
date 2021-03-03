@@ -1061,6 +1061,7 @@ icon
 
 .icon-default {
   color: #31AFB4;
+  align-items: center;
 }
 
 .icon-primary {

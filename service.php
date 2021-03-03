@@ -126,8 +126,8 @@
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title mb60">
                                             <h2>Our Loan Categories</h2>
-                                            <p class="lead">We have classified the SAMA lending system  into 5 different categories - Regular, Bronze, Silver, Gold, and Diamond. The category you belong to will show on your dashboard. </p>
-                                            <p class="lead">We use a tiered pattern to upgrade you to the next Level.</p>
+                                            <p class="lead">We have classified the SAMA lending system  into 5 different categories - Regular, Bronze, Silver, Gold, and Diamond.Your category determines the amount you can borrow and the offers you get on your next loan. </p>
+                                            <p class="lead">We use a tiered pattern to upgrade you to the next Level giving you a chance to upgrade your rank upon each loan repsyment .</p>
                                         </div>
                                     </div>
                                 </div>
