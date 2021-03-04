@@ -245,22 +245,22 @@
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-documentation icon-default icon-2x"></i></div>
-                                            <h3>Guarantor</h3>
+                                            <h3>Fast Approval</h3>
                                             <p class="lead">At SAMA you need to be a Silver member and above customer to be a guarantor for a loan .</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-money icon-default icon-2x"></i></div>
-                                            <h3>Direct Lender</h3>
-                                            <p class="lead">At Sama we are the ones who approve and disburse funds to your account.No third party is used. </p>
+                                            <h3>Guarantor</h3>
+                                            <p class="lead">At SAMA you need to be a Silver member and above customer to be a guarantor for a loan .</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-dollar-coins icon-default icon-2x"></i></div>
                                             <h3>Increased Limit</h3>
-                                            <p class="lead">Your Loan limit increase everytime you repay your loan on time allowing you to apply for a larger loan .</p>
+                                            <p class="lead">Your Loan limit increase everytime you repay your loan on time allowing you to apply for a larger loans and rise in rank .</p>
                                         </div>
                                     </div>
                                 </div>
