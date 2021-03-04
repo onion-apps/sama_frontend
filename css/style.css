@@ -196,6 +196,7 @@ p:last-child {
 
 .lead {
   color: #081b3b;
+  position: relative;
   line-height: 30px;
   font-size: 19px;
 }
