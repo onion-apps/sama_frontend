@@ -101,55 +101,66 @@
                                 </form>
                             </div>
                         </div>
-                        <div class="cta-section pinside60 bg-white section-space120">
-                            <div class=" ">
-                                <div class="row">
-                                    <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
-                                        <div class="mb60 text-center section-title">
-                                            <h1>We are here to help you</h1>
-                                            <p class="lead">
-                                                Our mission is to deliver Fast Reliable Services.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                                            <div class="mb40">
-                                                <i class="icon-calendar-3 icon-2x icon-default"></i>
-                                            </div>
-                                            <h2 class="capital-title">Apply For Loan</h2>
-                                            <p class="lead">
-                                                Looking to buy a car or home loan? then apply for loan now.
-                                            </p>
-                                            <a href="http://samacustomer.herokuapp.com/" class="btn-link">Get Appointment</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                                            <div class="mb40">
-                                                <i class="icon-phone-call icon-2x icon-default"></i>
-                                            </div>
-                                            <h2 class="capital-title">Call us at</h2>
-                                            <h1 class="text-big">+254 797 837 351</h1>
-                                            <p class="lead">lnfo@samainvestment.co.ke</p>
-                                            <a href="contactus.php" class="btn-link">Contact us</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-                                        <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                                            <div class="mb40">
-                                                <i class="icon-users icon-2x icon-default"></i>
-                                            </div>
-                                            <h2 class="capital-title">Talk to Advisor</h2>
-                                            <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
-                                            <a href="contactus.php" class="btn-link">Meet The Advisor</a>
-                                        </div>
+                        <div class="section-space80">
+         <div class="container">
+            <div class="row">
+               <div
+                  class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12"
+                  >
+                  <div class="mb60 text-center section-title">
+                     <h1>We are here to help you</h1>
+                     <p class="lead">
+                        Our mission is to deliver reliable, latest news and opinions.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                  <div
+                     class="bg-white bg-boxshadow pinside40 outline text-center mb30"
+                     >
+                     <div class="mb40">
+                        <i class="icon-calendar-3 icon-2x icon-default"></i>
+                     </div>
+                     <h2 class="capital-title">Apply For Loan</h2>
+                     <p class="lead">Looking to get a loan? Sign up now.</p>
+                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Sign Up</a>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                  <div
+                     class="bg-white bg-boxshadow pinside40 outline text-center mb30"
+                     >
+                     <div class="mb40">
+                        <i class="icon-phone-call icon-2x icon-default"></i>
+                     </div>
+                     <h2 class="capital-title">Contact us</h2>
+                     <h1 class="text-big">+254 797 837 351</h1>
+                     <p class="lead">lnfo@samainvestment.co.ke</p>
+                     <a href="contactus.php " class="btn-link">Contact us</a>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                  <div
+                     class="bg-white bg-boxshadow pinside40 outline text-center mb30"
+                     >
+                     <div class="mb40">
+                        <i class="icon-users icon-2x icon-default"></i>
+                     </div>
+                     <h2 class="capital-title">Talk to Advisor</h2>
+                     <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
+                     <a href="lnfo@samainvestment.co.ke " class="btn-link">Meet The Advisor</a>
+                     </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
                         <?php include 'footer.php' ?>
 
 <script src="js/jquery.min.js "></script>
