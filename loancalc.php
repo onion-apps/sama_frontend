@@ -42,10 +42,10 @@
                     <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">Loan-calculator</a>
+                                <a href="contactus.php" class="nav-link">Contact Us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="https://samagrowthinvest.wixsite.com/minside" class="nav-link">Know More</a>
+                                <a href="https://samagrowthinvest.wixsite.com/minside"  class="nav-link">Know More</a>
                             </li>
                         </ul>
                     </div>
@@ -71,30 +71,48 @@
                             <div class="form-group">
                                 <label class="form-group">Amount to borrow</label>
                                 <input class="form-control" type="text" id="principal" placeholder="Amount" required>
-                                <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
-
                             </div>
                             <!--
               <div class="form-group">
                   <label class="form-group">Interest rate</label>
                   <input class="form-control" type="text" id="annual-interest-rate"
                   placeholder="Rate in %">
-              </div>
-                            <div class="form-group">
-                                <label class="form-group">Repayment Period</label>
-                                <input class="form-control" type="text" id="number-of-period" placeholder="months" required>
-                            </div>
-                            <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>-->
+              </div>-->
+
+                            <button class="btn btn-block btn-info" type="button" onclick="calculate()">Calculate</button>
                         </form>
                     </div>
-                    
                 </div>
                 <br>
-                <h5 class="total">Total to Paid</h5>
-
                 <div class="row">
-                    <div class="col-md-12">
-                        <h1 id="res">0</h1>
+                    <div class="col-md-4">
+                        <h5 class="total">Total to Paid</h5>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h1 id="res">0</h1>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h5 class="total">Interest Rate</h5>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h1 id="interest">0</h1>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h5 class="total">Monthly Installment</h5>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h1 id="mi">0</h1>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
