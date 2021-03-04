@@ -61,7 +61,7 @@
                                 <a href="contactus.php" class="nav-link">Contact us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank"class="nav-link">Know More</a>
+                                <a href="Loancalc.php" target="_blank"class="nav-link">Loan-Calculator</a>
                             </li>
                         </ul>
                     </div>
