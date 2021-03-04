@@ -131,6 +131,11 @@
                         <br>
                         <p class="lead">At Sama we help you reach your  financial goal by offering great affordable rates for less interest fees.All our services are fully smartphone-based. We avoid challenges imposed by traditional institutions, while providing our customers access to fast reliable Loans.</p>
                    <p class="lead">Affordable rates just for You.</p>
+                   <a
+                     href="loancalc.php"
+                     class="btn btn-secondary"
+                     >Calculate your rate</a
+                     >
                      </div>
                     <!-- /.section title start-->
                 </div>
