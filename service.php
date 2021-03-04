@@ -230,7 +230,7 @@
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title mb60">
-                                            <h2>Features of a Loaning Company</h2>
+                                            <h2>Our Loans</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -239,14 +239,14 @@
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-dollar-bill icon-default icon-2x"></i></div>
                                             <h3>Instant Cash</h3>
-                                            <p class="lead">Apply in as few as 5 Minutes and get your money deposited to your Smartphone </p>
+                                            <p class="lead">We offer instant cash for loans ranging from Ksh 1,000 to Ksh 100,000 loan limit </p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-icon mb30">
                                             <div class="icon mb20"><i class="icon-documentation icon-default icon-2x"></i></div>
-                                            <h3>Fast Approval</h3>
-                                            <p class="lead">Get your Loan Approved within minutes of application.</p>
+                                            <h3>Guarantor</h3>
+                                            <p class="lead">At SAMA you need to be a Silver member and above customer to be a guarantor for a loan .</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
