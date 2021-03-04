@@ -75,7 +75,7 @@
                                                 <div class="post-img mb30">
                                                     <a href="#" class="imghover"><img src="images/treeblog (1).jpg" alt="Sama investments" class="img-fluid"></a>
                                                 </div>
-                                                <div class="bg-white">
+                                                <div class="bg-white" >
                                                     <h1><a href="#" class="title">Our Tree Project</a></h1>
                                                    
                                                     <p class="lead">

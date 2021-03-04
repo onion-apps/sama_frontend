@@ -92,6 +92,7 @@
                                 </div>
                             </div>
                         </div>
+                      
                         <div class="section-space80 pinside60 bg-primary-light">
                             <div class="row">
                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
@@ -239,11 +240,11 @@
                      class="bg-white bg-boxshadow pinside40 outline text-center mb30"
                      >
                      <div class="mb40">
-                        <i class="icon-calendar-3 icon-2x icon-default"></i>
+                        <i class="icon-coins icon-2x icon-default"></i>
                      </div>
-                     <h2 class="capital-title">Apply For Loan</h2>
-                     <p class="lead">Looking to get a loan? Sign up now.</p>
-                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Sign Up</a>
+                     <h2 class="capital-title">Repay your Loan</h2>
+                     <p class="lead">Repay your Loan to increase your Loan Limit.</p>
+                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Repay</a>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">

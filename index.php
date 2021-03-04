@@ -101,13 +101,13 @@
 <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                    <h1 id="number1" class="number">100</h1>
+                    <h1 id="number1" class="number" style="color:#043469;">100</h1>
                         <div class="small-title">Customers Empowered</div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                    <h1 id="number2" class="number">10000000</h1>
+                    <h1 id="number2" class="number"  style="color:#043469;">10000000</h1>
 
                         <div class="small-title">Borrowed</div>
                     </div>
@@ -257,7 +257,7 @@
       <br>
       <?php include 'testimonial.php' ?>
 
-       <div class="section-space80">
+      <div class="section-space80">
          <div class="container">
             <div class="row">
                <div
@@ -277,11 +277,11 @@
                      class="bg-white bg-boxshadow pinside40 outline text-center mb30"
                      >
                      <div class="mb40">
-                        <i class="icon-calendar-3 icon-2x icon-default"></i>
+                        <i class="icon-coins icon-2x icon-default"></i>
                      </div>
-                     <h2 class="capital-title">Apply For Loan</h2>
-                     <p class="lead">Looking to get a loan? Sign up now.</p>
-                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Sign Up</a>
+                     <h2 class="capital-title">Repay your Loan</h2>
+                     <p class="lead">Repay your Loan to increase your Loan Limit.</p>
+                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Repay</a>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
