@@ -287,6 +287,7 @@ margin space
 
 .mb30 {
   margin-bottom: 30px;
+ 
 }
 
 .mb40 {
@@ -295,6 +296,7 @@ margin space
 
 .mb60 {
   margin-bottom: 60px;
+  text-align: center;
 }
 
 .mb80 {
@@ -421,6 +423,7 @@ Padding space
 
 .pinside60 {
   padding: 60px;
+ align-items: center;
 }
 
 .pinside80 {

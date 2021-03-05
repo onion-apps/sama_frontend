@@ -72,9 +72,9 @@
                                   <p class="lead">Sama loans are designed to offer people short term credit to get them through an emergency or unexpected expense.Instant online loans offers a valuable service to people who do not have an alternative, such as having savings or availability on a credit card.</p>
                               </div>
                           </div>
-                          <hr>
-                          <p class="lead">Unlimited Loans at 4% intrest </p>
+                         <hr>
                           <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply for loan</a>
+                          <p  class="lead">Unlimited Loans at 4% interest </p>
                       </div>
                      
         <div class="section-space100">
@@ -127,14 +127,15 @@
                                         <div class="section-title mb60">
                                             <h2>Our Loan Categories</h2>
                                             <p class="lead">We have classified the SAMA lending system  into 5 different categories - Regular, Bronze, Silver, Gold, and Diamond.Your category determines the amount you can borrow and the offers you get on your next loan. </p>
-                                            <p class="lead">We use a tiered pattern to upgrade you to the next Level giving you a chance to upgrade your rank upon each loan repsyment .</p>
+                                            <p class="lead">We use a tiered pattern to upgrade you to the next Level giving you a chance to upgrade your rank upon each loan repayment .</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                        <div class="icon mb20"><i class="icon-medal icon-default icon-2x"></i></div>
+                                        <div class="icon mb20"><i style="color:#0a0a0a " class="icon-medal icon-default icon-2x"></i></div>
+
 
                                             <h3 style="text-align:center;"> Regular Member</h3>
                                             <p class="lead">When you sign up you become a regular customer and can borrow between KES 1000 up to KES 4,000 depending on your level in this category. </p>
@@ -142,33 +143,33 @@
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                        <div class="icon mb20"><i class="icon-bronze-medal icon-default icon-2x"></i></div>
+                                        <div class="icon mb20"><i  style="color:#bd752f " class="icon-medal icon-default icon-2x"></i></div>
 
-                                            <h3 style="text-align:center;">Bronze Member</h3>
+                                         <h3 style="text-align:center;">Bronze Member</h3>
                                             <p class="lead">Bronze is the next category you advance to after Regular.You can borrow up to a maximum of KES 4,000 depending on the your level in this category.</p>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                        <div class="icon mb20"><i class="icon-silver-medal icon-default icon-2x"></i></div>
+                                        <div class="icon mb20"><i  style="color:#bdbdbb" class="icon-medal icon-default icon-2x"></i></div>
 
-                                            <h3 style="text-align:center;">Silver Member</h3>
+                                         <h3 style="text-align:center;">Silver Member</h3>
                                             <p class="lead">Silver is the rank above Bronze. A Silver customer can borrow up to a maximum of KES 40,000 depending on the your level in this category. </p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
-                                        <div class="icon mb20"><i class="icon-gold-medal icon-default icon-2x"></i></div>
-
+                                        <div class="icon mb20"><i  style="color:#f5d00a " class="icon-medal icon-default icon-2x"></i></div>
+                                        
                                             <h3 style="text-align:center;">Gold Member</h3>
                                             <p class="lead">Gold is the next rank above Silver.Gold members can borrow up to a maximum of KES 60,000 depending on the your level in this category. To reach this stage, you must have borrowed through the previous stages without defaulting thus will be rewarded with 2% interest waiver on early repayment. 
 </p>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                         <div class="feature-blurb mb60">
                                        
-                                            <div class="icon mb20"><i class="icon-diamond-medal icon-default icon-2x"></i></div>
+                                            <div class="icon mb20"><i style="color:#91edff "  class="icon-medal icon-default icon-2x"></i></div>
                                             <h3 style="text-align:center;">Diamond Member</h3>
                                             <p class="lead">Diamond members have the highest rank in the system they can borrow up to KES 100,000 depending on the customer's level in this category.The members have borrowed through the previous stages without defaulting hence will be rewarded with 2% interest waiver on early repayment. </p>
                                         </div>
@@ -226,7 +227,7 @@
                                   </div>
                               </div>
                         <div class="section-scroll" id="section-feature">
-                            <div class="pinside60">
+                            <div style="text-align:center" class="pinside60">
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="section-title mb60">
@@ -266,7 +267,7 @@
                                 </div>
                             </div>
                         </div>
-                      
+                      <hr>
                   <div class="section-space100 bg-gray-shape mt80">
                     <div class="container">
                       <div class="row">
