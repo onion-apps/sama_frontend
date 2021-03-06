@@ -306,7 +306,7 @@
                      </div>
                      <h2 class="capital-title">Talk to Advisor</h2>
                      <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
-                     <a href="lnfo@samainvestment.co.ke " class="btn-link">Meet The Advisor</a>
+                     <a href="lnfo@samainvestment.co.ke" class="btn-link">Meet The Advisor</a>
                      </div>
                                     </div>
                                 </div>
