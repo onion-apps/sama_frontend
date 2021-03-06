@@ -134,10 +134,10 @@
                    <a
                      href="loancalc.php"
                      class="btn btn-secondary"
-                     >Calculate your rate</a
+                     >Repay your Loan</a
                      >
                      </div>
-                    <!-- /.section title start-->
+                
                 </div>
             </div>
         </div>
