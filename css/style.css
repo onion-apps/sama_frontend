@@ -735,8 +735,8 @@ Buttons
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #31AFB4;
-  border-color: #31AFB4;
+  background-color: #CF5C36;
+  border-color: #CF5C36;
 }
 
 .btn-secondary.focus,
@@ -844,7 +844,7 @@ Buttons
 }
 
 .btn-link:hover {
-  color: #31AFB4;
+  color: #f0ae51;
   font-weight: 500;
   padding-bottom: 4px;
   border-bottom: 2px solid #31AFB4;

@@ -9,6 +9,7 @@ function calculate() {
 
   CI = principal * interest * months + principal;
   mi = CI / months;
+  parseFloat(mi).toFixed(3);
 
   document.getElementById("res").innerHTML = CI.toString();
   document.getElementById("mi").innerHTML = mi.toString();
