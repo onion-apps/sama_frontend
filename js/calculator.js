@@ -12,4 +12,6 @@ function calculate() {
   document.getElementById("res").innerHTML = CI.toString();
   document.getElementById("mi").innerHTML = mi.toFixed(2);
   document.getElementById("interest").innerHTML = interest.toString();
+  document.getElementById("months").innerHTML = months.toString();
+
 }

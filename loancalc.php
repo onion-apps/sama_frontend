@@ -85,7 +85,7 @@
                 </div>
                 <br>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <h5 class="total">Total to Paid</h5>
 
                         <div class="row">
@@ -95,7 +95,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <h5 class="total">Interest Rate</h5>
 
                         <div class="row">
@@ -104,8 +104,16 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-3">
+                        <h5 class="total">Repayment Period</h5>
 
-                    <div class="col-md-4">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h1 id="months">0</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
                         <h5 class="total">Monthly Installment</h5>
 
                         <div class="row">
