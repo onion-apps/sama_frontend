@@ -1319,8 +1319,8 @@ index-1
   min-height: 410px;
   border: none;
   padding: 87px 0px;
-  background: linear-gradient( #203b44,  #203b44),
-  #203b44 url(../images/rece.jpg) no-repeat center;
+  background: linear-gradient(rgba(83, 103, 128, 0.8), rgba(83, 103, 128, 0.8)),
+  #3b4420 url(../images/rece.jpg) no-repeat center;
 }
 
 .testimonial-name-1 {
