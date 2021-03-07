@@ -87,7 +87,7 @@
                            Call us or write us an email today. We are here for you.
                         </p>
                         <a
-                           href="contact-us.html"
+                           href="contactus.php"
                            class="btn btn-secondary"
                            >Contact Us</a
                            >
@@ -134,10 +134,10 @@
                    <a
                      href="loancalc.php"
                      class="btn btn-secondary"
-                     >Calculate your rate</a
+                     >Repay your Loan</a
                      >
                      </div>
-                    <!-- /.section title start-->
+                
                 </div>
             </div>
         </div>
@@ -306,7 +306,7 @@
                      </div>
                      <h2 class="capital-title">Talk to Advisor</h2>
                      <p class="lead">Need to loan advise? Talk to our Loan advisors.</p>
-                     <a href="lnfo@samainvestment.co.ke " class="btn-link">Meet The Advisor</a>
+                     <a href="lnfo@samainvestment.co.ke" class="btn-link">Meet The Advisor</a>
                      </div>
                                     </div>
                                 </div>

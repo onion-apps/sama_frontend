@@ -48,7 +48,7 @@
                                 <a href="contactus.php" class="nav-link">Contact Us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="loancalc.php" class="nav-link">Loan Calculator</a>
+                                <a href="loancalc.php" class="nav-link">Loan-Calculator</a>
                             </li>
                         </ul>
                     </div>
@@ -73,7 +73,7 @@
                               </div>
                           </div>
                          <hr>
-                          <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply for loan</a>
+                         <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank" class="btn btn-secondary">Apply for loan</a>
                           <p  class="lead">Unlimited Loans at 4% interest </p>
                       </div>
                      
@@ -317,7 +317,7 @@
                         </div>
                         <div class="col-lg-12 col-md-12 col-12">
                           <div class="mt-3 text-center">
-                            <a href="https://samagrowthinvest.wixsite.com/minside" class="btn btn-secondary">Know More</a>
+                            <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank" class="btn btn-secondary">Know More</a>
                           </div>
                         </div>
                       </div>

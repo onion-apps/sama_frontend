@@ -735,8 +735,8 @@ Buttons
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #31AFB4;
-  border-color: #31AFB4;
+  background-color: #CF5C36;
+  border-color: #CF5C36;
 }
 
 .btn-secondary.focus,
@@ -844,7 +844,7 @@ Buttons
 }
 
 .btn-link:hover {
-  color: #31AFB4;
+  color: #f0ae51;
   font-weight: 500;
   padding-bottom: 4px;
   border-bottom: 2px solid #31AFB4;
@@ -1320,7 +1320,7 @@ index-1
   border: none;
   padding: 87px 0px;
   background: linear-gradient(rgba(83, 103, 128, 0.8), rgba(83, 103, 128, 0.8)),
-    rgba(16, 75, 149, 0.8) url(../images/rece.jpg) no-repeat center;
+  #3b4420 url(../images/rece.jpg) no-repeat center;
 }
 
 .testimonial-name-1 {

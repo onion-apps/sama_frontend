@@ -42,7 +42,7 @@
                     <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="contactus.php" class="nav-link">Contact Us</a>
+                            <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank" class="nav-link">Know More</a>
                             </li>
                             <li class="nav-item">
                                 <a href="loancalc.php" class="nav-link">Loan-Calculator</a>
