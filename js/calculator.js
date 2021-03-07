@@ -3,7 +3,6 @@ function calculate() {
   var principal = 0;
   var months = 3;
   var CI = 0;
-  var mi = num.toFixed(2);
     // Fetch values from input elements
   principal = parseInt(document.getElementById("principal").value);
 
@@ -11,6 +10,6 @@ function calculate() {
   mi = CI / months;
 
   document.getElementById("res").innerHTML = CI.toString();
-  document.getElementById("mi").innerHTML = mi.toString();
+  document.getElementById("mi").innerHTML = mi.toFixed(2);
   document.getElementById("interest").innerHTML = interest.toString();
 }
