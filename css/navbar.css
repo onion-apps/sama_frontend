@@ -304,6 +304,11 @@
   
   .navbar-nav .dropdown-menu .dropdown-item .dropdown-link {
     color: #3c4d6b;
+   }
+
+    li.nav-link > a {
+      border-bottom:1px solid #CF5C36;
+  
   }
   
   /* breakpoints */
@@ -362,6 +367,11 @@
       display: -webkit-box;
       display: flex;
     }
+    
+    li.nav-link > a {
+      border-bottom:1px solid #CF5C36;
+  
+  }
   
     .navbar .nav-justified .nav-item {
       text-align: left;
