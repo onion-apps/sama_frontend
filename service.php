@@ -74,6 +74,7 @@
                           </div>
                          <hr>
                          <a href="https://samagrowthinvest.wixsite.com/minside" target="_blank" class="btn btn-secondary">Apply for loan</a>
+                         <br>
                           <p  class="lead">Unlimited Loans at 4% interest </p>
                       </div>
                      

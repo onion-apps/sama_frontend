@@ -597,9 +597,17 @@ Background & Block color
 .bg-default-light {
   background-color: #ffdced;
 }
-
 .bg-white {
   background-color: #fff;
+}
+.bg-grey {
+  background-color: #D3D3D3;
+}
+.bg-counter {
+  background-color: #CF5C36;
+  padding-top: 10px;
+  padding-bottom: 12px;
+
 }
 
 .outline {
@@ -612,6 +620,11 @@ Background & Block color
   font-weight: 500;
 }
 
+.small-titles {
+  font-size: 14px;
+  color: #043469;
+  font-weight: 500;
+}
 .big-title {
   font-size: 36px;
   font-weight: 600;
@@ -1195,7 +1208,7 @@ top bar
 }
 
 .slider-title {
-  color: #fff;
+  color:#081b3b;
   font-size: 52px;
   font-weight: 700;
   line-height: 62px;
@@ -2239,7 +2252,9 @@ compare Student loan table
   color: #414855;
   font-weight: 600;
 }
-
+.counters{
+  background-color:#CF5C36 ;
+}
 /*---------------------------------------------------
     Card Landing Page
 -----------------------------------------------------*/
@@ -2499,7 +2514,13 @@ Service Page & Block Css
 .icon-svg-1x {
   width: 60px;
 }
+.profile img {
+  width: 95px;
+  height: 85px;
+  border-radius: 50%;
+ 
 
+}
 /*--------------------------------
 Service-img
 ---------------------------------*/
@@ -2531,6 +2552,11 @@ Service-img
 }
 
 .number {
+  font-size: 24px;
+  font-weight: 500;
+}
+.numbers {
+  color: #000000;
   font-size: 24px;
   font-weight: 500;
 }

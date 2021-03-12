@@ -36,20 +36,20 @@
    <?php include 'header.php' ?>
    <div class="slider" id="slider">
          <div class="slider-img">
-            <img src="./images/sliderimg.jpg" alt="Sama Investments" class="" />
+            <img src="./images/slider-2.jpg" alt="Sama Investments" class="" />
             <div class="container">
                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                   <div class="slider-captions">
                      <h1 class="slider-title">
-                        Affordable Digital Loans.
+                        Calculate your rate Today.
                      </h1>
                      <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
                         Create an account and apply. Its free !
                      </p>
                      <a
-                        href="http://samacustomer.herokuapp.com/login"
+                        href="laoncalc.php"
                         class="btn btn-secondary"
-                        >Apply Now</a
+                        >Calculate</a
                         >
                   </div>
                </div>
@@ -57,7 +57,7 @@
          </div>
          <div>
             <div class="slider-img">
-               <img src="./images/slider2.jpg" alt="Sama Investments" class="" />
+               <img src="./images/slider1.jpg" alt="Sama Investments" class="" />
                <div class="container">
                   <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                      <div class="slider-captions">
@@ -97,25 +97,27 @@
             </div>
          </div>
 </div>
-<div class="bg-white section-space80">
+<div class="bg-counter section-space80">
 <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                    <h1 id="number1" class="number" style="color:#043469;">100</h1>
-                        <div class="small-title">Customers Empowered</div>
+                    <i class="icon-4x icon-users text-primary mb-5"></i>
+                    <h1 id="number1" class="numbers" >100</h1>
+                        <div class="small-titles ">Customers Empowered</div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                    <h1 id="number2" class="number"  style="color:#043469;">10000000</h1>
-
-                        <div class="small-title">Borrowed</div>
+                    <i class="icon-4x icon-money text-primary mb-5"></i>
+                    <h1 id="number2" class="numbers">10000000+</h1>
+                        <div class="small-titles ">Borrowed</div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
-                        <div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
-                        <div class="small-title">Customer Rating</div>
+                    <i class="icon-4x icon-dialog text-primary"></i>
+<div class="icon icon-1x icon-primary"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></div>
+                        <div class="small-titles ">Customer Rating</div>
                     </div>
                 </div>
             </div>
@@ -142,7 +144,7 @@
             </div>
         </div>
     </div>
-      <div class="bg-white section-space80">
+      <div class="bg-grey section-space80">
          <div class="container">
             <div class="row">
                <div

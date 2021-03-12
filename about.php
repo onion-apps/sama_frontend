@@ -70,14 +70,17 @@
                                     <p class="lead">
                                     Sama was created to enhance the dignity of all, through provision of financial support. We are on a mission to ensure that families are able to access easy, flexible,affordable  and timely loans from any part of the country. Our presence is found where the potential for our impact is greatest.
 </p>
-                                    <p>
+<br>
+ <p>
                                         "If a thing is worth doing, it's worth doing well” </p>
                                 </div>
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                     <div class="mb60">
                                         <h2 class="mb30">What We Offer?</h2>
                                         <p class="lead ">
-                                        We offer loans with low rates to Kenyans giving them a step towards financial freedom thus improving lives vastly.                                        </p>
+                                        We offer loans with low rates to Kenyans giving them a step towards financial freedom thus improving lives vastly.  
+                                                                              </p>
+                                                                              <br>
                                         <p>
                                             “The truest and noblest gift you can give yourself is personal development.”
                                         </p>

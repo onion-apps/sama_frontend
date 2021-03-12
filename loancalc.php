@@ -39,7 +39,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="sub-nav" id="sub-nav">
+                    <div class="sup-nav" id="sup-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
                                 <a href="contactus.php" class="nav-link">Contact Us</a>
@@ -69,7 +69,7 @@
                     <div class="col-md-12">
                         <form>
                             <div class="form-group">
-                                <label class="form-group">Amount to borrow</label>
+                                <label class="form-group">Amount to borrow <sup>(KES)</sup></label>
                                 <input class="form-control" type="text" id="principal" placeholder="Amount" required>
                             </div>
                             <!--
@@ -84,9 +84,10 @@
                     </div>
                 </div>
                 <br>
+             
                 <div class="row">
                     <div class="col-md-3">
-                        <h5 class="total">Total to Paid</h5>
+                        <h5 class="total">Total to Paid <sup>(KES)</sup></h5>
 
                         <div class="row">
                             <div class="col-md-12">
@@ -105,7 +106,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <h5 class="total">Repayment Period</h5>
+                        <h5 class="total">Repayment Period <sup>(Months)</sup></h5>
 
                         <div class="row">
                             <div class="col-md-12">
@@ -114,7 +115,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <h5 class="total">Monthly Installment</h5>
+                        <h5 class="total">Monthly Installment <sup>(KES)</sup></h5>
 
                         <div class="row">
                             <div class="col-md-12">

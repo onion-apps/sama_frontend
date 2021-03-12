@@ -23,6 +23,6 @@ $.fn.jQuerySimpleCounter = function( options ) {
 
 
 $('#number1').jQuerySimpleCounter({end: 100,duration: 4000});
-$('#number2').jQuerySimpleCounter({end: 10000000,duration:9000});
+$('#number2').jQuerySimpleCounter({end: 1000000,duration:4200});
 
 

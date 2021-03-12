@@ -26,7 +26,7 @@
          <div class="bg-white">
             <nav class="navbar navbar-expand-lg navbar-light bg-white py-lg-3 border-top border-bottom" >
                <div class="container">
-                  <a class="navbar-brand" href="index.html" ><img src="images/logo.png" alt="Sama Investments"/>
+                  <a class="navbar-brand" href="index.php" ><img src="images/logo.png" alt="Sama Investments"/>
                   </a>
                   <button
                      class="navbar-toggler collapsed"

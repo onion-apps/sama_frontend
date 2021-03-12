@@ -39,17 +39,17 @@
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
           <div class="widget-text mt40">
-            <h6>
+            <p>
               We believe that dignified families result to a better village
               and country. Our presence is found where the potential for our
               impact is greatest.
-</h6>
+</p>
             <div class="row">
               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                <h6>
+                <p>
                   <span><i class="icon-placeholder-3 icon-1x"></i> </span
                   >Nairobi, Kenya
-</h6>
+</p>
               </div>
               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                 <p class="call-text">
@@ -120,10 +120,10 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-          <h6>© Copyright <?php echo date('Y')?> | Sama Investment</h6>
+          <p>© Copyright <?php echo date('Y')?> | Sama Investment</p>
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-        <h6>Terms of use | Privacy Policy</h6>
+        <p>Terms of use | Privacy Policy</p>
         </div>
       </div>
     </div>
