@@ -111,6 +111,7 @@
                     <i class="icon-4x icon-money text-primary mb-5"></i>
                     <h1 id="number2" class="numbers">10000000+</h1>
                         <div class="small-titles ">Borrowed</div>
+                        
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
