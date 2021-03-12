@@ -888,10 +888,9 @@ Buttons
 .btn-secondary-link:hover {
   color: #043469;
 }
-
-/*-----------------------------------------
-Input Form
-------------------------------------------*/
+.whytxt{
+  color: #fff;
+}
 
 .control-label {
   text-transform: uppercase;
