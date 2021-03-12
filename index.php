@@ -44,7 +44,7 @@
                         Calculate your rate Today.
                      </h1>
                      <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
-                        Create an account and apply. Its free !
+                       Find your loan rate and apply. Its free !
                      </p>
                      <a
                         href="laoncalc.php"
