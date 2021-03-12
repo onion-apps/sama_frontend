@@ -157,7 +157,7 @@
   .navbar-nav .dropdown-menu .dropdown-item .dropdown-link:hover {
     color:  #B43631;
   }
-  
+
   /* dropdown header */
   
   .dropdown-header {
@@ -306,10 +306,7 @@
     color: #3c4d6b;
    }
 
-    li.nav-link > a {
-      border-bottom:1px solid #CF5C36;
-  
-  }
+ 
   
   /* breakpoints */
   @media (min-width: 991.98px) {
@@ -368,10 +365,7 @@
       display: flex;
     }
     
-    li.nav-link > a {
-      border-bottom:1px solid #CF5C36;
-  
-  }
+ 
   
     .navbar .nav-justified .nav-item {
       text-align: left;

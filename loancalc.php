@@ -23,8 +23,8 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active">Loan calculator</li>
+                            <li><a href="index.php">Home</a></li>
+                            <li class="active">Loan Calculator</li>
                         </ol>
                     </div>
                 </div>
@@ -32,20 +32,20 @@
                     <div class="bg-white pinside30">
                         <div class="row align-items-center">
                             <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
-                                <h1 class="page-title">Loan-calculator</h1>
+                                <h1 class="page-title">Loan Calculator</h1>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                                <div class="btn-action"> <a href="#!" class="btn btn-secondary">Apply</a> </div>
+                                <div class="btn-action"> <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply Now</a> </div>
                             </div>
                         </div>
                     </div>
-                    <div class="sup-nav" id="sup-nav">
+                    <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
-                                <a href="contactus.php" class="nav-link">Contact Us</a>
+                                <a href="contact-us.html" class="nav-link">Contact Us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="https://samagrowthinvest.wixsite.com/minside"  class="nav-link">Know More</a>
+                            <a href="https://samagrowthinvest.wixsite.com/minside" class="nav-link" target="_blank">Know More</a>
                             </li>
                         </ul>
                     </div>
