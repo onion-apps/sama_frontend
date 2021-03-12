@@ -50,7 +50,23 @@
                            <a class="nav-link " href="about.php">About</a>
                         </li>
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="service.php">Services</a>
+                           <a
+                              class="nav-link dropdown-toggle"
+                              href="#!"
+                              id="navbarFeatures"
+                              role="button"
+                              data-toggle="dropdown"
+                              aria-haspopup="true"
+                              aria-expanded="false"
+                              >
+                           Services
+                           </a>
+                           <ul class="dropdown-menu" aria-labelledby="navbarFeatures">
+                              <li>
+                                 <a class="dropdown-item" href="service.php">Our Loans</a>
+                              </li>
+                              <li><a class="dropdown-item" href="loancalc.php">Loan Calculator</a></li>
+                           </ul>
                         </li>
                         <li class="nav-item dropdown">
                            <a
@@ -62,7 +78,7 @@
                               aria-haspopup="true"
                               aria-expanded="false"
                               >
-                           Blog
+                           Projects
                            </a>
                            <ul class="dropdown-menu" aria-labelledby="navbarFeatures">
                               <li>
@@ -76,7 +92,7 @@
                          <a class="nav-link " href="faq.php">FAQs</a>
                         </li>
                         <li class="nav-item dropdown">
-                           <a class="nav-link " href="contactus.php">Contact us</a>
+                           <a class="nav-link " href="contactus.php">Contacts</a>
                         </li>
                        
                       
