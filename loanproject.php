@@ -61,7 +61,7 @@
                                 <a href="contactus.php" class="nav-link">Contact us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="Loancalc.php" target="_blank"class="nav-link">Loan-Calculator</a>
+                                <a href="Loancalc.php" target="_blank"class="nav-link">Loan Calculator</a>
                             </li>
                         </ul>
                     </div>
