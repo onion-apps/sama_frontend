@@ -21,7 +21,8 @@
 <div id="testim-content" class="cont">
     <div class="container slider">
         <div class="active">
-        <h1>  Our Awesome Testimonials</h1>
+            <br>
+        <h1>  Our Clients Testimonials</h1>
         <br>
      <div class="profile"  ><img src="./images/barber.jpg" alt=""></div>
             <br>
@@ -30,7 +31,8 @@
 </p>
         </div>
         <div>
-        <h1 > Our Awesome Testimonials</h1>
+            <br>
+        <h1 > Our Clients Testimonials</h1>
         <br>
             <div class="profile"  ><img src="./images/grace.jpg" alt=""></div>
             <br>
@@ -39,7 +41,8 @@
         </div>
 
         <div>
-        <h1 > Our Awesome Testimonials</h1>
+            <br>
+        <h1 > Our Clients Testimonials</h1>
         <br>
             <div class="profile"  ><img src="./images/sarge.jpg"alt=""></div>
             <br>
@@ -48,7 +51,8 @@
         </div>
        
         <div>
-        <h1 > Our Awesome Testimonials</h1>
+            <br>
+        <h1 > Our Clients Testimonials</h1>
         <br>
             <div class="profile"  ><img src="./images/marg.jpg" alt=""></div>
            <br>
@@ -57,7 +61,8 @@
         </div>
         
         <div>
-        <h1>  Our Awesome Testimonials</h1>
+            <br>
+        <h1>  Our Clients Testimonials</h1>
         <br>
             <div class="profile"  ><img src="./images/baker.jpg"  alt=""></div>
             <br>
@@ -71,7 +76,7 @@
 
 </section>
 
-    <script src="https://use.fontawesome.com/1744f3f671.js"></script>
+    <script src="https://use.fontClients.com/1744f3f671.js"></script>
 
     <script src="js/slider.js "></script>
 

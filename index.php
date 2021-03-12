@@ -102,7 +102,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="text-center">
                     <i class="icon-4x icon-users text-primary mb-5"></i>
-                    <h1 id="number1" class="numbers" >100</h1>
+                    <h1 id="number1" class="numbers" >100+</h1>
                         <div class="small-titles ">Customers Empowered</div>
                     </div>
                 </div>
