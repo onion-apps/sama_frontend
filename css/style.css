@@ -538,11 +538,6 @@ Padding space
   padding-top: 220px;
 }
 
-/*---------------
-Section Space
-* Section space help to create top bottom space. 
-*
------------------*/
 .section-space20 {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -578,9 +573,7 @@ Section Space
   padding-bottom: 140px;
 }
 
-/*-----------------------------------------
-Background & Block color 
-------------------------------------------*/
+
 .bg-light {
   background-color: #fafcfd;
 }
