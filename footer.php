@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col-xl-4 col-lg-4 d-md-none col-sm-12 col-12">
           <div class="footer-logo">
-            <img src="images/ft-logo.png " alt="Sama Investments " />
+            <img src="images/logo.png " alt="Sama Investments " />
           </div>
         </div>
         <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
