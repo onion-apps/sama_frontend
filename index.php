@@ -47,7 +47,7 @@
                        Find your loan rate and apply. Its free !
                      </p>
                      <a
-                        href="laoncalc.php"
+                        href="loancalc.php"
                         class="btn btn-secondary"
                         >Calculate</a
                         >
