@@ -35,7 +35,7 @@
                                 <h1 class="page-title">Loan Calculator</h1>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                                <div class="btn-action"> <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply Now</a> </div>
+                                <div class="btn-action"> <a href="#amount" class="btn btn-secondary">Enter Amount</a> </div>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
     <div class="container">
         <div class="card text-black bg-light mb-9" style="max-width: 200rem;">
 
-            <div class="container">
+            <div  id="amount" class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <h1 id="title">Calculate your loan payments</h1>
