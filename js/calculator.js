@@ -3,10 +3,11 @@ function calculate() {
   var principal = 0;
     var months = 3;
   var CI = 0;
-    // Fetch values from input elements
+
   principal = parseInt(document.getElementById("principal").value);
+
   if(isNaN(principal)){
-    document.write(principal + " is not a number <br/>");
+    document.write( " Enter a correct value");
   }
 
   CI = principal * interest * months + principal;
