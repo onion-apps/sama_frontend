@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,7 +34,7 @@
                                 <h1 class="page-title">Loan-calculator</h1>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                                <div class="btn-action"> <a href="#!" class="btn btn-secondary">Enter Amount</a> </div>
+                                <div id="#enter" class="btn-action"> <a class="btn btn-secondary">Enter Amount</a> </div>
                             </div>
                         </div>
                     </div>
@@ -60,7 +59,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 id="title">Calculate your loan payments</h1>
+                        <h1 id="title" href="#enter">Calculate your loan payments</h1>
                     </div>
                 </div>
                 <br>
