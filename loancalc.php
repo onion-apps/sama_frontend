@@ -54,7 +54,7 @@
         </div>
     </div>
     <br>
-    <div id="amount"  class="container">
+    <div   class="container">
         <div class="card text-black bg-light mb-9" style="max-width: 200rem;">
 
             <div class="container">
@@ -68,7 +68,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <form>
-                            <div class="form-group">
+                            <div id="amount" class="form-group">
                                 <label class="form-group">Amount to borrow <sup>(KES)</sup></label>
                                 <input class="form-control" type="text" id="principal" placeholder="Amount" required>
                             </div>
