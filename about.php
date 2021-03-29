@@ -187,7 +187,7 @@
                                         <div class="testimonial-block mb30">
                                             <div class="bg-white pinside30 mb20">
                                                 <p class="testimonial-text text-center">
-                                                    “I loved the customer service you guys provided me. That was very nice and patient with questions I had. I will definately use your services more”
+                                                    “I loved the customer service you guys provided me. They were very nice and patient with questions I had. I will definately use your services more”
                                                 </p>
                                             </div>
                                             <div class="testimonial-autor-box">
