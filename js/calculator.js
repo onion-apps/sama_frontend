@@ -1,13 +1,13 @@
 function calculate() {
   var interest = 0.04;
   var principal = 0;
-    var months = 3;
+  var months = 3;
   var CI = 0;
 
   principal = parseInt(document.getElementById("principal").value);
 
   if(!isNaN(principal)){
-    console.log( " Enter a correct value");
+    alert("Enter a correct value");
   }else{
     console.log("0");
   }
