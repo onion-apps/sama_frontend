@@ -61,7 +61,7 @@
                <div class="container">
                   <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                      <div class="slider-captions">
-                        <h1 class="slider-title">Repay your loan</h1>
+                        <h1 class="slider-title" style="color:black">Repay your loan</h1>
                         <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
                           Repay your pre-existing loan in order to borrow more
                         </p>
