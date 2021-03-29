@@ -5,13 +5,6 @@ function calculate() {
   var CI = 0;
 
   principal = parseInt(document.getElementById("principal").value);
-
-  if(!isNaN(principal)){
-    alert("Enter a correct value");
-  }else{
-    console.log("0");
-  }
-
   CI = principal * interest * months + principal;
   mi = CI / months;
   document.getElementById("res").innerHTML = CI.toString();

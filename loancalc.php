@@ -70,7 +70,7 @@
                         <form>
                             <div id="amount" class="form-group">
                                 <label class="form-group">Amount to borrow <sup>(KES)</sup></label>
-                                <input class="form-control" type="text" id="principal" placeholder="Amount" required>
+                                <input class="form-control" type="number"" id="principal" placeholder="Amount" required>
                             </div>
                             <!--
               <div class="form-group">
