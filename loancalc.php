@@ -57,8 +57,8 @@
     <div   class="container">
         <div class="card text-black bg-light mb-9" style="max-width: 200rem;">
 
-            <div class="container">
-                <div class="row">
+            <div  class="container">
+                <div id="amount" class="row">
                     <div class="col-md-12">
                         <h1 id="title">Calculate your loan payments</h1>
                     </div>
@@ -68,9 +68,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <form>
-                            <div id="amount" class="form-group">
+                            <div class="form-group">
                                 <label class="form-group">Amount to borrow <sup>(KES)</sup></label>
-                                <input class="form-control" type="number"" id="principal" placeholder="Amount" required>
+                                <input class="form-control" type="number"id="principal" placeholder="Amount" required>
                             </div>
                             <!--
               <div class="form-group">
