@@ -6,11 +6,9 @@ function calculate() {
 
   principal = parseInt(document.getElementById("principal").value);
    
-  if (principal == "") {
+  if(document.getElementById('principal').value === ""){
     alert("Enter Amount");
-    return false;
   }
-
 
   CI = principal * interest * months + principal;
   mi = CI / months;
