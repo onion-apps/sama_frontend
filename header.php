@@ -1,3 +1,8 @@
+
+<div class="preloader">
+    <div class="preloader-ring">SAMA</div>    
+    <div class="preloader-ring">INVESTMENTS</div>
+</div>
 <div class="sticky-top">
          <div class="header-topbar">
             <!-- top-bar -->
