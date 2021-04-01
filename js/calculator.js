@@ -7,7 +7,7 @@ function calculate() {
   principal = parseInt(document.getElementById("principal").value);
    
   if(document.getElementById('principal').value.length == 0){
-    alert("ENTER AMOUNT"); 
+    alert("ENTER AN AMOUNT"); 
  } else if (document.getElementById('principal').value.length == 0) {
    console.log(0);
 }  else {
