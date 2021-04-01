@@ -8,6 +8,8 @@ function calculate() {
    
   if(document.getElementById('principal').value.length == 0){
     text = "Input not valid";
+  } else {
+    text = "0";
   }
 
   CI = principal * interest * months + principal;
