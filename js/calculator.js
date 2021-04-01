@@ -8,7 +8,7 @@ function calculate() {
    
   if(document.getElementById('principal').value.length == 0){
     alert("ENTER AMOUNT"); 
- } else if (document.getElementById('principal').value == 0) {
+ } else if (document.getElementById('principal').value.length == 0) {
    console.log(0);
 } 
  
