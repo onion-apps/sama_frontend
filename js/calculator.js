@@ -11,7 +11,7 @@ function calculate() {
  } else if (document.getElementById('principal').value == 0) {
    console.log(0);
 } 
- }
+ 
   
   
   CI = principal * interest * months + principal;
