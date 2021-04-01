@@ -12,8 +12,8 @@ function calculate() {
    console.log(0);
 }  else {
     CI = principal * interest * months + principal;
+    mi = CI / months;
 } 
-  mi = CI / months;
   document.getElementById("res").innerHTML = CI.toString();
   document.getElementById("mi").innerHTML = mi.toFixed(2);
   document.getElementById("interest").innerHTML = interest.toString();
