@@ -11,10 +11,9 @@ function calculate() {
  } else if (document.getElementById('principal').value.length == 0) {
    console.log(0);
 } 
- 
-  
-  
-  CI = principal * interest * months + principal;
+  } else {
+    CI = "principal * interest * months + principal";
+} 
   mi = CI / months;
   document.getElementById("res").innerHTML = CI.toString();
   document.getElementById("mi").innerHTML = mi.toFixed(2);
