@@ -35,7 +35,7 @@
                                 <h1 class="page-title">Loan Calculator</h1>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                                <div class="btn-action"> <a href="#amount" class="btn btn-secondary">Enter Amount</a> </div>
+                                <div class="btn-action"> <a href="#amount" class="btn btn-secondary">Calculate</a> </div>
                             </div>
                         </div>
                     </div>
