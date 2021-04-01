@@ -7,9 +7,13 @@ function calculate() {
   principal = parseInt(document.getElementById("principal").value);
    
   if(document.getElementById('principal').value.length == 0){
-    alert("ENTER AMOUNT");
-  } 
-
+    alert("ENTER AMOUNT"); 
+ } else if (document.getElementById('principal').value == 0) {
+   console.log(0);
+} 
+ }
+  
+  
   CI = principal * interest * months + principal;
   mi = CI / months;
   document.getElementById("res").innerHTML = CI.toString();
