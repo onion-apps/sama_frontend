@@ -7,10 +7,8 @@ function calculate() {
   principal = parseInt(document.getElementById("principal").value);
    
   if(document.getElementById('principal').value.length == 0){
-    text = "Input not valid";
-  } else {
-    text = "0";
-  }
+    alert("ENTER AMOUNT")
+  } 
 
   CI = principal * interest * months + principal;
   mi = CI / months;
