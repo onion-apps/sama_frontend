@@ -7,7 +7,7 @@
                   <div
                      class="col-xl-4 col-lg-5 col-md-4 col-sm-6 col-6 d-none d-xl-block d-lg-block"
                      >
-                   <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-users"></i> LOGIN</a></span>
+                        <span class="top-text"><a href="info@samainvestment.co.ke"><i class="icon icon-calendar-3"></i> info@samainvestment.co.ke</a></span>
 
                   </div>
                   <div
@@ -15,7 +15,7 @@
                      >
                      <div class="top-nav">
                        <!-- <span class="top-text"><a href="#!">GET STARTED TODAY</a> </span>-->
-                        <span class="top-text"><a href="info@samainvestment.co.ke"><i class="icon icon-calendar-3"></i> info@samainvestment.co.ke</a></span>
+                   <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-users"></i> LOGIN</a></span>
                         <span class="top-text"><a href="#!"><i class="icon icon-phone-call"></i> 0797 837 351</a></span>
                      </div>
                   </div>
