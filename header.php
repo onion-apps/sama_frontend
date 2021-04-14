@@ -7,7 +7,7 @@
                   <div
                      class="col-xl-4 col-lg-5 col-md-4 col-sm-6 col-6 d-none d-xl-block d-lg-block"
                      >
-                   <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-user"></i> LOGIN</a></span>
+                   <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-users"></i> LOGIN</a></span>
 
                   </div>
                   <div
