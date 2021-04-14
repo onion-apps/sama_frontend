@@ -55,10 +55,10 @@
     </div>
     <br>
     <div   class="container">
-        <div class="card text-black bg-light mb-9" style="max-width: 200rem;">
+        <div id="amount" class="card text-black bg-light mb-9" style="max-width: 200rem;">
 
             <div  class="container">
-                <div id="amount" class="row">
+                <div  class="row">
                     <div class="col-md-12">
                         <h1 id="title">Calculate your loan payments</h1>
                     </div>
