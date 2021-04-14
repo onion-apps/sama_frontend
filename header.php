@@ -7,8 +7,8 @@
                   <div
                      class="col-xl-4 col-lg-5 col-md-4 col-sm-6 col-6 d-none d-xl-block d-lg-block"
                      >
-                     <p class="mail-text">
-                        Welcome to Sama Investment
+                     <p  href="http://samacustomer.herokuapp.com/" class="mail-text">
+                       LOGIN
                      </p>
                   </div>
                   <div
