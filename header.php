@@ -67,6 +67,8 @@
                                  <a class="dropdown-item" href="service.php">Our Loans</a>
                               </li>
                               <li><a class="dropdown-item" href="loancalc.php">Loan Calculator</a></li>
+                            <li><a class="dropdown-item" href="http://samacustomer.herokuapp.com/login">Repay your Loan</a></li>
+
                            </ul>
                         </li>
                         <li class="nav-item dropdown">
