@@ -15,8 +15,9 @@
                      >
                      <div class="top-nav">
                        <!-- <span class="top-text"><a href="#!">GET STARTED TODAY</a> </span>-->
-                   <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-users"></i> LOGIN</a></span>
                         <span class="top-text"><a href="#!"><i class="icon icon-phone-call"></i> 0797 837 351</a></span>
+                          <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-users"></i> LOGIN</a></span>
+
                      </div>
                   </div>
                </div>
