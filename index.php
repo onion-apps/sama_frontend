@@ -44,7 +44,7 @@
                         Apply Your Loan Today.
                      </h1>
                      <p class="slider-text d-none d-xl-block d-lg-block d-md-block">
-                       Find your loan rate and apply. Its free !
+                       In need of an urgent loan? Apply Now Its free !
                      </p>
                      <a
                         href="loancalc.php"
