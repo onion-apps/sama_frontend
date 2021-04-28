@@ -47,9 +47,9 @@
                        In need of an urgent loan? Apply Now Its free !
                      </p>
                      <a
-                        href="loancalc.php"
+                        href="http://samacustomer.herokuapp.com/login"
                         class="btn btn-secondary"
-                        >Calculate</a
+                        >Apply Now</a
                         >
                   </div>
                </div>
@@ -63,7 +63,7 @@
                      <div class="slider-captions">
                         <h1 class="slider-title" style="color:#081b3b">Repay your loan</h1>
                         <p class="slider-text d-none d-xl-block d-lg-block d-md-block" style="color:#081b3b">
-                          Repay your pre-existing loan in order to borrow more
+                          Repay your pre-existing loan in order to borrow more.
                         </p>
                         <a
                            href="http://samacustomer.herokuapp.com/login"
@@ -135,7 +135,12 @@
                         <p class="lead">At Sama we help you reach your  financial goal by offering great affordable rates for less interest fees.All our services are fully smartphone-based. We avoid challenges imposed by traditional institutions, while providing our customers access to fast reliable Loans.</p>
                    <p class="lead">Affordable rates just for You.</p>
                    <a
-                     href="loancalc.php"
+                     href="http://samacustomer.herokuapp.com/login"
+                     class="btn btn-secondary"
+                     >Apply your Loan</a
+                     >
+                     <a
+                     href="http://samacustomer.herokuapp.com/login"
                      class="btn btn-secondary"
                      >Repay your Loan</a
                      >
@@ -164,27 +169,27 @@
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                   <div class="bg-white pinside40 number-block mb30 outline">
                      <div class="circle"><span class="number">1</span></div>
-                     <h3>Sign Up</h3>
+                     <h3 class='btn btn-link' href='http://samacustomer.herokuapp.com/login'>SIGN UP</h3>
                      <p class="lead">
-                     Sign up directly in our website, and fill out your personal information to apply for your first loan.
+                     Sign up directly in our website, and fill out your personal information to apply for your first loan.It's fast and Free.
                      </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                   <div class="bg-white pinside40 number-block mb30 outline">
                      <div class="circle"><span class="number">2</span></div>
-                     <h3>Apply for your Loan</h3>
+                     <h3 class='btn btn-link' href='http://samacustomer.herokuapp.com/login'>APPLY</h3>
                      <p class="lead">
-                     Borrow thousands of kenyan shillings with no security required within minutes and directly on your phone.
+                     Borrow thousands of kenyan shillings with no security required within minutes from the comfort of your smartphone.
                      </p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                   <div class="bg-white pinside40 number-block mb30 outline">
                      <div class="circle"><span class="number">3</span></div>
-                     <h3>Get Your Cash</h3>
+                     <h3 class='btn btn-link' href='http://samacustomer.herokuapp.com/login'>GET CASH</h3>
                      <p class="lead">
-                     Once approved, congratulations! You’ve been approved for your first Sama loan. Money will be directly deposited in your account
+                     Been approved, congratulations! Your first Sama loan will be directly deposited in your account within minutes.
                      </p>
                   </div>
                </div>
@@ -194,9 +199,14 @@
                   class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center mt30"
                   >
                   <a
-                     href="loancalc.php"
+                     href="http://samacustomer.herokuapp.com/login"
                      class="btn btn-secondary"
-                     >Calculate your rate</a
+                     >Apply your Loan</a
+                     >
+                     <a
+                     href="http://samacustomer.herokuapp.com/login"
+                     class="btn btn-secondary"
+                     >Repay your Loan</a
                      >
                </div>
             </div>
