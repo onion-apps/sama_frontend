@@ -1,3 +1,9 @@
+<?php
+
+define("BACKEND_URL", "http://samacustomer.herokuapp.com");
+
+?>
+
 
 <div class="sticky-top">
          <div class="header-topbar">
@@ -7,7 +13,7 @@
                   <div
                      class="col-xl-4 col-lg-5 col-md-4 col-sm-6 col-6 d-none d-xl-block d-lg-block"
                      >
-                        <span class="top-text"><a href="info@samainvestment.co.ke"><i class="icon icon-calendar-3"></i> info@samainvestment.co.ke</a></span>
+                        <span class="top-text"><a href="mailto:info@samainvestment.co.ke"><i class="icon icon-compose"></i> info@samainvestment.co.ke</a></span>
 
                   </div>
                   <div
@@ -15,8 +21,8 @@
                      >
                      <div class="top-nav">
                        <!-- <span class="top-text"><a href="#!">GET STARTED TODAY</a> </span>-->
-                        <span class="top-text"><a href="#!"><i class="icon icon-phone-call"></i> 0797 837 351</a></span>
-                          <span class="top-text"><a href="http://samacustomer.herokuapp.com/"><i class="icon icon-users"></i> LOGIN</a></span>
+                        <span class="top-text"><a href="tel:254797837351"><i class="icon icon-phone-call"></i> 0797 837 351</a></span>
+                          <span class="top-text"><a target="_blank" href="<?php echo BACKEND_URL ?>"><i class="icon icon-users"></i> LOGIN</a></span>
 
                      </div>
                   </div>
@@ -50,6 +56,9 @@
                         <li class="nav-item dropdown">
                            <a class="nav-link " href="about.php">About</a>
                         </li>
+                        <li class="nav-item ">
+                           <a class="nav-link " href="service.php">Tiers</a>
+                        </li>
                         <li class="nav-item dropdown">
                            <a
                               class="nav-link dropdown-toggle"
@@ -60,15 +69,11 @@
                               aria-haspopup="true"
                               aria-expanded="false"
                               >
-                           Services
+                           Tools
                            </a>
                            <ul class="dropdown-menu" aria-labelledby="navbarFeatures">
-                              <li>
-                                 <a class="dropdown-item" href="service.php">Our Loans</a>
-                              </li>
                               <li><a class="dropdown-item" href="loancalc.php">Loan Calculator</a></li>
-                            <li><a class="dropdown-item" href="http://samacustomer.herokuapp.com/login">Repay your Loan</a></li>
-
+                           
                            </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -101,7 +106,7 @@
                       
                      </ul>
                
-                     <a href="http://samacustomer.herokuapp.com/" class="btn sama-cta-btn btn-sm ml-5">Apply for a Loan Now</a>
+                     <a target="_blank" href="<?php echo BACKEND_URL ?>/register" class="btn sama-cta-btn btn-sm ml-5">Start Borrowing</a>
    
                     
                   </div>
@@ -113,5 +118,5 @@
 
           
          </div>
-         <div class="sharethis-sticky-share-buttons"></div>
+         <!--<div class="sharethis-sticky-share-buttons"></div>-->
       </div>

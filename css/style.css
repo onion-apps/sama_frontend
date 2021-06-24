@@ -1327,8 +1327,7 @@ index-1
   min-height: 410px;
   border: none;
   padding: 87px 0px;
-  background: linear-gradient(rgba(83, 103, 128, 0.8), rgba(83, 103, 128, 0.8)),
-  rgba(59,107,124,1) url(../images/bg.jpg) no-repeat center;
+  background: #31AFB4;
 
 }
 
@@ -1654,11 +1653,17 @@ index-1
   margin-bottom: 20px;
 }
 
+.steps-icon
+{
+  height: 40px;
+  width: 40px;
+}
+
 .counter {
   display: inline-block;
   font-size: 46px;
   border-radius: 50%;
-  color: #fff;
+  color: #3c4d6b;
   font-weight: 600;
   margin-bottom: 20px;
 }
@@ -2510,8 +2515,8 @@ Service Page & Block Css
   width: 60px;
 }
 .profile img {
-  width: 95px;
-  height: 85px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
  
 

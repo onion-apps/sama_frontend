@@ -9,7 +9,7 @@
         <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
           <div class="row">
             <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12">
-              <h3 class="newsletter-title">Signup For Our Newsletter</h3>
+              <h3 class="newsletter-title">SIGN UP  For Our Newsletter</h3>
             </div>
             <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
               <div class="newsletter-form">
@@ -40,9 +40,9 @@
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
           <div class="widget-text mt40">
             <p>
-              We believe that dignified families result to a better village
+             <!-- We believe that dignified families result to a better village
               and country. Our presence is found where the potential for our
-              impact is greatest.
+              impact is greatest.-->
 </p>
             <div class="row">
               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
@@ -53,7 +53,7 @@
               </div>
               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                 <p class="call-text">
-                  <span><i class="icon-phone-call icon-1x"></i></span>+254 797 837 351
+                  <span><i class="icon-phone-call icon-1x"></i></span><a href="tel:254797837351">+254 797 837 351</a>
                 </p>
               </div>
             </div>
@@ -75,13 +75,13 @@
           <div class="widget-footer mt40">
             <ul class="listnone">
               <li>
-                <a href="http://samacustomer.herokuapp.com/login"
-                  >Appy for a Loan</a
+                <a href="<?php echo BACKEND_URL ?>"
+                  >Start Borrowing</a
                 >
               </li>
               <li>
-                <a href="http://samacustomer.herokuapp.com/login"
-                  >Repay my loan</a
+                <a href="<?php echo BACKEND_URL ?>"
+                  >Repay your loan</a
                 >
               </li>
               <li>
@@ -89,17 +89,7 @@
                   >Get Help</a
                 >
               </li>
-              <li>
-                <a href="contactus.php"
-                  >Refer a friend</a
-                >
-              </li>
-              <li>
-                <a href="#"
-                  >Leave a review</a
-                >
-              </li>
-             
+                
             </ul>
           </div>
         </div>
@@ -123,12 +113,18 @@
           <p>© Copyright <?php echo date('Y')?> | Sama Investment</p>
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
-        <p>Terms of use | Privacy Policy</p>
+       <!--<p>Terms of use | Privacy Policy</p>-->
         </div>
       </div>
     </div>
   </div>
   <a href="#0 " class="cd-top" title="Go to top ">Top</a>
+
+<!--<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=603d130c51f70600114ff150&product=sticky-share-buttons" async="async"></script>-->
+<script src="js/jquery.min.js "></script>
+<script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
+<script src="js/main.js "></script>
+<script src="js/back-to-top.js "></script>
 <script type="text/javascript">
     (function () {
         var options = {

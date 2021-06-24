@@ -2,7 +2,7 @@
 $.fn.jQuerySimpleCounter = function( options ) {
     var settings = $.extend({
         start:  50,
-        end:    100,
+        end:    10000000,
         easing: 'swing',
         duration: 600,
         complete: ''
@@ -23,6 +23,6 @@ $.fn.jQuerySimpleCounter = function( options ) {
 
 
 $('#number1').jQuerySimpleCounter({end: 100,duration: 4000});
-$('#number2').jQuerySimpleCounter({end: 1000000,duration:2500});
+$('#number2').jQuerySimpleCounter({end: 10000000,duration:2500});
 
 

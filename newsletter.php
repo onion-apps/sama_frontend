@@ -14,7 +14,7 @@ $msg .= "\r\n\n";
 $mail = @mail($to, $subject, $msg, "From:".$email);  // This command sends the e-mail to the e-mail address contained in the $to variable
 
 if($mail) {
-	header("Location:index.html");	
+	header("Location:index.php");	
 } else {
 	echo 'Message could not be sent!';   //This is the message that will be shown when an error occured: the message was not send
 }

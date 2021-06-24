@@ -40,7 +40,7 @@
                                 <h1 class="page-title">ABOUT US</h1>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                                <div class="btn-action"> <a href="http://samacustomer.herokuapp.com/login" class="btn btn-secondary">Apply Now</a> </div>
+                                <div class="btn-action"> <a href="<?php echo BACKEND_URL ?>/login" class="btn btn-secondary">Apply Now</a> </div>
                             </div>
                         </div>
                     </div>
@@ -247,7 +247,7 @@
                      </div>
                      <h2 class="capital-title">Repay your Loan</h2>
                      <p class="lead">Repay your Loan to increase your Loan Limit.</p>
-                     <a href="http://samacustomer.herokuapp.com/" class="btn-link">Repay</a>
+                     <a href="<?php echo BACKEND_URL ?>" class="btn-link">Repay</a>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
@@ -284,13 +284,6 @@
         </div>
     </div>
     <?php include 'footer.php' ?>
-    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=603d130c51f70600114ff150&product=sticky-share-buttons" async="async"></script>
 
-<script src="js/jquery.min.js "></script>
-<script src="js/bootstrap/js/bootstrap.bundle.min.js "></script>
-<script src="js/owl.carousel.min.js "></script>
-<script src="js/main.js "></script>
-
-<script src="js/back-to-top.js "></script>
 </body>
 </html>
