@@ -57,7 +57,7 @@ define("BACKEND_URL", "http://samacustomer.herokuapp.com");
                            <a class="nav-link " href="about.php">About</a>
                         </li>
                         <li class="nav-item ">
-                           <a class="nav-link " href="service.php">Tiers</a>
+                           <a class="nav-link " href="service.php">Loans</a>
                         </li>
                         <li class="nav-item dropdown">
                            <a
