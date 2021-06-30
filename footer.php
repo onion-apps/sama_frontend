@@ -118,7 +118,7 @@
       </div>
     </div>
   </div>
-  <a href="#0 " class="cd-top" title="Go to top ">Top</a>
+<!--  <a href="#0 " class="cd-top" title="Go to top ">Top</a>-->
 
 <!--<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=603d130c51f70600114ff150&product=sticky-share-buttons" async="async"></script>-->
 <script src="js/jquery.min.js "></script>

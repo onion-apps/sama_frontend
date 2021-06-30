@@ -24,12 +24,12 @@
    <link href="css/slider.css" rel="stylesheet" />
 
    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+   <link rel="manifest" href="/site.webmanifest">
+   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+   <meta name="msapplication-TileColor" content="#da532c">
+   <meta name="theme-color" content="#ffffff">
 
 </head>
 
@@ -96,45 +96,49 @@
                <div class="mb60 text-center section-title">
                   <!-- section title start-->
                   <h1>Why People Choose Us</h1>
-                  <p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue
-                     lobortis faucibus.</p>
+                  <!--<p>Suspendisse aliquet varius nunc atcibus lacus sit amet coed portaeri sque mami luctus viveed congue
+                     lobortis faucibus.</p>-->
                </div>
                <!-- /.section title start-->
             </div>
          </div>
          <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-               <div class="bg-white bg-boxshadow">
+               
                   <div class="row">
-                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
-                        <div class="bg-white pinside60 number-block outline">
-                           <div class="mb20"><i class="icon-users icon-4x icon-primary"></i></div>
-                           <span class="counter">100</span>
-                           <p>Customers Empowered</p>
-                        </div>
-                     </div>
-                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
-                        <div class="bg-white pinside60 number-block outline">
-                           <div class="mb20"><i class="icon-money  icon-4x icon-primary"></i></div>
-                           <span class="counter">10,000,000</span>
-                           <p>Borrowed</p>
-                        </div>
-                     </div>
-                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 nopadding">
-                        <div class="bg-white pinside60 number-block outline">
-                           <div class="mb20"><i class="icon-dialog  icon-4x icon-primary"></i></div>
-                           <div class="icon icon-1x icon-primary">
-                              <i class="fa fa-star"></i>
-                              <i class="fa fa-star"></i>
-                              <i class="fa fa-star"></i>
-                              <i class="fa fa-star"></i>
-                              <i class="fa fa-star"></i>
+                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                        <div class="text-center">
+                           <div class="icon">
+                              <i class="icon-4x icon-users text-primary mb-5"></i>
+                              <h1 class="big-title mb-0">100+</h1>
+                              <div class="small-title">Customers Empowered</div>
                            </div>
-                           <p>Customer Rating</p>
+                        </div>
+                     </div>
+                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                        <div class="text-center">
+                           <div class="icon">
+                              <i class="icon-4x icon-money text-primary mb-5"></i>
+                              <h1 class="big-title mb-0">
+                                 10,000,000 +</h1>
+                              <div class="small-title">Borrowed</div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                        <div class="text-center">
+                           <div class="icon">
+                              <i class="icon-4x icon-dialog text-primary"></i>
+                              <div class="icon icon-1x big-title mb-0">
+                                 <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i
+                                    class="fa fa-star"></i><i class="fa fa-star"></i>
+                              </div>
+                              <div class="small-title">5-Star Rating</div>
+                           </div>
                         </div>
                      </div>
                   </div>
-               </div>
+             
             </div>
          </div>
       </div>
@@ -150,7 +154,7 @@
             <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12">
                <div class="mb100 text-center section-title">
                   <!-- section title start-->
-                  <h1>Save, Fastest Loan & Grow</h1>
+                  <h1>Loan with us and Grow</h1>
                   <br>
                   <p class="lead">At Sama we help you reach your financial goal by offering great affordable rates for
                      less interest fees.All our services are fully smartphone-based. We avoid challenges imposed by
@@ -171,7 +175,8 @@
                <div class="mb100 text-center section-title">
                   <h1>How does it work?</h1>
                   <p class="lead">
-                  SAMA lets you grow through different tiers based on how fast you are able to pay your loan and how long you have been loaning with us 
+                     SAMA lets you grow through different tiers based on how fast you are able to pay your loan and how
+                     long you have been loaning with us
                   </p>
                </div>
             </div>
@@ -194,7 +199,7 @@
                   <div><img class="steps-icon" src="images/like.svg"></div>
                   <h3 class='btn'>APPLY</h3>
                   <p class="lead">
-                  Borrow thousands of Kenyan shillings within minutes
+                     Borrow thousands of Kenyan shillings within minutes
                   </p>
                </div>
             </div>
@@ -226,7 +231,7 @@
             <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12">
                <div class="mb60 text-center section-title text-white">
                   <h1 class="text-white">Why People Choose Us</h1>
-               
+
                </div>
             </div>
 
@@ -278,7 +283,7 @@
                <div class="mb60 text-center section-title">
                   <h1>We are here to help you</h1>
                   <p class="lead">
-                    <!-- Our mission is to deliver reliable, latest news and opinions.-->
+                     <!-- Our mission is to deliver reliable, latest news and opinions.-->
                   </p>
                </div>
             </div>
@@ -324,7 +329,7 @@
    </div>
    </div>
    <?php include 'footer.php' ?>
-   
+
 
    <script src="js/jquery.min.js "></script>
    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
@@ -343,7 +348,7 @@
 
    <script src="js/back-to-top.js "></script>
 
- 
+
 </body>
 
 </html>
