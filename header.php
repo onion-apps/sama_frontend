@@ -86,13 +86,13 @@ define("BACKEND_URL", "http://samacustomer.herokuapp.com");
                               aria-haspopup="true"
                               aria-expanded="false"
                               >
-                           Projects
+                           Blog
                            </a>
                            <ul class="dropdown-menu" aria-labelledby="navbarFeatures">
                               <li>
                                  <a class="dropdown-item" href="loanproject.php">Loaning project</a>
                               </li>
-                              <li><a class="dropdown-item" href="tree-project.php">Tree Project</a></li>
+                             <!-- <li><a class="dropdown-item" href="tree-project.php">Tree Project</a></li>-->
                            </ul>
                         </li>
                        

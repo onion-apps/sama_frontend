@@ -92,25 +92,12 @@
                                                         SAMA Growth operates an online loaning app, catering to the rising credit requirements of underserved markets through its diversified offerings. We provide flexible accessible low interest loans enabling services to a vast customer based. We have so far been able to provide financial support to over 100,000 individuals and families supporting entrepreneurs and small business owners to invest in their future. SAMA is invested in sustainability and touching the lives of all our clients in a very impactful way. We pride ourselves on how fast we can easily finance your business with zero hassle, less procedures and few paper-works.
                                                         
                                                         Tree Project </p>
-                                                    <a href="http://samacustomer.herokuapp.com/" class="btn-link">Apply Now</a>
+                                                    <a href="<?php echo BACKEND_URL ?>" class="btn-link">Start Borrowing</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <div class="post-holder">
-                                            <div class="post-block mb30 ">
-                                                <div class="post-img mb30">
-                                                    <a href="tree-project.php" class="imghover"><img src="images/treeblog (1).jpg" alt="Sama Investments" class="img-fluid"></a>
-                                                </div>
-                                                <div class="bg-white">
-                                                    <h1><a href="tree-project.php" class="title">Our-Tree project</a></h1>
-                                                    <p class="lead">Our Tree Project is but a mere start to involve the Community in active participation in environmental change and preservation.We want to preserve the environment for th good of the community and generations to come.It starts with one tree.</p>
-                                                    <a href="tree-project.php" class="btn-link">Read More</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                           
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="post-holder">
                                             <div class="post-block mb30">
